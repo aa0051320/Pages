@@ -3,7 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Crescent's Pages
-# description: [A short description of your site's purpose]
-author:
-  name: Crescent Chen
-  email: aa0051320@gmail.com
+description: [A short description of your site's purpose]
