@@ -4,3 +4,6 @@ plugins:
 
 title: Crescent's Pages
 description: [A short description of your site's purpose]
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
