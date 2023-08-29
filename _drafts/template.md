@@ -1,7 +1,5 @@
 ---
-layout: default
+layout: base
 ---
 
 Content
-
-[Home Page](./)
