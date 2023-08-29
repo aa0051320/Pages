@@ -5,6 +5,7 @@ layout: default
 # Index
 
 Content
+[See?](./about.md)
 
 ## License
 
