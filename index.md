@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Content
+Index Content
