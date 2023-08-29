@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: home
 ---
 
 # Index
 
-Content
+Content  
 [See?](./about.md)
 
 ## License
