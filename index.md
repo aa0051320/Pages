@@ -4,4 +4,4 @@ license: The content of this project itself is licensed under the [Creative Comm
 
 Index Content
 
-{{ page.food }}
+{{ page.license }}
