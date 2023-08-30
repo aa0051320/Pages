@@ -6,13 +6,15 @@
 
 <ul>
   {% for collection in site.collections %}
-    <li>{{ collection.label }}
-      <ul>
-        {% for document in collection.docs %}
-          <li><a href="{{ document.url }}">{{ document.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </li>
+    {% unless collection.label == "posts" %}
+      <li>{{ collection.label }}
+        <ul>
+          {% for document in collection.docs %}
+            <li><a href="{{ document.url }}">{{ document.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+    {% endunless %}
   {% endfor %}
 </ul>
 
