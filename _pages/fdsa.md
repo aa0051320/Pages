@@ -2,5 +2,4 @@
 
 ---
 
-Content  
-Cat 2
+Content Cat 2
