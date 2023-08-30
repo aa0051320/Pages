@@ -3,4 +3,3 @@ title: "Crescent's Pages"
 collections:
   pages:
     output: true
-    permalink: /:collection/:path

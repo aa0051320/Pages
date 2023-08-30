@@ -4,10 +4,11 @@
 
 Index Content
 
-  {% for page in site.pages %}
+{% for page in site.pages %}
   <h2>
     <a href="{{ page.url }}">
-      {{ page.path }}
+      {{ page.name }} - {{ page.position }}
     </a>
   </h2>
-  {% endfor %}
+  <p>{{ page.content }}</p>
+{% endfor %}
