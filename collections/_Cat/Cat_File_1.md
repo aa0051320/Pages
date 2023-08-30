@@ -1,6 +1,6 @@
 ---
-layout: base
+
 ---
 
 Content  
-Suck.
+Cat 1
