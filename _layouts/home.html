@@ -7,13 +7,13 @@ layout: base
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {% for book in site.books %}
+  {% for collection in site.my_collection %}
   <h2>
-    <a href="{{ book.url }}">
-      {{ book.name }}
+    <a href="{{ collection.url }}">
+      {{ collection.name }}
     </a>
   </h2>
-  <p>{{ book.content }}</p>
+  <p>{{ collection.content }}</p>
   {% endfor %}
 
   {{ content }}

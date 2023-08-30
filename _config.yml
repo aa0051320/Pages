@@ -61,5 +61,6 @@ defaults:
       layout: "base"
 
 collections:
-  books:
+  my_collection:
     output: true
+    permalink: /:collection/:path
