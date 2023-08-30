@@ -61,6 +61,6 @@ defaults:
       layout: "base"
 
 collections:
-  articles:
+  pages:
     output: true
     permalink: /:collection/:path

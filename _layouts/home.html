@@ -7,10 +7,10 @@ layout: base
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {% for article in site.articles %}
+  {% for page in site.pages %}
   <h2>
-    <a href="{{ article.url }}">
-      {{ article.path }}
+    <a href="{{ page.url }}">
+      {{ page.path }}
     </a>
   </h2>
   {% endfor %}
