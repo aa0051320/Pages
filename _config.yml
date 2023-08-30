@@ -61,5 +61,5 @@ defaults:
       layout: "base"
 
 collections:
-  Cat:
+  books:
     output: true
