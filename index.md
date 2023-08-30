@@ -4,11 +4,10 @@
 
 Index Content
 
-{% for page in site.pages %}
-  <h2>
-    <a href="{{ page.url }}">
-      {{ page.name }}
+<nav>
+  {% for item in site.data.navigation %}
+    <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      {{ item.name }}
     </a>
-  </h2>
-  <p>{{ page.content }}</p>
-{% endfor %}
+  {% endfor %}
+</nav>
