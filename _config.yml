@@ -6,3 +6,7 @@ title: "Crescent's Pages"
 #       path: "" # an empty string here means all files in the project
 #     values:
 #       output: true
+
+collections:
+  pages:
+    output: true
