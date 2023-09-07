@@ -12,4 +12,4 @@ theme: minima
 collections:
   pages:
     output: true
-    permalink: /:categories/:title:output_ext
+    permalink: /:collection/:title
