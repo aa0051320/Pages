@@ -17,5 +17,5 @@ defaults:
 collections:
   pages:
     output: true
-  diablo iv:
+  diablo_iv:
     output: true
