@@ -18,6 +18,7 @@ title: Aspect
 - While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage. x1
 - You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x1
 - You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies. x3
+- You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration. x1
 - Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active. x3
 
 ### Sacred Legendary Aspect
@@ -25,7 +26,6 @@ title: Aspect
 - Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance. x1
 - Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%. x3
 - You gain [0.25 - 0.50%] increased Armor for 4 seconds when you deal any form of damage, stacking up to [15.00 - 30.00%]. x1
-- You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration. x3
 
 ## Chest 4
 
@@ -47,7 +47,7 @@ title: Aspect
 - Thorns damage dealt has a [20 - 40%] chance to deal damage to all enemies around you. x1
 - When hit while not Healthy, a magical bubble is summoned around you for [3 - 5] seconds. While standing in the bubble players are Immune. Can only occur once every 90 seconds. x1
 - While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%]. x1
-- While channeling lncinerate, your Burning damage is increased by x [20 - 40%]. x1
+- While channeling Incinerate, your Burning damage is increased by x [20 - 40%]. x2
 - While enemies are affected by more Damage Over Time than their total Life, you deal x [60 - 80%] increased Burning damage to them. x1
 - While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it. x2
 - While Unstoppable and for 4 seconds after, you gain [10 - 25%] increased Movement Speed and can move freely through enemies. x1
