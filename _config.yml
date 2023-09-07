@@ -17,3 +17,5 @@ defaults:
 collections:
   pages:
     output: true
+  DiabloIV:
+    output: true
