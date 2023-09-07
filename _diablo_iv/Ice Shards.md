@@ -1,5 +1,6 @@
 ---
 title: Ice Shards
+layout: post
 ---
 
 # Diablo IV - Sorcerer - Ice Shards build <!-- omit from toc -->
@@ -30,6 +31,7 @@ title: Ice Shards
 
 # Feature
 - Be able to cast Ice Shards at Maximum Attack Speed
+- All you need to do is keep casting Ice Shards
 - CANNOT defeat The Butcher
 
 # Requirement
