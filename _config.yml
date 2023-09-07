@@ -7,9 +7,6 @@ title: "Crescent's Pages"
 #     values:
 #       output: true
 
-theme: minima
-
 collections:
   pages:
     output: true
-    permalink: /:collection/:title
