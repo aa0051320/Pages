@@ -1,3 +1,7 @@
+---
+title: Ice Shards
+---
+
 # Diablo IV - Sorcerer - Ice Shards build <!-- omit from toc -->
 
 |   Designer    |                 X (Twitter)                 |         Email         |
