@@ -15,7 +15,4 @@ defaults:
       layout: default
 
 collections:
-  pages:
-    output: true
-  DiabloIV:
-    output: true
+  output: true
