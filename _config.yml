@@ -10,4 +10,4 @@ title: "Crescent's Pages"
 collections:
   pages:
     output: true
-    permalink: Pages/:collection/:title
+    permalink: /:categories/:title:output_ext
