@@ -10,7 +10,7 @@
       <li>{{ collection.label }}
         <ul>
           {% for document in collection.docs %}
-            <li><a href="{{ document.url | relative_url }}">{{ document.title }} - {{ document.modified_time }}</a></li>
+            <li><a href="{{ document.url | relative_url }}">{{ document.title }} - {{ document.date }}</a></li>
           {% endfor %}
         </ul>
       </li>
