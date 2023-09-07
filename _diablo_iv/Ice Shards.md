@@ -4,19 +4,19 @@ title: Ice Shards
 
 # Diablo IV - Sorcerer - Ice Shards build <!-- omit from toc -->
 
-|   Designer    |                 X (Twitter)                 |         Email         |
-| :-----------: | :-----------------------------------------: | :-------------------: |
-| Crescent Chen | [@aa0051320](https://twitter.com/aa0051320) | <aa0051320@gmail.com> |
+|   Designer    |                          X (Twitter)                          |         Email         |
+| :-----------: | :-----------------------------------------------------------: | :-------------------: |
+| Crescent Chen | [@aa0051320](https://twitter.com/aa0051320){:target="_blank"} | <aa0051320@gmail.com> |
 
-|                    Game                    | Patch |  Class   | Level  |
-| :----------------------------------------: | :---: | :------: | :----: |
-| [Diablo IV](https://diablo4.blizzard.com/) | 1.1.3 | Sorcerer | 70~100 |
+|                             Game                             | Patch |  Class   | Level  |
+| :----------------------------------------------------------: | :---: | :------: | :----: |
+| [Diablo IV](https://diablo4.blizzard.com/){:target="_blank"} | 1.1.3 | Sorcerer | 70~100 |
 
-| Build Planner | [D4 Builds](https://d4builds.gg/)                                  |
-| ------------: | :----------------------------------------------------------------- |
-| Build Version | v0.9 (2023-08)                                                     |
-|    Build Link | <https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/> |
-|        Status | 🟡 In progress                                                      |
+| Build Planner | [D4 Builds](https://d4builds.gg/){:target="_blank"}                                  |
+| ------------: | :----------------------------------------------------------------------------------- |
+| Build Version | v0.9 (2023-08)                                                                       |
+|    Build Link | <https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/>{:target="_blank"} |
+|        Status | 🟡 In progress                                                                        |
 
 > You can simply click the **Build Link** above to view the lastest detail directly.  
 > If you wonder how I design this build, please read on.
@@ -33,7 +33,7 @@ Build Plan see comment below
 
 ### Comment
 Build Plan: Sorcerer Ice Shards with Attack Speed
-https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/
+<https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/>{:target="_blank"}
 
 ## YouTube
 
@@ -44,7 +44,7 @@ Sorcerer Ice Shards with Attack Speed
 Patch 1.1.3  
 Eternal Realm  
 Mana and Barrier never end  
-Build Plan: https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/  
+Build Plan: <https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/>{:target="_blank"}
 #PS5Share #DiabloIV #Diablo4
 
 ### Tag
