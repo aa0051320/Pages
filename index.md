@@ -10,7 +10,7 @@
       <li>{{ collection.label }}
         <ul>
           {% for document in collection.docs %}
-            <li><a href="{{ document.url | relative_url }}">{{ document.title }}</a></li>
+            <li><a href="{{ document.url | relative_url }}">{{ document.name }}</a></li>
           {% endfor %}
         </ul>
       </li>
