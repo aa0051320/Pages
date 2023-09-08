@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+
 ---
 
 | Content Author | Crescent Chen                                                                |
