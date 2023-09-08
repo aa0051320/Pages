@@ -63,7 +63,7 @@ order:
 | Lucky Hit: ...      |      Yes      |      No      |
 | Mana Regeneration   |      No       |     Yes      |
 | Mana Generation     |      Yes      |      No      |
-| Mana Cost Reduction |      Yes      |      No      | --> |
+| Mana Cost Reduction |      Yes      |      No      | -->
 
 # Gear - Affixes
 1. Attack Speed
