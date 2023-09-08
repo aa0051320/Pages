@@ -3,7 +3,7 @@ title: Eternal Realm | Sorcerer | Ice Shards | Maximum Attack Speed
 order: 
 ---
 
-# Diablo IV - Sorcerer - Ice Shards build <!-- omit from toc -->
+# {{ page.title }} <!-- omit from toc -->
 
 |   Designer    |                          X (Twitter)                          |         Email         |
 | :-----------: | :-----------------------------------------------------------: | :-------------------: |
