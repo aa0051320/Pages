@@ -3,7 +3,8 @@ title: Aspect
 order: 
 ---
 
-# Aspect
+# {{ page.title }}
+
 **For personal Stash counting.**  
 Just leave it alone.
 
