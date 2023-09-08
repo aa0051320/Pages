@@ -16,5 +16,7 @@ defaults:
 collections:
   diablo_iv:
     output: true
+    layout: post
   pages:
     output: true
+    layout: post

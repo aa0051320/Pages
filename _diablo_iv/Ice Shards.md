@@ -40,9 +40,6 @@ title: Ice Shards
 # Design Concept
 - All build on **Ice Shards**.
 - **Barrier** Never End.
-<!-- - Target on against a **Single Boss**.
-  - Not using something that only take effect against multiple targets.
-  - Not using something that take no effect until the Boss Staggered. -->
 
 # Structure
   1. Mana Management
@@ -79,11 +76,11 @@ title: Ice Shards
 9. Core Skill Damage
 10. Cold Damage
 11. Frost Skill Damage
-12. Lightning Damage
-13. Shock Skill Damage
-14. Vulnerable Damage
-15. Damage
-16. Critical Strike Damage
+12. Vulnerable Damage
+13. Damage
+14. Critical Strike Damage
+15. Lightning Damage
+16. Shock Skill Damage
 17. Resource Generation
 18. Mana Cost Reduction
 19. Maximum Mana
