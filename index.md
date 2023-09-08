@@ -1,12 +1,11 @@
 ---
-layout: default
+
 ---
 
 # About
 [About](/about.md)
 
 # Table of Content
-
 <ul>
   {% for collection in site.collections %}
     {% unless collection.label == "posts" %}
