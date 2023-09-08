@@ -17,6 +17,6 @@ collections:
   Pages:
     order: 1
     output: true
-  Diablo IV:
+  Diablo_IV:
     order: 2
     output: true
