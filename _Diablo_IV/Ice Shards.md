@@ -44,7 +44,7 @@ order: 1
   1. Mana
      - Use **Skill-related** Mana Generation
        - **Generation** by Skill
-       - Never run out of mana
+       - Infinite mana
        - Keep up with Attack Speed
      - Get rid of **Time-related** constraints
        - Not wait for **Regeneration**
@@ -57,14 +57,9 @@ order: 1
   5. Extra Damage
 
 # Terms Explain
-
-| Term                | Skill-related | Time-related |
-| :------------------ | :-----------: | :----------: |
-| Lucky Hit Chance    |      Yes      |      No      |
-| Lucky Hit: ...      |      Yes      |      No      |
-| Mana Regeneration   |      No       |     Yes      |
-| Mana Generation     |      Yes      |      No      |
-| Mana Cost Reduction |      Yes      |      No      |
+Mana Regeneration: Time-related. Regenerate by Time.  
+Mana Generation: Skill-related. Generate by Skill.  
+Mana Cost Reduction: Skill-related.
 
 # Gear - Affixes
 1. Attack Speed
