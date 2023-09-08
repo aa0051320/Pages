@@ -1,5 +1,5 @@
 ---
-title: Eternal Realm | Sorcerer | Ice Shards | Maximum Attack Speed
+title: "Eternal Realm | Sorcerer | Ice Shards | Maximum Attack Speed"
 order: 
 ---
 
