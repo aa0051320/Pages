@@ -4,7 +4,7 @@ order:
 ---
 
 # Aspect
-**For personal Stash counting**  
+**For personal Stash counting.**  
 Just leave it alone.
 
 # Chest 3 - Ancestral
