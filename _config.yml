@@ -14,12 +14,9 @@ defaults:
       layout: default
 
 collections:
-  pages:
+  Pages:
     order: 1
     output: true
-  diablo_iv:
+  Diablo_IV:
     order: 2
-    output: true
-  Maybe:
-    order: 3
     output: true
