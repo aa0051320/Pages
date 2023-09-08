@@ -2,6 +2,9 @@
 layout: default
 ---
 
+# About
+[About](/about.md)
+
 # Table of Content
 
 <ul>
