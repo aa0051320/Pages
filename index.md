@@ -4,7 +4,7 @@
 
 # [About](/about.md)
 
-# Table of Content
+# Table of Contents
 <ul>
   {% assign sorted_collections = site.collections | sort: 'order' %}
   {% for collection in sorted_collections %}
