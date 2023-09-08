@@ -1,5 +1,5 @@
 ---
-title: Ice Shards
+title: Eternal Realm | Sorcerer | Ice Shards | Maximum Attack Speed
 order: 
 ---
 
