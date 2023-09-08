@@ -14,9 +14,11 @@ defaults:
       layout: default
 
 collections:
-  diablo_iv:
-    output: true
-    label: "Diablo IV"
   pages:
     output: true
     label: "Pages"
+    order: 1
+  diablo_iv:
+    output: true
+    label: "Diablo IV"
+    order: 2

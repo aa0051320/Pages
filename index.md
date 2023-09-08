@@ -6,7 +6,8 @@
 
 # Table of Content
 <ul>
-  {% for collection in site.collections %}
+  {% assign sorted_collections = site.collections | sort: 'order' %}
+  {% for collection in sorted_collections %}
     {% unless collection.label == "posts" %}
       <li>{{ collection.label }}
         <ul>
