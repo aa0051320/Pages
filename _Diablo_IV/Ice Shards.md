@@ -1,21 +1,23 @@
 ---
 title: "Sorcerer Ice Shards Build"
-order: 
+order: 1
 ---
 
 # {{ page.title }} <!-- omit from toc -->
 
-|   Designer    |                          X (Twitter)                          |         Email         |
-| :-----------: | :-----------------------------------------------------------: | :-------------------: |
-| Crescent Chen | [@aa0051320](https://twitter.com/aa0051320){:target="_blank"} | <aa0051320@gmail.com> |
+|  Designer   | Crescent Chen                                                                |
+| :---------: | :--------------------------------------------------------------------------- |
+|    Email    | <mailto:aa0051320@gmail.com>                                                 |
+| X (Twitter) | [@aa0051320](https://twitter.com/aa0051320){:target="_blank"}                |
+|   YouTube   | <https://www.youtube.com/channel/UCGvANU1XJmT3FVQBt8Ixbog>{:target="_blank"} |
 
 |                             Game                             | Patch |  Class   | Level  |
 | :----------------------------------------------------------: | :---: | :------: | :----: |
-| [Diablo IV](https://diablo4.blizzard.com/){:target="_blank"} | 1.1.3 | Sorcerer | 70~100 |
+| [Diablo IV](https://diablo4.blizzard.com/){:target="_blank"} | 1.1.3 | Sorcerer | 80~100 |
 
 | Build Planner | [D4 Builds](https://d4builds.gg/){:target="_blank"}                                  |
 | ------------: | :----------------------------------------------------------------------------------- |
-| Build Version | v0.9 (2023-08)                                                                       |
+| Build Version | v1.0 (2023-09)                                                                       |
 |    Build Link | <https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/>{:target="_blank"} |
 |        Status | 🟡 In progress                                                                        |
 
@@ -23,37 +25,34 @@ order:
 > If you wonder how I design this build, please read on.
 
 # Table of Contents <!-- omit from toc -->
-- [Feature](#feature)
-- [Requirement](#requirement)
 - [Design Concept](#design-concept)
+- [Requirement](#requirement)
 - [Structure](#structure)
 - [Gear - Affixes](#gear---affixes)
 
-# Feature
-- Be able to cast Ice Shards at Maximum Attack Speed
-- All you need to do is keep casting Ice Shards
-- CANNOT defeat The Butcher
+# Design Concept
+- Integrate a lot of functions into **Ice Shards**.
+  - Chill, Mana, Barrier, Attack Speed, Defensive and so on. All in one.
 
 # Requirement
-- Lucky Hit Chance > 100% (Mana keep up with Attack Speed; Trigger Effects)
-- Critical Strike Chance > 40.00% (Trigger Ball Lightning for extra Damage)
-
-# Design Concept
-- All build on **Ice Shards**.
-- **Barrier** Never End.
+- Lucky Hit Chance >= 100%
+- Critical Strike Chance >= 40.00%
+- Attack Speed Bonus >= 38% ~ 53%
 
 # Structure
-  1. Mana Management
-     - Use **Skill-related** Mana management
-       - Relate to each Skill cast
+  1. Mana
+     - Use **Skill-related** Mana Generation
+       - Mana Generation by Skill
      - Get rid of **Time-related** constraints
-       - Not wait for Passive Regeneration
+       - Not wait for Mana Regeneration (by time)
        - Not wait for Cooldown
-  2. Offensive and Defensive
+  2. Critical Strike
+  3. Attack Speed
+  4. Defensive
      - Integrate into Ice Shards
      - Consume no cost
-  3. Attack Speed
-     - The higher Attack Speed, the higher Offensive and Defensive
+  5. Extra Damage
+
 
 <!-- # Terms Explain
 
@@ -63,7 +62,7 @@ order:
 | Lucky Hit: ...      |      Yes      |      No      |
 | Mana Regeneration   |      No       |     Yes      |
 | Mana Generation     |      Yes      |      No      |
-| Mana Cost Reduction |      Yes      |      No      | -->
+| Mana Cost Reduction |      Yes      |      No      | --> |
 
 # Gear - Affixes
 1. Attack Speed
