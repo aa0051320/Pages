@@ -26,21 +26,40 @@ order: 1
 
 # Table of Contents <!-- omit from toc -->
 - [Design Concept](#design-concept)
-- [Requirement](#requirement)
-- [Structure](#structure)
-- [Terms Explain](#terms-explain)
-- [Gear - Affixes](#gear---affixes)
+  - [Stats Explanation](#stats-explanation)
+- [Skill Concept](#skill-concept)
+- [Gear Concept](#gear-concept)
+  - [Requirement](#requirement)
+  - [Structure](#structure)
+  - [Gear - Affixes](#gear---affixes)
 
 # Design Concept
-- Integrate a lot of functions into **Ice Shards**.
-  - Chill, Mana, Barrier, Attack Speed, Defensive and so on. All in one.
+- Skill > Gear > Paragon
+  - Gear and Paragon are used for enhance Skill
+- Integrate a lot of functions into **Ice Shards**
+  - Chill, Mana, Barrier, Attack Speed, Defensive, etc.
+  - All in one
 
-# Requirement
-- Lucky Hit Chance >= 100%
-- Critical Strike Chance >= 40.00%
-- Attack Speed Bonus >= 38% ~ 53%
+## Stats Explanation
 
-# Structure
+|        Stats        | Explanation                      |
+| :-----------------: | :------------------------------- |
+|  Mana Regeneration  | Time-related, Regenerate by Time |
+|   Mana Generation   | Skill-related, Generate by Skill |
+| Mana Cost Reduction | Skill-related                    |
+
+Only use **Mana Generation**, become it can keep up with Attack Speed.
+
+# Skill Concept
+
+# Gear Concept
+
+## Requirement
+1. Lucky Hit Chance >= 100%
+2. Critical Strike Chance >= 40.00%
+3. Attack Speed Bonus >= 38% ~ 53%
+
+## Structure
   1. Mana
      - Use **Skill-related** Mana Generation
        - **Generation** by Skill
@@ -52,16 +71,9 @@ order: 1
   2. Critical Strike
   3. Attack Speed
   4. Defensive
-     - Integrate into Ice Shards
-     - Consume no cost
   5. Extra Damage
 
-# Terms Explain
-Mana Regeneration: Time-related. Regenerate by Time.  
-Mana Generation: Skill-related. Generate by Skill.  
-Mana Cost Reduction: Skill-related.
-
-# Gear - Affixes
+## Gear - Affixes
 1. Attack Speed
 2. Movement Speed
 3. Lucky Hit Chance
