@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Navigation
+# Table of Content
 
 <ul>
   {% for collection in site.collections %}
@@ -17,6 +17,3 @@ layout: default
     {% endunless %}
   {% endfor %}
 </ul>
-
-# Index Content
-

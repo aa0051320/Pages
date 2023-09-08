@@ -11,7 +11,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       output: true
-      layout: post
+      layout: default
 
 collections:
   diablo_iv:
