@@ -4,10 +4,10 @@ order:
 ---
 
 # Aspect
+**For personal Stash counting**  
+Just leave it alone.
 
-## Chest 3
-
-### Ancestral Legendary Aspect
+# Chest 3 - Ancestral
 - Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds. x1
 - Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%]. x2
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x1
@@ -23,15 +23,13 @@ order:
 - You have 20% increased Crowd Control Duration. While enemies are Unstoppable, you deal [20 - 40%] increased damage to them. x1
 - Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active. x3
 
-### Sacred Legendary Aspect
+# Chest 3 - Sacred
 - Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds. x1
 - Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance. x1
 - Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%. x3
 - You gain [0.25 - 0.50%] increased Armor for 4 seconds when you deal any form of damage, stacking up to [15.00 - 30.00%]. x1
 
-## Chest 4
-
-### Ancestral Legendary Aspect
+# Chest 4 - Ancestral
 - After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds. x2
 - Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by [5 - 10%], up to 30%. x1
 - Ball Lightning orbits around you and deals x [15 - 25%] increased damage. x3
@@ -56,7 +54,7 @@ order:
 - You Heal for [X] Life per second for each Close enemy, up to [X] Life per second. x1
 - Your casts of Charged Bolts have a [15.0 - 25.0%] chance to be attracted to enemies and and last 300% longer. x1
 
-### Sacred Legendary Aspect
+# Chest 4 - Sacred
 - After spending [200 - 100] Mana your next Firewall is free to cast and will destroy incoming Small Missiles. x1
 - Critical Strikes grant [8.0 - 16.0%] Movement Speed for 1 second, up to 6 seconds. x1
 - Distant enemies have a 8% chance to be Stunned for 2 seconds when they hit you. You deal [10 - 20%] increased damage to Stunned enemies. x1
@@ -65,4 +63,3 @@ order:
 - When there are at least 5 Close enemies, Stun them for [2 - 4] seconds. This can only occur once every 20 seconds. x1
 - While you have a Barrier active, there is a [7 - 13%] chance to ignore incoming direct damage from Distant enemies. x1
 - You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%]. x1
-
