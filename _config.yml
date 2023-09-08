@@ -16,5 +16,7 @@ defaults:
 collections:
   diablo_iv:
     output: true
+    label: "Diablo IV"
   pages:
     output: true
+    label: "Pages"

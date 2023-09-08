@@ -1,5 +1,5 @@
 ---
-title: Untitle
+title: Untitled
 ---
 
 No Content
