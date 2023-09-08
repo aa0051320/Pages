@@ -14,7 +14,7 @@ defaults:
       layout: default
 
 collections:
-  Pages:
+  pages:
     order: 1
     output: true
   Diablo_IV:
