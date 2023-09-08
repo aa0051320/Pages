@@ -1,6 +1,5 @@
 ---
 title: Ice Shards
-layout: post
 ---
 
 # Diablo IV - Sorcerer - Ice Shards build <!-- omit from toc -->
