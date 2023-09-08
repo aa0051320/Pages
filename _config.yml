@@ -20,3 +20,6 @@ collections:
   diablo_iv:
     order: 2
     output: true
+  Maybe:
+    order: 3
+    output: true
