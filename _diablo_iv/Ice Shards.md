@@ -1,5 +1,6 @@
 ---
 title: Ice Shards
+order: 1
 ---
 
 # Diablo IV - Sorcerer - Ice Shards build <!-- omit from toc -->
