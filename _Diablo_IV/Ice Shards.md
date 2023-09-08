@@ -28,6 +28,7 @@ order: 1
 - [Design Concept](#design-concept)
 - [Requirement](#requirement)
 - [Structure](#structure)
+- [Terms Explain](#terms-explain)
 - [Gear - Affixes](#gear---affixes)
 
 # Design Concept
@@ -42,9 +43,11 @@ order: 1
 # Structure
   1. Mana
      - Use **Skill-related** Mana Generation
-       - Mana Generation by Skill
+       - **Generation** by Skill
+       - Never run out of mana
+       - Keep up with Attack Speed
      - Get rid of **Time-related** constraints
-       - Not wait for Mana Regeneration (by time)
+       - Not wait for **Regeneration**
        - Not wait for Cooldown
   2. Critical Strike
   3. Attack Speed
@@ -53,8 +56,7 @@ order: 1
      - Consume no cost
   5. Extra Damage
 
-
-<!-- # Terms Explain
+# Terms Explain
 
 | Term                | Skill-related | Time-related |
 | :------------------ | :-----------: | :----------: |
@@ -62,7 +64,7 @@ order: 1
 | Lucky Hit: ...      |      Yes      |      No      |
 | Mana Regeneration   |      No       |     Yes      |
 | Mana Generation     |      Yes      |      No      |
-| Mana Cost Reduction |      Yes      |      No      | --> |
+| Mana Cost Reduction |      Yes      |      No      |
 
 # Gear - Affixes
 1. Attack Speed
