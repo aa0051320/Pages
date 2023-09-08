@@ -15,10 +15,8 @@ defaults:
 
 collections:
   pages:
-    label: "Pages"
     order: 1
     output: true
   diablo_iv:
-    label: "Diablo IV"
     order: 2
     output: true
