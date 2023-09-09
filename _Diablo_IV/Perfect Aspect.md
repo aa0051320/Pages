@@ -1,5 +1,5 @@
 ---
-permalink: /:basename/
+permalink: /:title/
 order: 2
 ---
 
