@@ -12,15 +12,15 @@ Just leave it alone.
 - Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds. x1
 - Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%]. x2
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x1
-- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x6
+- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x7
 - Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x2
 - Skills deal up to [10 - 20%] increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource. x1
-- The Avalanche Key Passive now applies to 1 additional cast. x8
+- The Avalanche Key Passive now applies to 1 additional cast. x9
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
 - While Deep Freeze is active, you restore [20 - 30%] of your Maximum Life and Mana per second. x1
 - While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage. x1
-- You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x1
-- You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies. x1
+- You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x2
+- You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies. x3
 - You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies. x3
 - You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration. x1
 - You have 20% increased Crowd Control Duration. While enemies are Unstoppable, you deal [20 - 40%] increased damage to them. x1
