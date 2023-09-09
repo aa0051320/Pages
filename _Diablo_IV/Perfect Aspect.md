@@ -1,5 +1,5 @@
 ---
-title: Perfect Aspect
+permalink: /:basename/
 order: 2
 ---
 

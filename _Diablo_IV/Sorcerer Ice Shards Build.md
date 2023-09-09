@@ -1,5 +1,5 @@
 ---
-title: "Sorcerer Ice Shards Build"
+permalink: /:basename/
 order: 1
 ---
 
