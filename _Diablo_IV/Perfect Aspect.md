@@ -1,5 +1,4 @@
 ---
-permalink: /:title/
 order: 2
 ---
 

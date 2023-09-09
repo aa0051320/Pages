@@ -12,6 +12,7 @@ defaults:
     values:
       output: true
       layout: default
+      permalink: /:title/
 
 collections:
   Pages:
