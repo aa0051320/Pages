@@ -10,15 +10,15 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      output: true
       layout: default
+      output: true
 
 collections:
   Pages:
-    output: true
     permalink: /:title/
     order: 1
-  Diablo_IV:
     output: true
+  Diablo_IV:
     permalink: /:title/
     order: 2
+    output: true
