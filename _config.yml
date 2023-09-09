@@ -12,12 +12,13 @@ defaults:
     values:
       output: true
       layout: default
-      permalink: /:title/
 
 collections:
   Pages:
+    output: true
+    permalink: /:title/
     order: 1
-    output: true
   Diablo_IV:
-    order: 2
     output: true
+    permalink: /:title/
+    order: 2
