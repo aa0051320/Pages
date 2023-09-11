@@ -40,7 +40,7 @@ Just leave it alone.
 - Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x1
 - Skills deal up to [10 - 20%] increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource. x1
 - The Avalanche Key Passive now applies to 1 additional cast. x10
-- When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x1
+- When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
 - While Deep Freeze is active, you restore [20 - 30%] of your Maximum Life and Mana per second. x1
 - While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage. x1
 - You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x2

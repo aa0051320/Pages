@@ -87,11 +87,9 @@ Only use **Mana Generation**, become it can keep up with Attack Speed.
 12. Vulnerable Damage
 13. Damage
 14. Critical Strike Damage
-15. Lightning Damage
-16. Shock Skill Damage
-17. Lucky Hit: Up to a 5% Chance to Restore [7.0 - 14.0]% Primary
-18. Maximum Mana
-19. Potion Drop Rate
-20. Healing Received
-21. Maximum Life
-22. Potion Capacity
+15. Lucky Hit: Up to a 5% Chance to Restore [7.0 - 14.0]% Primary
+16. Maximum Mana
+17. Potion Drop Rate
+18. Healing Received
+19. Maximum Life
+20. Potion Capacity
