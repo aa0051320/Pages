@@ -1,6 +1,6 @@
 ---
-published: true
-order: 2
+published: false
+order: 
 ---
 
 # {{ page.title }}
