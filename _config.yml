@@ -16,9 +16,9 @@ defaults:
 collections:
   Pages:
     permalink: /:title/
-    order: 1
     output: true
+    order: 1
   Diablo_IV:
     permalink: /:title/
-    order: 2
     output: true
+    order: 2

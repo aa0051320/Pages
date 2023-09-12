@@ -2,6 +2,8 @@
 title: Index
 ---
 
+# {{ page.title }}
+
 # [About](/about.md)
 
 # Table of Contents
