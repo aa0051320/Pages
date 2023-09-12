@@ -71,16 +71,17 @@ Just leave it alone.
 - Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x2
 - Gain [20 - 40] of your Primary Resource for every 25% of your Life that you Heal. x1
 - Gain [25 - 30%] Movement Speed for 3 seconds after Teleporting. x1
+- Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40%]. Double this bonus against Healthy enemies. x1
 - Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it. x2
 - The Vyr's Mastery Key Passive also grants x [6.0 - 9.0%] Damage Reduction for each Close enemy, up to x [18 - 27%]. x1
 - Thorns damage dealt has a [20 - 40%] chance to deal damage to all enemies around you. x1
 - When hit while not Healthy, a magical bubble is summoned around you for [3 - 5] seconds. While standing in the bubble players are Immune. Can only occur once every 90 seconds. x2
-- When there are at least 5 Close enemies, Stun them for [2 - 4] seconds. This can only occur once every 20 seconds. x1
+- When there are at least 5 Close enemies, Stun them for [2 - 4] seconds. This can only occur once every 20 seconds. x2
 - While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%]. x1
 - While channeling Incinerate, your Burning damage is increased by x [20 - 40%]. x1
 - While enemies are affected by more Damage Over Time than their total Life, you deal x [60 - 80%] increased Burning damage to them. x1
 - While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it. x1
-- While Unstoppable and for 4 seconds after, you gain [10 - 25%] increased Movement Speed and can move freely through enemies. x1
+- While Unstoppable and for 4 seconds after, you gain [10 - 25%] increased Movement Speed and can move freely through enemies. x2
 - You Heal for [X] Life per second for each Close enemy, up to [X] Life per second. x1
 - Your casts of Charged Bolts have a [15.0 - 25.0%] chance to be attracted to enemies and and last 300% longer. x1
 
