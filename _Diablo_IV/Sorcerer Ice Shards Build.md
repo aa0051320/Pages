@@ -78,17 +78,17 @@ Only use **Mana Generation**, become it can keep up with Attack Speed.
 2. Movement Speed
 3. Lucky Hit Chance
 4. Lucky Hit Chance while You Have a Barrier
-5. Resource Generation
-6. Critical Strike Chance
-7. Damage to Distant Enemies
-8. Damage to Close Enemies
-9. Core Skill Damage
-10. Cold Damage
-11. Frost Skill Damage
-12. Vulnerable Damage
-13. Damage
-14. Critical Strike Damage
-15. Lucky Hit: Up to a 5% Chance to Restore [7.0 - 14.0]% Primary
+5. Lucky Hit: Up to a 5% Chance to Restore [7.0 - 14.0]% Primary
+6. Resource Generation
+7. Critical Strike Chance
+8. Damage to Distant Enemies
+9. Damage to Close Enemies
+10. Core Skill Damage
+11. Cold Damage
+12. Frost Skill Damage
+13. Vulnerable Damage
+14. Damage
+15. Critical Strike Damage
 16. Maximum Mana
 17. Potion Drop Rate
 18. Healing Received
