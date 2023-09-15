@@ -1,7 +1,7 @@
 ---
 title: Sorcerer Ice Shards Build
-published: true
 order: 1
+published: true
 ---
 
 # {{ page.title }} <!-- omit from toc -->

@@ -1,7 +1,7 @@
 ---
 title: 
-published: true
 order: 
+published: true
 ---
 
 # {{ page.title }}
