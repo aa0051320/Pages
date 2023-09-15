@@ -1,6 +1,6 @@
 ---
 title: "Sorcerer Ice Shards Build"
-slug: 
+slug: "Sorcerer Ice Shards Build"
 order: 1
 published: true
 ---
