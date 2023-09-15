@@ -1,9 +1,11 @@
 ---
 title: "Sorcerer Ice Shards Build"
-slug: {{ page.title }}
+slug: "Sorcerer Ice Shards Build"
 order: 1
 published: true
 ---
+
+# {{ page.slug }}
 
 # {{ page.title }} <!-- omit from toc -->
 
@@ -21,6 +23,7 @@ published: true
 > My design concept is below.
 
 # Table of Contents <!-- omit from toc -->
+- [{{ page.slug }}](#-pageslug-)
 - [Goal](#goal)
 - [Priority](#priority)
 - [Skill](#skill)
