@@ -46,9 +46,7 @@ Based on my research, **Ice Shards** is great for building high DPS.
 - Easy to trigger Lucky Hit or Critical Strike.
 - So that easily get Mana Generation or Effects.
 
-DPS = Damage / Time  
-
-DPS = \frac{Damage}{Time}
+$DPS = \frac{Damage}{Time}$
 
 - Damage
   - Improve damage for per hit.
