@@ -17,4 +17,3 @@ collections:
   Diablo_IV:
     order: 1
     output: true
-    permalink: {{ page.title | slugify }}

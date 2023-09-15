@@ -1,5 +1,6 @@
 ---
 title: "Sorcerer Ice Shards Build"
+permalink: {{ page.title | slugify }}
 order: 1
 published: true
 ---
