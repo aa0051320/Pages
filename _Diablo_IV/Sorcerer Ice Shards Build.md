@@ -1,4 +1,5 @@
 ---
+title: Sorcerer Ice Shards Build
 published: true
 order: 1
 ---
