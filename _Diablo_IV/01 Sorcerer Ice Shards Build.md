@@ -5,7 +5,7 @@ order: 1
 published: true
 ---
 
-# {{ page.slug }}
+Slug: {{ page.slug }}
 
 # {{ page.title }} <!-- omit from toc -->
 
@@ -23,7 +23,6 @@ published: true
 > My design concept is below.
 
 # Table of Contents <!-- omit from toc -->
-- [{{ page.slug }}](#-pageslug-)
 - [Goal](#goal)
 - [Priority](#priority)
 - [Skill](#skill)

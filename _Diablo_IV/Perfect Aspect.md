@@ -1,5 +1,6 @@
 ---
 title: "Perfect Aspect"
+slug: 
 order: 
 published: false
 ---
