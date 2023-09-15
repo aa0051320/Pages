@@ -1,11 +1,10 @@
 ---
-title: "Perfect Aspect"
-slug: 
+slug: "Perfect Aspect"
 order: 
 published: false
 ---
 
-# {{ page.title }}
+# {{ page.slug }}
 
 **For personal Stash counting.**  
 Just leave it alone.

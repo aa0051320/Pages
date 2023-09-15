@@ -1,13 +1,10 @@
 ---
-title: "Sorcerer Ice Shards Build"
 slug: "Sorcerer Ice Shards Build"
 order: 1
 published: true
 ---
 
-Slug: {{ page.slug }}
-
-# {{ page.title }} <!-- omit from toc -->
+# {{ page.slug }} <!-- omit from toc -->
 
 |                             Game                             | Patch |  Class   | Level  |
 | :----------------------------------------------------------: | :---: | :------: | :----: |

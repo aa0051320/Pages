@@ -1,8 +1,8 @@
 ---
-title: Index
+slug: Index
 ---
 
-# {{ page.title }}
+# {{ page.slug }}
 
 # [About](/about.md)
 
