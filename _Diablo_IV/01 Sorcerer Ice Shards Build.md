@@ -24,7 +24,6 @@ published: true
 - [Goal](#goal)
 - [Priority](#priority)
 - [Skill](#skill)
-  - [Stats Explanation](#stats-explanation)
 - [Gear](#gear)
   - [Requirement](#requirement)
   - [Structure](#structure)
@@ -46,26 +45,19 @@ Based on my research, **Ice Shards** is great for building high DPS.
 - Easy to trigger Lucky Hit or Critical Strike.
 - So that easily get Mana Generation or Effects.
 
-$DPS = \frac{Damage}{Time}$
-
+DPS = Damage / Time + Defensive
 - Damage
-  - Improve damage for per hit.
+  - Improve Damage for per hit as much as possible.
+  - Integrate Crowd Control.
 - Time
-  - Get rid of time constraints.
-    - Don't wait for Mana Regeneration.
-    - Don't wait for Cooldown.
-  - Mana Management
-    - When Mana is consumed, it must also be Generated.
-
-## Stats Explanation
-
-|        Stats        | Explanation                      |
-| :-----------------: | :------------------------------- |
-|  Mana Regeneration  | Time-related, Regenerate by Time |
-|   Mana Generation   | Skill-related, Generate by Skill |
-| Mana Cost Reduction | Skill-related                    |
-
-Only use **Mana Generation**, become it can keep up with Attack Speed.
+  - Don't wait for Mana Regeneration.
+  - Don't wait for Cooldown.
+  - Don't cost any time or Mana for Crowd Control.
+  - When consuming Mana, Mana must also be generated simultaneously.
+  - The faster Skill casting, the higher DPS.
+- Defensive
+  - If you die, there is no DPS.
+  - Integrate Passive Defensive.
 
 # Gear
 
