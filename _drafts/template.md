@@ -1,9 +1,10 @@
 ---
+title: 
 slug: 
 order: 
 published: true
 ---
 
-# {{ page.slug }}
+# {{ page.title }}
 
 No Content

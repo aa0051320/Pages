@@ -1,8 +1,8 @@
 ---
-slug: About
+title: About
 ---
 
-# {{ page.slug }}
+# {{ page.title }}
 
 | Content Author | Crescent Chen                                                                |
 | :------------: | :--------------------------------------------------------------------------- |
