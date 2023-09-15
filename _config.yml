@@ -17,4 +17,4 @@ collections:
   Diablo_IV:
     order: 1
     output: true
-    permalink: /:title/
+    permalink: /:slug/
