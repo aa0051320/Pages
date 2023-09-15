@@ -32,7 +32,7 @@ published: true
 
 # Goal
 - Higher DPS (Damage Per Second)
-- Defeat higher and higher Tier Dungeon
+- Defeat higher Tier Dungeon
 
 # Priority
 Skill > Gear > Paragon
@@ -41,9 +41,23 @@ Skill > Gear > Paragon
 3. Paragon has good compatibility and flexibility
 
 # Skill
-Based on my research, **Ice Shards** is great for building high DPS.  
-Ice Shards hits 5 times and calculated separately for each hit.  
-There is more than 5 times chance to trigger Lucky Hit or Critical Strike in 1 cast.  
+Based on my research, **Ice Shards** is great for building high DPS.
+- Ice Shards hits 5 or more times per cast, and each hit calculate separately.
+- Easy to trigger Lucky Hit or Critical Strike.
+- So that easily get Mana Generation or Effects.
+
+DPS = Damage / Time  
+
+DPS = \frac{Damage}{Time}
+
+- Damage
+  - Improve damage for per hit.
+- Time
+  - Get rid of time constraints.
+    - Don't wait for Mana Regeneration.
+    - Don't wait for Cooldown.
+  - Mana Management
+    - When Mana is consumed, it must also be Generated.
 
 ## Stats Explanation
 
