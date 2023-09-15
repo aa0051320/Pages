@@ -1,5 +1,5 @@
 ---
-title: Sorcerer Ice Shards Build
+title: "Sorcerer Ice Shards Build"
 order: 1
 published: true
 ---
