@@ -6,12 +6,6 @@ published: true
 
 # {{ page.title }} <!-- omit from toc -->
 
-|  Designer   | Crescent Chen                                                                |
-| :---------: | :--------------------------------------------------------------------------- |
-|    Email    | <mailto:aa0051320@gmail.com>                                                 |
-| X (Twitter) | [@aa0051320](https://twitter.com/aa0051320){:target="_blank"}                |
-|   YouTube   | <https://www.youtube.com/channel/UCGvANU1XJmT3FVQBt8Ixbog>{:target="_blank"} |
-
 |                             Game                             | Patch |  Class   | Level  |
 | :----------------------------------------------------------: | :---: | :------: | :----: |
 | [Diablo IV](https://diablo4.blizzard.com/){:target="_blank"} | 1.1.3 | Sorcerer | 80~100 |
@@ -22,24 +16,33 @@ published: true
 |    Build Link | <https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/>{:target="_blank"} |
 |        Status | 🟡 In progress                                                                        |
 
-> You can simply click the **Build Link** above to view the lastest detail directly.  
-> If you wonder how I design this build, please read on.
+> Click the **Build Link** above to view the lastest Build Plan directly.  
+> My design concept is below.
 
 # Table of Contents <!-- omit from toc -->
-- [Design Concept](#design-concept)
+- [Goal](#goal)
+- [Priority](#priority)
+- [Skill](#skill)
   - [Stats Explanation](#stats-explanation)
-- [Skill Concept](#skill-concept)
-- [Gear Concept](#gear-concept)
+- [Gear](#gear)
   - [Requirement](#requirement)
   - [Structure](#structure)
   - [Gear - Affixes](#gear---affixes)
 
-# Design Concept
-- Skill > Gear > Paragon
-  - Gear and Paragon are used for enhance Skill
-- Integrate a lot of functions into **Ice Shards**
-  - Chill, Mana, Barrier, Attack Speed, Defensive, etc.
-  - All in one
+# Goal
+- Higher DPS (Damage Per Second)
+- Defeat higher and higher Tier Dungeon
+
+# Priority
+Skill > Gear > Paragon
+1. Skill is the most basic playstyle
+2. Gear is based on playstyle
+3. Paragon has good compatibility and flexibility
+
+# Skill
+Based on my research, **Ice Shards** is great for building high DPS.  
+Ice Shards hits 5 times and calculated separately for each hit.  
+There is more than 5 times chance to trigger Lucky Hit or Critical Strike in 1 cast.  
 
 ## Stats Explanation
 
@@ -51,9 +54,7 @@ published: true
 
 Only use **Mana Generation**, become it can keep up with Attack Speed.
 
-# Skill Concept
-
-# Gear Concept
+# Gear
 
 ## Requirement
 1. Lucky Hit Chance >= 100%

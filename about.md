@@ -12,6 +12,6 @@ title: About
 
 # Pages
 I build this Content-Based Pages just to post my thoughts.  
-I'm not going to learn much about Web Development (HTML, CSS or JavaScript).  
+I'm not plan on learning much about Web Development (HTML, CSS or JavaScript).  
 So this Pages might not look good.  
 Sorry for this.
