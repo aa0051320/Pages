@@ -7,9 +7,6 @@ published: false
 
 # {{ page.title }}
 
-**For personal Stash counting.**  
-Just leave it alone.
-
 # Chest 2 - Ancestral Legendary Aspect
 - Ball Lightning orbits around you and deals x [15 - 25%] increased damage. x1
 - Becoming Injured while Crowd Controlled grants you Unstoppable for 4 seconds. This effect has a [40 - 20] second Cooldown. x1
@@ -46,7 +43,7 @@ Just leave it alone.
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
 - While Deep Freeze is active, you restore [20 - 30%] of your Maximum Life and Mana per second. x1
 - While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage. x1
-- You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x2
+- You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x1
 - You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies. x3
 - You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies. x1
 - You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration. x1
@@ -55,7 +52,6 @@ Just leave it alone.
 
 # Chest 3 - Sacred Legendary Aspect
 - Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds. x1
-- Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance. x1
 - Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%. x1
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x1
 - You gain [0.25 - 0.50%] increased Armor for 4 seconds when you deal any form of damage, stacking up to [15.00 - 30.00%]. x1
@@ -85,6 +81,7 @@ Just leave it alone.
 - While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it. x1
 - While Unstoppable and for 4 seconds after, you gain [10 - 25%] increased Movement Speed and can move freely through enemies. x2
 - You Heal for [X] Life per second for each Close enemy, up to [X] Life per second. x1
+- You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%]. x1
 - Your casts of Charged Bolts have a [15.0 - 25.0%] chance to be attracted to enemies and and last 300% longer. x1
 
 # Chest 4 - Sacred Legendary Aspect
@@ -95,4 +92,3 @@ Just leave it alone.
 - Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill. x1
 - While you have a Barrier active, there is a [7 - 13%] chance to ignore incoming direct damage from Distant enemies. x1
 - You have 8% increased Dodge Chance versus enemies affected by Damage Over Time effects. When you Dodge, you gain [5 - 10] of your Primary Resource. x1
-- You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%]. x1
