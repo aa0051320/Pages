@@ -37,7 +37,7 @@ published: false
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x1
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x1
 - Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy. x1
-- Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x1
+- Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x2
 - Skills deal up to [10 - 20%] increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource. x1
 - The Avalanche Key Passive now applies to 1 additional cast. x10
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
@@ -58,7 +58,7 @@ published: false
 
 # Chest 4 - Ancestral Legendary Aspect
 - After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds. x2
-- Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by [5 - 10%], up to 30%. x1
+- Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by [5 - 10%], up to 30%. x2
 - Ball Lightning orbits around you and deals x [15 - 25%] increased damage. x1
 - Basic Skills grant 20% Damage Reduction for [2.0 - 6.0] seconds. x2
 - Becoming Injured while Crowd Controlled grants you Unstoppable for 4 seconds. This effect has a [40 - 20] second Cooldown. x1
