@@ -97,7 +97,8 @@ DPS = Damage / Time + Defensive
 14. Damage
 15. Critical Strike Damage
 16. Maximum Mana
-17. Potion Drop Rate
-18. Healing Received
-19. Maximum Life
-20. Potion Capacity
+17. Crowd Control Duration
+18. Potion Drop Rate
+19. Healing Received
+20. Maximum Life
+21. Potion Capacity
