@@ -58,7 +58,7 @@ DPS = ( Damage + Defense ) ÷ Time
   - Don't wait for **Cooldown**
   - Don't cost any time or Mana for **Crowd Control**
   - When consuming Mana, Mana must also be **generated simultaneously**
-  - The **faster** Skill casting, the higher DPS
+  - The **faster** Skill casting, the higher the DPS
 
 # Skill
 Active Skills
@@ -85,23 +85,22 @@ Easier to keep you **safe**.
 
 ## Gear Affixes Priority
 1. Attack Speed
-2. Movement Speed
-3. Lucky Hit Chance
-4. Lucky Hit Chance while You Have a Barrier
-5. Lucky Hit: Up to a 5% Chance to Restore [7.0 - 14.0]% Primary
-6. Resource Generation
-7. Critical Strike Chance
-8. Damage to Distant Enemies
-9. Damage to Close Enemies
-10. Core Skill Damage
-11. Cold Damage
-12. Frost Skill Damage
-13. Vulnerable Damage
-14. Damage
-15. Critical Strike Damage
-16. Maximum Mana
-17. Crowd Control Duration
-18. Potion Drop Rate
-19. Healing Received
-20. Maximum Life
-21. Potion Capacity
+2. Lucky Hit Chance
+3. Lucky Hit Chance while You Have a Barrier
+4. Lucky Hit: Up to a 5% Chance to Restore [7.0 - 14.0]% Primary
+5. Resource Generation
+6. Critical Strike Chance
+7. Damage to Distant Enemies
+8. Damage to Close Enemies
+9. Core Skill Damage
+10. Cold Damage
+11. Frost Skill Damage
+12. Vulnerable Damage
+13. Damage
+14. Critical Strike Damage
+15. Maximum Mana
+16. Crowd Control Duration
+17. Potion Drop Rate
+18. Healing Received
+19. Maximum Life
+20. Potion Capacity
