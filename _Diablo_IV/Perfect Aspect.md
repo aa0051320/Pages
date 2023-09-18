@@ -35,9 +35,9 @@ published: false
 - Deal [15 - 25%] increased damage while you have a Barrier active. x2
 - Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%]. x2
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x1
-- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x1
+- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x2
 - Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy. x1
-- Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x2
+- Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x3
 - Skills deal up to [10 - 20%] increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource. x1
 - The Avalanche Key Passive now applies to 1 additional cast. x11
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
@@ -70,7 +70,7 @@ published: false
 - Gain [20 - 40] of your Primary Resource for every 25% of your Life that you Heal. x1
 - Gain [25 - 30%] Movement Speed for 3 seconds after Teleporting. x1
 - Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40%]. Double this bonus against Healthy enemies. x1
-- Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it. x2
+- Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it. x3
 - Taking direct damage has a [2 - 6%] chance to reset the Cooldown of one of your Defensive Skills. x1
 - The Vyr's Mastery Key Passive also grants x [6.0 - 9.0%] Damage Reduction for each Close enemy, up to x [18 - 27%]. x1
 - Thorns damage dealt has a [20 - 40%] chance to deal damage to all enemies around you. x1
