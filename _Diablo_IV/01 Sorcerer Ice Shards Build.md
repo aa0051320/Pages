@@ -38,21 +38,22 @@ Skill > Gear > Paragon
 2. Gear is based on playstyle
 3. Paragon is compatible and flexible
 
-Lucky Hit > Critical Strike
+Lucky Hit > Critical Strike > Crowd Control > Defense
 1. Lucky Hit is to trigger tons of **Effects**
 2. Critical Strike is to improve **Damage** and trigger Effects
+3. Crowd Control means more Damage and Defense
+
+Intelligence > Dexterity > Willpower > All Stats > Strength
 
 # Concept
 Based on my research, **Ice Shards** is great for building high DPS.
 - Ice Shards hits 5 or more times per cast, and each hit calculate separately.
 - Easy to trigger Lucky Hit and Critical Strike.
 
-DPS = ( Damage + Defense ) ÷ Time
+DPS = Damage ÷ Time
 - Damage
   - Improve Damage for per hit as much as possible
   - Integrate **Crowd Control**
-- Defense
-  - Integrate **Passive Defense**
 - Time
   - Don't wait for **Mana Regeneration**
   - Don't wait for **Cooldown**
@@ -60,7 +61,7 @@ DPS = ( Damage + Defense ) ÷ Time
   - When consuming Mana, Mana must also be **generated simultaneously**
   - The **faster** Skill casting, the higher the DPS
 
-# Skill
+# Skill (Need to correct)
 Active Skills
    1. Frost Bolt (Mana)
    2. Ice Shards (**Vulnerable**)
@@ -90,8 +91,7 @@ Easier to keep you **safe**.
 4. Lucky Hit: Up to a 5% Chance to Restore [7.0 - 14.0]% Primary
 5. Resource Generation
 6. Critical Strike Chance
-7. Damage to Distant Enemies
-8. Damage to Close Enemies
+7. Damage to Distant Enemies / Damage to Close Enemies
 9. Core Skill Damage
 10. Cold Damage
 11. Frost Skill Damage
