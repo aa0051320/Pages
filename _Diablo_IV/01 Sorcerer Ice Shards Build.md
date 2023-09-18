@@ -9,11 +9,11 @@ published: true
 
 |                             Game                             | Patch |  Class   | Level  |
 | :----------------------------------------------------------: | :---: | :------: | :----: |
-| [Diablo IV](https://diablo4.blizzard.com/){:target="_blank"} | 1.1.3 | Sorcerer | 80~100 |
+| [Diablo IV](https://diablo4.blizzard.com/){:target="_blank"} | 1.1.4 | Sorcerer | 80~100 |
 
 | Build Planner | [D4 Builds](https://d4builds.gg/){:target="_blank"}                                  |
 | ------------: | :----------------------------------------------------------------------------------- |
-| Build Version | v1.0 (2023-09)                                                                       |
+| Build Version | v2.0 (2023-09)                                                                       |
 |    Build Link | <https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/>{:target="_blank"} |
 |        Status | 🟡 In progress                                                                        |
 
@@ -23,11 +23,10 @@ published: true
 # Table of Contents <!-- omit from toc -->
 - [Goal](#goal)
 - [Priority](#priority)
+- [Concept](#concept)
 - [Skill](#skill)
 - [Gear](#gear)
-  - [Requirement](#requirement)
-  - [Structure](#structure)
-  - [Gear - Affixes](#gear---affixes)
+  - [Gear Affixes Priority](#gear-affixes-priority)
 
 # Goal
 - Higher DPS (Damage Per Second)
@@ -37,50 +36,54 @@ published: true
 Skill > Gear > Paragon
 1. Skill is the most basic playstyle
 2. Gear is based on playstyle
-3. Paragon has good compatibility and flexibility
+3. Paragon is compatible and flexible
 
-# Skill
+Lucky Hit > Critical Strike
+1. Lucky Hit is to trigger tons of **Effects**
+2. Critical Strike is to improve **Damage** and trigger Effects
+
+# Concept
 Based on my research, **Ice Shards** is great for building high DPS.
 - Ice Shards hits 5 or more times per cast, and each hit calculate separately.
-- Easy to trigger Lucky Hit or Critical Strike.
-- So that easily get Mana Generation or Effects.
+- Easy to trigger Lucky Hit and Critical Strike.
 
-DPS = Damage / Time + Defensive
+DPS = ( Damage + Defense ) ÷ Time
 - Damage
-  - Improve Damage for per hit as much as possible.
-  - Integrate Crowd Control.
+  - Improve Damage for per hit as much as possible
+  - Integrate **Crowd Control**
+- Defense
+  - Integrate **Passive Defense**
 - Time
-  - Don't wait for Mana Regeneration.
-  - Don't wait for Cooldown.
-  - Don't cost any time or Mana for Crowd Control.
-  - When consuming Mana, Mana must also be generated simultaneously.
-  - The faster Skill casting, the higher DPS.
-- Defensive
-  - If you die, there is no DPS.
-  - Integrate Passive Defensive.
+  - Don't wait for **Mana Regeneration**
+  - Don't wait for **Cooldown**
+  - Don't cost any time or Mana for **Crowd Control**
+  - When consuming Mana, Mana must also be **generated simultaneously**
+  - The **faster** Skill casting, the higher DPS
+
+# Skill
+Active Skills
+   1. Frost Bolt (Mana)
+   2. Ice Shards (**Vulnerable**)
+      - Enchantment: Fire Bolt (Trigger)
+        - Devouring Blaze (**Damage**)
+      - Enchantment: Ball Lightning (Trigger)
+        - Electrocution (**Defense**)
+        - Convulsions (**Stun**)
+   3. Unstable Currents (Attack Speed)
+
+Passive Skills (Flexible)
 
 # Gear
+I suggest using **Wand + Focus**.  
+According to my Affixes, Focus can provide **better performance** for whole build.  
+Easier to keep you **safe**. 
 
-## Requirement
-1. Lucky Hit Chance >= 100%
-2. Critical Strike Chance >= 40.00%
-3. Attack Speed Bonus >= 38% ~ 53%
+> I tested some fine-tune for using Staff.  
+> Although Staff can provide a huge Damage in a short time.  
+> But Staff is hard to let Mana keep up with Attack Speed for lasting DPS.  
+> This make Staff hard to defeat higher Tier Dungeon.
 
-## Structure
-  1. Mana
-     - Use **Skill-related** Mana Generation
-       - **Generation** by Skill
-       - Infinite mana
-       - Keep up with Attack Speed
-     - Get rid of **Time-related** constraints
-       - Not wait for **Regeneration**
-       - Not wait for Cooldown
-  2. Critical Strike
-  3. Attack Speed
-  4. Defensive
-  5. Extra Damage
-
-## Gear - Affixes
+## Gear Affixes Priority
 1. Attack Speed
 2. Movement Speed
 3. Lucky Hit Chance
