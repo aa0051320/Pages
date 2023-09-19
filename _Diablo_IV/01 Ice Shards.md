@@ -27,7 +27,7 @@ published: true
 
 # Goal
 - High DPS (Damage Per Second)
-- Defeat high Tier Dungeon (**Tier 70+**)
+- Defeat high Tier Dungeon (Tier 70+)
 - Aim at Boss or Unstoppable Enemy
 
 # Priority
