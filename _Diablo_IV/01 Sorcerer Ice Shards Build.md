@@ -28,8 +28,8 @@ published: true
 
 # Goal
 - High DPS (Damage Per Second)
-- Defeat high Tier Dungeon
-- Target on BOSS, Elite and Unstoppable Enemy
+- Defeat high Tier Dungeon (**Tier 70+**)
+- Aim at BOSS, Elite and Unstoppable Enemy
 
 # Priority
 Skill > Gear > Paragon
