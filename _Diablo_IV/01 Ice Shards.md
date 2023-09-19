@@ -1,6 +1,6 @@
 ---
-title: "Sorcerer Ice Shards Build"
-slug: "Sorcerer Ice Shards Build"
+title: "Ice Shards"
+slug: "Ice Shards"
 order: 1
 published: true
 ---
@@ -22,25 +22,23 @@ published: true
 - [Priority](#priority)
 - [Concept](#concept)
 - [Skill](#skill)
-- [Gear (Wand)](#gear-wand)
-- [Gear (Staff)](#gear-staff)
+- [Gear](#gear)
   - [Gear Affixes Priority](#gear-affixes-priority)
 
 # Goal
 - High DPS (Damage Per Second)
 - Defeat high Tier Dungeon (**Tier 70+**)
-- Aim at BOSS, Elite and Unstoppable Enemy
+- Aim at Boss or Unstoppable Enemy
 
 # Priority
 Skill > Gear > Paragon
-1. Skill is the most basic playstyle
-2. Gear is based on playstyle
-3. Paragon is compatible and flexible
+1. Skill and Gear work together
+2. Paragon is compatible and flexible
 
 Lucky Hit > Critical Strike > Crowd Control
 1. Lucky Hit is to **trigger** tons of Effects
 2. Critical Strike is to improve **Damage**
-3. Crowd Control does not work for BOSS, Elite or Unstoppable Enemy in most time
+3. Crowd Control does not work for Boss or Unstoppable Enemy in most time
 
 Intelligence > Dexterity > Willpower > All Stats > Strength
 
@@ -54,11 +52,10 @@ DPS = Damage ÷ Time
   - Improve Damage for per hit as much as possible
   - Integrate Crowd Control
 - Time
-  - Don't wait for Mana Regeneration
-  - Don't wait for Cooldown
-  - Don't cost any time or Mana for Crowd Control
-  - When consuming Mana, Mana must also be generated simultaneously
-  - The faster Skill casting, the higher the DPS
+  - **Don't wait** for Mana Regeneration, Cooldown
+  - **Don't cost** any time or Mana for Crowd Control
+  - When consuming Mana, Mana must also be **generated simultaneously**
+  - The **faster** Skill casting, the higher the DPS
 
 # Skill
 Active Skills
@@ -72,7 +69,7 @@ Enchantment
 
 Passive Skills (Flexible)
 
-# Gear (Wand)
+<!-- # Gear (Wand)
 I suggest using **Wand + Focus**.  
 According to my Affixes, Focus can provide **better performance** for whole build.  
 Easier to keep you **safe**. 
@@ -80,13 +77,18 @@ Easier to keep you **safe**.
 > I tested some fine-tune for using Staff.  
 > Although Staff can provide a huge Damage in a short time.  
 > But Staff is hard to let Mana keep up with Attack Speed for lasting DPS.  
-> This make Staff hard to defeat high Tier Dungeon.
+> This make Staff hard to defeat high Tier Dungeon. -->
 
-# Gear (Staff)
-In high Tier Dungeon, enemies are often unstoppable.  
+# Gear
+I recommend using **Staff**.
+
+In high Tier Dungeon, enemies are often Unstoppable.  
 Crowd Control is not so useful.  
-The faster you kill enemies, the safer you are.  
-Staff has +100% Effect. As long as the Affixes of Staff is properly chosen, it can deal huge Damage to BOSS, Elite or Unstoppable Enemy.
+The faster you kill enemies, the safer you are.
+
+Staff has +100% Effect.  
+As long as the Affixes of Staff is properly chosen, it can deal huge Damage to Boss or Unstoppable Enemy.  
+But the prerequisite is that **Lucky Hit Chance** must be high enough so that Mana can keep up with Attack Speed.
 
 ## Gear Affixes Priority
 1. Attack Speed
