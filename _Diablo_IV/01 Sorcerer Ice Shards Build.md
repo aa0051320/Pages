@@ -17,20 +17,19 @@ published: true
 |    Build Link | <https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/>{:target="_blank"} |
 |        Status | 🟡 In progress                                                                        |
 
-> Click the **Build Link** above to view the lastest Build Plan directly.  
-> My design concept is below.
-
 # Table of Contents <!-- omit from toc -->
 - [Goal](#goal)
 - [Priority](#priority)
 - [Concept](#concept)
 - [Skill](#skill)
-- [Gear](#gear)
+- [Gear (Wand)](#gear-wand)
+- [Gear (Staff)](#gear-staff)
   - [Gear Affixes Priority](#gear-affixes-priority)
 
 # Goal
-- Higher DPS (Damage Per Second)
-- Defeat higher Tier Dungeon
+- High DPS (Damage Per Second)
+- Defeat high Tier Dungeon
+- Target on BOSS, Elite and Unstoppable Enemy
 
 # Priority
 Skill > Gear > Paragon
@@ -38,43 +37,42 @@ Skill > Gear > Paragon
 2. Gear is based on playstyle
 3. Paragon is compatible and flexible
 
-Lucky Hit > Critical Strike > Crowd Control > Defense
-1. Lucky Hit is to trigger tons of **Effects**
-2. Critical Strike is to improve **Damage** and trigger Effects
-3. Crowd Control means more Damage and Defense
+Lucky Hit > Critical Strike > Crowd Control
+1. Lucky Hit is to **trigger** tons of Effects
+2. Critical Strike is to improve **Damage**
+3. Crowd Control does not work for BOSS, Elite or Unstoppable Enemy in most time
 
 Intelligence > Dexterity > Willpower > All Stats > Strength
 
 # Concept
-Based on my research, **Ice Shards** is great for building high DPS.
-- Ice Shards hits 5 or more times per cast, and each hit calculate separately.
-- Easy to trigger Lucky Hit and Critical Strike.
+Ice Shards is great for building high DPS
+- Ice Shards hits **5 or more** times per cast and calculate separately
+- Easy to **trigger** Lucky Hit and Critical Strike
 
 DPS = Damage ÷ Time
 - Damage
   - Improve Damage for per hit as much as possible
-  - Integrate **Crowd Control**
+  - Integrate Crowd Control
 - Time
-  - Don't wait for **Mana Regeneration**
-  - Don't wait for **Cooldown**
-  - Don't cost any time or Mana for **Crowd Control**
-  - When consuming Mana, Mana must also be **generated simultaneously**
-  - The **faster** Skill casting, the higher the DPS
+  - Don't wait for Mana Regeneration
+  - Don't wait for Cooldown
+  - Don't cost any time or Mana for Crowd Control
+  - When consuming Mana, Mana must also be generated simultaneously
+  - The faster Skill casting, the higher the DPS
 
-# Skill (Need to correct)
+# Skill
 Active Skills
-   1. Frost Bolt (Mana)
-   2. Ice Shards (**Vulnerable**)
-      - Enchantment: Fire Bolt (Trigger)
-        - Devouring Blaze (**Damage**)
-      - Enchantment: Ball Lightning (Trigger)
-        - Electrocution (**Defense**)
-        - Convulsions (**Stun**)
-   3. Unstable Currents (Attack Speed)
+   - Frost Bolt (Mana)
+   - Ice Shards (Vulnerable)
+   - Unstable Currents (Attack Speed)
+
+Enchantment
+  - Frost Bolt (**Chill**)
+  - Fire Bolt (Trigger) -> Devouring Blaze (**Damage**)
 
 Passive Skills (Flexible)
 
-# Gear
+# Gear (Wand)
 I suggest using **Wand + Focus**.  
 According to my Affixes, Focus can provide **better performance** for whole build.  
 Easier to keep you **safe**. 
@@ -82,7 +80,13 @@ Easier to keep you **safe**.
 > I tested some fine-tune for using Staff.  
 > Although Staff can provide a huge Damage in a short time.  
 > But Staff is hard to let Mana keep up with Attack Speed for lasting DPS.  
-> This make Staff hard to defeat higher Tier Dungeon.
+> This make Staff hard to defeat high Tier Dungeon.
+
+# Gear (Staff)
+In high Tier Dungeon, enemies are often unstoppable.  
+Crowd Control is not so useful.  
+The faster you kill enemies, the safer you are.  
+Staff has +100% Effect. As long as the Affixes of Staff is properly chosen, it can deal huge Damage to BOSS, Elite or Unstoppable Enemy.
 
 ## Gear Affixes Priority
 1. Attack Speed
@@ -99,8 +103,7 @@ Easier to keep you **safe**.
 13. Damage
 14. Critical Strike Damage
 15. Maximum Mana
-16. Crowd Control Duration
-17. Potion Drop Rate
-18. Healing Received
-19. Maximum Life
-20. Potion Capacity
+16. Potion Drop Rate
+17. Healing Received
+18. Maximum Life
+19. Potion Capacity
