@@ -8,10 +8,14 @@ published: false
 # {{ page.title }}
 
 # Chest 2 - Ancestral Legendary Aspect
+- After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds. x1
+- Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by [5 - 10%], up to 30%. x1
 - Ball Lightning orbits around you and deals x [15 - 25%] increased damage. x1
+- Basic Skills grant 20% Damage Reduction for [2.0 - 6.0] seconds. x1
 - Becoming Injured while Crowd Controlled grants you Unstoppable for 4 seconds. This effect has a [40 - 20] second Cooldown. x1
 - Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x1
 - Gain [20 - 40] of your Primary Resource for every 25% of your Life that you Heal. x1
+- Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it. x1
 - Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x1
 - When hit while not Healthy, a magical bubble is summoned around you for [3 - 5] seconds. While standing in the bubble players are Immune. Can only occur once every 90 seconds. x2
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x1
@@ -35,9 +39,9 @@ published: false
 - Deal [15 - 25%] increased damage while you have a Barrier active. x2
 - Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%]. x2
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x1
-- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x2
+- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x3
 - Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy. x1
-- Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x3
+- Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x4
 - Skills deal up to [10 - 20%] increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource. x1
 - The Avalanche Key Passive now applies to 1 additional cast. x11
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
@@ -47,7 +51,7 @@ published: false
 - You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies. x3
 - You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies. x1
 - You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration. x1
-- You have 20% increased Crowd Control Duration. While enemies are Unstoppable, you deal [20 - 40%] increased damage to them. x1
+- You have 20% increased Crowd Control Duration. While enemies are Unstoppable, you deal [20 - 40%] increased damage to them. x2
 - Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active. x2
 
 # Chest 3 - Sacred Legendary Aspect
@@ -57,10 +61,10 @@ published: false
 - You gain [0.25 - 0.50%] increased Armor for 4 seconds when you deal any form of damage, stacking up to [15.00 - 30.00%]. x1
 
 # Chest 4 - Ancestral Legendary Aspect
-- After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds. x2
-- Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by [5 - 10%], up to 30%. x2
+- After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds. x1
+- Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by [5 - 10%], up to 30%. x1
 - Ball Lightning orbits around you and deals x [15 - 25%] increased damage. x1
-- Basic Skills grant 20% Damage Reduction for [2.0 - 6.0] seconds. x2
+- Basic Skills grant 20% Damage Reduction for [2.0 - 6.0] seconds. x1
 - Becoming Injured while Crowd Controlled grants you Unstoppable for 4 seconds. This effect has a [40 - 20] second Cooldown. x1
 - Casting a Basic or Mastery Skill reduces the Mana cost of your next Core Skill by [15 - 25%]. x1
 - Chain Lightning has a [30 - 40%] chance to chain 4 additional times. x2
@@ -68,9 +72,9 @@ published: false
 - Each time Chain Lightning bounces, gain [1.5 - 3.0] Mana. x1
 - Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x2
 - Gain [20 - 40] of your Primary Resource for every 25% of your Life that you Heal. x1
-- Gain [25 - 30%] Movement Speed for 3 seconds after Teleporting. x1
+- Gain [25 - 30%] Movement Speed for 3 seconds after Teleporting. x2
 - Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40%]. Double this bonus against Healthy enemies. x1
-- Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it. x3
+- Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it. x2
 - Taking direct damage has a [2 - 6%] chance to reset the Cooldown of one of your Defensive Skills. x1
 - The Vyr's Mastery Key Passive also grants x [6.0 - 9.0%] Damage Reduction for each Close enemy, up to x [18 - 27%]. x1
 - Thorns damage dealt has a [20 - 40%] chance to deal damage to all enemies around you. x1
@@ -79,7 +83,7 @@ published: false
 - While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%]. x1
 - While channeling Incinerate, your Burning damage is increased by x [20 - 40%]. x1
 - While enemies are affected by more Damage Over Time than their total Life, you deal x [60 - 80%] increased Burning damage to them. x1
-- While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it. x1
+- While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it. x2
 - While Unstoppable and for 4 seconds after, you gain [10 - 25%] increased Movement Speed and can move freely through enemies. x2
 - You Heal for [X] Life per second for each Close enemy, up to [X] Life per second. x1
 - You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%]. x1
