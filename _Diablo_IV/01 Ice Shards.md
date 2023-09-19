@@ -52,7 +52,7 @@ DPS = Damage ÷ Time
   - Improve Damage for per hit as much as possible
   - Integrate Crowd Control
 - Time
-  - **Don't wait** for Mana Regeneration, Cooldown
+  - **Don't wait** for Mana Regeneration or Cooldown
   - **Don't cost** any time or Mana for Crowd Control
   - When consuming Mana, Mana must also be **generated simultaneously**
   - The **faster** Skill casting, the higher the DPS
