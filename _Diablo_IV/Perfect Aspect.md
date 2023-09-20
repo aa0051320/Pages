@@ -56,7 +56,7 @@ published: false
 
 # Chest 3 - Sacred Legendary Aspect
 - Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds. x1
-- Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%. x1
+- Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%. x2
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x1
 - You gain [0.25 - 0.50%] increased Armor for 4 seconds when you deal any form of damage, stacking up to [15.00 - 30.00%]. x1
 

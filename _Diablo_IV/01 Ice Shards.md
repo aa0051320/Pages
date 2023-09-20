@@ -28,7 +28,7 @@ published: true
 # Goal
 - High DPS (Damage Per Second)
 - Defeat high Tier Dungeon (Tier 70+)
-- Aim at Boss or Unstoppable Enemy
+- Aim at Unstoppable Enemy or Boss
 
 # Priority
 Skill > Gear > Paragon
@@ -38,7 +38,7 @@ Skill > Gear > Paragon
 Lucky Hit > Critical Strike > Crowd Control
 1. Lucky Hit is to **trigger** tons of Effects
 2. Critical Strike is to improve **Damage**
-3. Crowd Control does not work for Boss or Unstoppable Enemy in most time
+3. Crowd Control does not work for Unstoppable Enemy or Boss in most time
 
 Intelligence > Dexterity > Willpower > All Stats > Strength
 
@@ -69,17 +69,17 @@ Enchantment
 
 Passive Skills (Flexible)
 
-<!-- # Gear (Wand)
+# Gear
 I suggest using **Wand + Focus**.  
-According to my Affixes, Focus can provide **better performance** for whole build.  
-Easier to keep you **safe**. 
+According to my Affixes, Focus can provide **better performance** for whole build.
 
-> I tested some fine-tune for using Staff.  
+> I tested some fine-tune for using **Staff**.  
 > Although Staff can provide a huge Damage in a short time.  
 > But Staff is hard to let Mana keep up with Attack Speed for lasting DPS.  
-> This make Staff hard to defeat high Tier Dungeon. -->
+> This make Staff hard to defeat high Tier Dungeon.  
+> Only if Lucky Hit Chance is high enough.
 
-# Gear
+<!-- # Gear
 I recommend using **Staff**.
 
 In high Tier Dungeon, enemies are often Unstoppable.  
@@ -87,8 +87,8 @@ Crowd Control is not so useful.
 The faster you kill enemies, the safer you are.
 
 Staff has +100% Effect.  
-As long as the Affixes of Staff is properly chosen, it can deal huge Damage to Boss or Unstoppable Enemy.  
-But the prerequisite is that **Lucky Hit Chance** must be high enough so that Mana can keep up with Attack Speed.
+As long as the Affixes of Staff is properly chosen, it can deal huge Damage to Unstoppable Enemy or Boss.  
+But the prerequisite is that **Lucky Hit Chance** must be high enough so that Mana can keep up with Attack Speed. -->
 
 ## Gear Affixes Priority
 1. Attack Speed
