@@ -56,7 +56,8 @@ DPS = Gain ÷ Cost
 
 # Skill
 Active Skills
-   - Frost Bolt (Trigger **Frigid Breeze** under special circumstances)
+   - Frost Bolt (Trigger)
+     - Frigid Breeze (**Mana**)
    - Ice Shards (**Vulnerable**)
    - Unstable Currents (**Attack Speed**)
 
