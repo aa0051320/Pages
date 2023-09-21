@@ -56,7 +56,7 @@ DPS = Gain ÷ Cost
 
 # Skill
 Active Skills
-   - Frost Bolt (Mana)
+   - Frost Bolt
    - Ice Shards (Vulnerable)
    - Unstable Currents (Attack Speed)
 
