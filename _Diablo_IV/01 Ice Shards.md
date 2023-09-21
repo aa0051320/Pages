@@ -7,9 +7,9 @@ published: true
 
 # {{ page.title }} <!-- omit from toc -->
 
-|                             Game                             | Patch |  Class   | Level  |
-| :----------------------------------------------------------: | :---: | :------: | :----: |
-| [Diablo IV](https://diablo4.blizzard.com/){:target="_blank"} | 1.1.4 | Sorcerer | 80~100 |
+|                             Game                             | Patch |     Realm     |  Class   | Level  |
+| :----------------------------------------------------------: | :---: | :-----------: | :------: | :----: |
+| [Diablo IV](https://diablo4.blizzard.com/){:target="_blank"} | 1.1.4 | Eternal Realm | Sorcerer | 80~100 |
 
 | Build Planner | [D4 Builds](https://d4builds.gg/){:target="_blank"}                                  |
 | ------------: | :----------------------------------------------------------------------------------- |
