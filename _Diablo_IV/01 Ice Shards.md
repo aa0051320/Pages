@@ -64,7 +64,7 @@ Enchantment
   - Fire Bolt (Trigger)
     - Devouring Blaze (Damage)
   - Ball Lightning (Trigger, Damage)
-    - Coursing Currents (Critical Strike)
+    - Coursing Currents (Critical Strike Chance)
     - Electrocution (Defense)
     - Convulsions (Stun)
 
