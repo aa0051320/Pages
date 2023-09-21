@@ -83,7 +83,7 @@ published: false
 - While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%]. x1
 - While channeling Incinerate, your Burning damage is increased by x [20 - 40%]. x1
 - While enemies are affected by more Damage Over Time than their total Life, you deal x [60 - 80%] increased Burning damage to them. x1
-- While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it. x2
+- While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it. x3
 - While Unstoppable and for 4 seconds after, you gain [10 - 25%] increased Movement Speed and can move freely through enemies. x2
 - You Heal for [X] Life per second for each Close enemy, up to [X] Life per second. x1
 - You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%]. x1
