@@ -23,7 +23,7 @@ published: true
 - [Concept](#concept)
 - [Skill](#skill)
 - [Gear](#gear)
-  - [Gear Affixes Priority](#gear-affixes-priority)
+- [Gear Affixes Priority](#gear-affixes-priority)
 
 # Goal
 - High DPS (Damage Per Second)
@@ -40,22 +40,19 @@ Lucky Hit > Critical Strike > Crowd Control
 2. Critical Strike is to improve **Damage**
 3. Crowd Control does not work for Unstoppable Enemy or Boss in most time
 
-Intelligence > Dexterity > Willpower > All Stats > Strength
-
 # Concept
 Ice Shards is great for building high DPS
 - Ice Shards hits **5 or more** times per cast and calculate separately
 - Easy to **trigger** Lucky Hit and Critical Strike
 
-DPS = Damage ÷ Time
-- Damage
+DPS = Gain ÷ Cost
+- Gain (Damage, Crowd Control, Defense)
   - Improve Damage for per hit as much as possible
-  - Integrate Crowd Control
-- Time
-  - **Don't wait** for Mana Regeneration or Cooldown
-  - **Don't cost** any time or Mana for Crowd Control
-  - When consuming Mana, Mana must also be **generated simultaneously**
+  - **Integrate** Crowd Control and Defense
   - The **faster** Skill casting, the higher the DPS
+- Cost (Time, Mana)
+  - **No cost** for Crowd Control and Defense
+  - When consuming Mana, Mana must also be generated simultaneously
 
 # Skill
 Active Skills
@@ -64,20 +61,22 @@ Active Skills
    - Unstable Currents (Attack Speed)
 
 Enchantment
-  - Frost Bolt (**Chill**)
-  - Fire Bolt (Trigger) -> Devouring Blaze (**Damage**)
+  - Fire Bolt (Trigger)
+    - Devouring Blaze (Damage)
+  - Ball Lightning (Trigger, Damage)
+    - Coursing Currents (Critical Strike)
+    - Electrocution (Defense)
+    - Convulsions (Stun)
 
 Passive Skills (Flexible)
 
 # Gear
-I suggest using **Wand + Focus**.  
-According to my Affixes, Focus can provide **better performance** for whole build.
+I suggest using **Wand + Focus**  
+Focus with appropriate Affixes can provide **better performance**
 
-> I tested some fine-tune for using **Staff**.  
-> Although Staff can provide a huge Damage in a short time.  
-> But Staff is hard to let Mana keep up with Attack Speed for lasting DPS.  
-> This make Staff hard to defeat high Tier Dungeon.  
-> Only if Lucky Hit Chance is high enough.
+> I did a comparison test for using **Staff**  
+> Although Staff can provide a huge Damage in a short time  
+> But the **shortcoming** is less Lucky Hit (Mana, Critical Strike, lasting DPS)
 
 <!-- # Gear
 I recommend using **Staff**.
@@ -90,7 +89,7 @@ Staff has +100% Effect.
 As long as the Affixes of Staff is properly chosen, it can deal huge Damage to Unstoppable Enemy or Boss.  
 But the prerequisite is that **Lucky Hit Chance** must be high enough so that Mana can keep up with Attack Speed. -->
 
-## Gear Affixes Priority
+# Gear Affixes Priority
 1. Attack Speed
 2. Lucky Hit Chance
 3. Lucky Hit Chance while You Have a Barrier
