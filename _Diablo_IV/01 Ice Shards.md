@@ -76,7 +76,7 @@ Focus with appropriate Affixes can provide **better performance**
 
 > I did a comparison test for using **Staff**  
 > Although Staff can provide a huge Damage in a short time  
-> But the **shortcoming** is less Lucky Hit (Mana, Critical Strike, lasting DPS)
+> But the **shortcoming** is less Lucky Hit, Mana, Critical Strike, Crowd Control, Attack Speed, etc.
 
 <!-- # Gear
 I recommend using **Staff**.
