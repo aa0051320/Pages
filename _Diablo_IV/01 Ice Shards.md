@@ -28,7 +28,7 @@ published: true
 # Goal
 - High DPS (Damage Per Second)
 - Defeat high Tier Dungeon (Tier 70+)
-- Aim at Unstoppable Enemy or Boss
+- Aim at Unstoppable Enemy and Boss
 
 # Priority
 Skill > Gear > Paragon
@@ -38,7 +38,7 @@ Skill > Gear > Paragon
 Lucky Hit > Critical Strike > Crowd Control
 1. Lucky Hit is to **trigger** tons of Effects
 2. Critical Strike is to improve **Damage**
-3. Crowd Control does not work for Unstoppable Enemy or Boss in most time
+3. Crowd Control does not work for Unstoppable Enemy and Boss in most time
 
 # Concept
 Ice Shards is great for building high DPS
@@ -56,17 +56,17 @@ DPS = Gain ÷ Cost
 
 # Skill
 Active Skills
-   - Frost Bolt
-   - Ice Shards (Vulnerable)
-   - Unstable Currents (Attack Speed)
+   - Frost Bolt (Trigger **Frigid Breeze** under special circumstances)
+   - Ice Shards (**Vulnerable**)
+   - Unstable Currents (**Attack Speed**)
 
 Enchantment
   - Fire Bolt (Trigger)
-    - Devouring Blaze (Damage)
+    - Devouring Blaze (**Damage**)
   - Ball Lightning (Trigger, Damage)
-    - Coursing Currents (Critical Strike Chance)
-    - Electrocution (Defense)
-    - Convulsions (Stun)
+    - Coursing Currents (**Critical Strike**)
+    - Electrocution (**Defense**)
+    - Convulsions (**Stun**)
 
 Passive Skills (Flexible)
 
@@ -86,7 +86,7 @@ Crowd Control is not so useful.
 The faster you kill enemies, the safer you are.
 
 Staff has +100% Effect.  
-As long as the Affixes of Staff is properly chosen, it can deal huge Damage to Unstoppable Enemy or Boss.  
+As long as the Affixes of Staff is properly chosen, it can deal huge Damage to Unstoppable Enemy and Boss.  
 But the prerequisite is that **Lucky Hit Chance** must be high enough so that Mana can keep up with Attack Speed. -->
 
 # Gear Affixes Priority
