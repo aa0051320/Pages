@@ -69,6 +69,7 @@ published: false
 - Casting a Basic or Mastery Skill reduces the Mana cost of your next Core Skill by [15 - 25%]. x1
 - Chain Lightning has a [30 - 40%] chance to chain 4 additional times. x2
 - Crackling Energy has a [30 - 40%] chance to chain to an additional enemy. x2
+- Critical Strikes grant [8.0 - 16.0%] Movement Speed for 1 second, up to 6 seconds. x1
 - Each time Chain Lightning bounces, gain [1.5 - 3.0] Mana. x1
 - Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x2
 - Gain [20 - 40] of your Primary Resource for every 25% of your Life that you Heal. x1
@@ -91,7 +92,6 @@ published: false
 
 # Chest 4 - Sacred Legendary Aspect
 - After spending [200 - 100] Mana your next Firewall is free to cast and will destroy incoming Small Missiles. x1
-- Critical Strikes grant [8.0 - 16.0%] Movement Speed for 1 second, up to 6 seconds. x1
 - Distant enemies have a 8% chance to be Stunned for 2 seconds when they hit you. You deal [10 - 20%] increased damage to Stunned enemies. x1
 - Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill. x1
 - While you have a Barrier active, there is a [7 - 13%] chance to ignore incoming direct damage from Distant enemies. x1
