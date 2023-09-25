@@ -48,12 +48,12 @@ published: true
 
 ## Result
 
-|     #     |       Board        |     Stat     |    Glyph    | Base% |   Multiple    |  Bonus  |       Result%       |
-| :-------: | :----------------: | :----------: | :---------: | :---: | :-----------: | :-----: | :-----------------: |
-|     1     |      Starting      |  Dexterity   | Flamefeeder |  10   | 39 / 5 = 7.8  |   10    |         88          |
-|     2     |    Frigid Fate     | Intelligence |  Enchanter  |  6.5  |  70 / 5 = 14  |         |         91          |
-|     3     |  Burning Instinct  |  Dexterity   |   Control   | 14.9  | 49 / 5 = 9.8  | 10 ~ 20 |   156.02 ~ 166.02   |
-|     4     |      Icefall       |  Willpower   |  Frostbite  | 14.9  | 54 / 5 = 10.8 |         |       160.92        |
-|     5     | Enchantment Master |  Dexterity   | Destruction |  10   | 39 / 5 = 7.8  | 0 ~ 12  |       78 ~ 90       |
-|     6     | Elemental Summoner |  Willpower   |   Imbiber   |  9.8  | 54 / 5 = 10.8 |         |       105.84        |
-| **Total** |                    |              |             |       |               |         | **679.78 ~ 701.78** |
+|     #     |       Board        |    Glyph    | Base% |   Multiple    |  Bonus  |       Result%       |
+| :-------: | :----------------: | :---------: | :---: | :-----------: | :-----: | :-----------------: |
+|     1     |      Starting      | Flamefeeder |  10   | 39 / 5 = 7.8  |   10    |         88          |
+|     2     |    Frigid Fate     |  Enchanter  |  6.5  |  70 / 5 = 14  |         |         91          |
+|     3     |  Burning Instinct  |   Control   | 14.9  | 49 / 5 = 9.8  | 10 ~ 20 |   156.02 ~ 166.02   |
+|     4     |      Icefall       |  Frostbite  | 14.9  | 54 / 5 = 10.8 |         |       160.92        |
+|     5     | Enchantment Master | Destruction |  10   | 39 / 5 = 7.8  | 0 ~ 12  |       78 ~ 90       |
+|     6     | Elemental Summoner |   Imbiber   |  9.8  | 54 / 5 = 10.8 |         |       105.84        |
+| **Total** |                    |             |       |               |         | **679.78 ~ 701.78** |
