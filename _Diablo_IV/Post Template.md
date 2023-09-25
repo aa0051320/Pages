@@ -16,13 +16,14 @@ published: false
 
 # X
 Sorcerer Ice Shards with Attack Speed
-Patch 1.1.4, Eternal Realm, Tier 80
+Patch 1.1.4, Eternal Realm, Nightmare Dungeon Tier 80
 Build Plan see comment below
 #PS5Share, #ディアブロIV #DiabloIV #Diablo4
 
 ## Comment
 Build Plan: Sorcerer Ice Shards with Attack Speed
 https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/
+Latest Build Plan may fix some issue, so Build Plan may not match the content of the video
 
 # YouTube
 
@@ -30,8 +31,13 @@ https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/
 Sorcerer Ice Shards with Attack Speed
 
 ## Comment
-Patch 1.1.4, Eternal Realm, Tier 80
+Patch 1.1.4
+Eternal Realm
+Nightmare Dungeon Tier 80
+
 Build Plan: https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/
+Latest Build Plan may fix some issue, so Build Plan may not match the content of the video
+
 #PS5Share #DiabloIV #Diablo4
 
 ## Tag
