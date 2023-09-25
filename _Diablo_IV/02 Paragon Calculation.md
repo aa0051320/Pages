@@ -1,7 +1,7 @@
 ---
 title: "Paragon Calculation"
 slug: "Paragon Calculation"
-order: 
+order: 2
 published: true
 ---
 
