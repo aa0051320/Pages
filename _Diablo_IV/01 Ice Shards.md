@@ -31,10 +31,6 @@ published: true
 - Aim at Unstoppable Enemy and Boss
 
 # Priority
-Skill > Gear > Paragon
-1. Skill and Gear work together
-2. Paragon is compatible and flexible
-
 Lucky Hit > Critical Strike > Crowd Control
 1. Lucky Hit is to **trigger** tons of Effects
 2. Critical Strike is to improve **Damage**
