@@ -13,12 +13,13 @@ published: false
 - Ball Lightning orbits around you and deals x [15 - 25%] increased damage. x1
 - Basic Skills grant 20% Damage Reduction for [2.0 - 6.0] seconds. x1
 - Becoming Injured while Crowd Controlled grants you Unstoppable for 4 seconds. This effect has a [40 - 20] second Cooldown. x1
+- Chain Lightning has a [30 - 40%] chance to chain 4 additional times. x1
 - Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x1
 - Gain [20 - 40] of your Primary Resource for every 25% of your Life that you Heal. x1
 - Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it. x1
 - Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x1
-- When hit while not Healthy, a magical bubble is summoned around you for [3 - 5] seconds. While standing in the bubble players are Immune. Can only occur once every 90 seconds. x2
 - The Avalanche Key Passive now applies to 1 additional cast. x1
+- When hit while not Healthy, a magical bubble is summoned around you for [3 - 5] seconds. While standing in the bubble players are Immune. Can only occur once every 90 seconds. x2
 - When there are at least 5 Close enemies, Stun them for [2 - 4] seconds. This can only occur once every 20 seconds. x1
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x1
 - While channeling Incinerate, your Burning damage is increased by x [20 - 40%]. x1

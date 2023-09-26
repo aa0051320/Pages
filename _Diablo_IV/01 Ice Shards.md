@@ -87,27 +87,28 @@ As long as the Affixes of Staff is properly chosen, it can deal huge Damage to U
 But the prerequisite is that **Lucky Hit Chance** must be high enough so that Mana can keep up with Attack Speed. -->
 
 # Gear Affixes Priority
-1. Attack Speed
-2. Lucky Hit Chance
-3. Lucky Hit Chance while You Have a Barrier
-4. Lucky Hit: Up to a 5% Chance to Restore [7.0 - 14.0]% Primary
-5. Resource Generation
-6. Critical Strike Chance
-7. Damage to Distant Enemies / Damage to Close Enemies
-9. Core Skill Damage
-10. Cold Damage
-11. Frost Skill Damage
-12. Vulnerable Damage
-13. Damage
-14. Critical Strike Damage
+1. Lucky Hit Chance
+2. Lucky Hit Chance while You Have a Barrier
+3. Critical Strike Chance
+4. Resource Generation
+5. Lucky Hit: Up to a 5% Chance to Restore [7.0 - 14.0]% Primary
+6. Damage to Distant Enemies / Damage to Close Enemies
+7. Core Skill Damage
+8. Cold Damage
+9.  Frost Skill Damage
+10. Vulnerable Damage
+11. Damage
+12. Critical Strike Damage
+13. Crowd Control Duration
+14. Attack Speed
 15. Damage Reduction from Enemies That Are Burning
 16. Damage Reduction from Close Enemies /  Damage Reduction from Distant Enemies
 17. Movement Speed
 18. Movement Speed for 4 Seconds After Killing an Elite
-19. Poison Resistance
-20. Shadow Resistance
-21. Maximum Mana
-22. Potion Drop Rate
-23. Healing Received
-24. Maximum Life
+19. Maximum Mana
+20. Potion Drop Rate
+21. Healing Received
+22. Maximum Life
+23. Poison Resistance
+24. Shadow Resistance
 25. Potion Capacity
