@@ -100,8 +100,14 @@ But the prerequisite is that **Lucky Hit Chance** must be high enough so that Ma
 12. Vulnerable Damage
 13. Damage
 14. Critical Strike Damage
-15. Maximum Mana
-16. Potion Drop Rate
-17. Healing Received
-18. Maximum Life
-19. Potion Capacity
+15. Damage Reduction from Enemies That Are Burning
+16. Damage Reduction from Close Enemies /  Damage Reduction from Distant Enemies
+17. Movement Speed
+18. Movement Speed for 4 Seconds After Killing an Elite
+19. Poison Resistance
+20. Shadow Resistance
+21. Maximum Mana
+22. Potion Drop Rate
+23. Healing Received
+24. Maximum Life
+25. Potion Capacity
