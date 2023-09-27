@@ -31,10 +31,9 @@ published: true
 - Aim at Unstoppable Enemy and Boss
 
 # Priority
-Lucky Hit > Critical Strike > Crowd Control
+Lucky Hit > Critical Strike
 1. Lucky Hit is to **trigger** tons of Effects
 2. Critical Strike is to improve **Damage**
-3. Crowd Control does not work for Unstoppable Enemy and Boss in most time
 
 # Concept
 Ice Shards is great for building high DPS
@@ -50,65 +49,33 @@ DPS = Gain ÷ Cost
   - **No cost** for Crowd Control and Defense
   - When consuming Mana, Mana must also be generated simultaneously
 
-# Skill
-Active Skills
-   - Frost Bolt (Trigger)
-     - Frigid Breeze (**Mana**)
-   - Ice Shards (**Vulnerable**)
-   - Unstable Currents (**Attack Speed**)
-
-Enchantment
-  - Fire Bolt (Trigger)
-    - Devouring Blaze (**Damage**)
-  - Ball Lightning (Trigger, Damage)
-    - Coursing Currents (**Critical Strike**)
-    - Electrocution (**Defense**)
-    - Convulsions (**Stun**)
-
-Passive Skills (Flexible)
-
 # Gear
-I suggest using **Wand + Focus**  
+Compatible with [Wand + Focus] or [Staff]  
+But I suggest using **Wand + Focus**  
 Focus with appropriate Affixes can provide **better performance**
 
 > I did a comparison test for using **Staff**  
 > Although Staff can provide a huge Damage in a short time  
 > But the **shortcoming** is less Lucky Hit, Mana, Critical Strike, Crowd Control, Attack Speed, etc.
 
-<!-- # Gear
-I recommend using **Staff**.
-
-In high Tier Dungeon, enemies are often Unstoppable.  
-Crowd Control is not so useful.  
-The faster you kill enemies, the safer you are.
-
-Staff has +100% Effect.  
-As long as the Affixes of Staff is properly chosen, it can deal huge Damage to Unstoppable Enemy and Boss.  
-But the prerequisite is that **Lucky Hit Chance** must be high enough so that Mana can keep up with Attack Speed. -->
-
 # Gear Affixes Priority
 1. Lucky Hit Chance
 2. Lucky Hit Chance while You Have a Barrier
 3. Critical Strike Chance
-4. Resource Generation
-5. Lucky Hit: Up to a 5% Chance to Restore [7.0 - 14.0]% Primary
-6. Damage to Distant Enemies / Damage to Close Enemies
-7. Core Skill Damage
-8. Cold Damage
-9.  Frost Skill Damage
-10. Vulnerable Damage
-11. Damage
-12. Critical Strike Damage
-13. Crowd Control Duration
-14. Attack Speed
-15. Damage Reduction from Enemies That Are Burning
-16. Damage Reduction from Close Enemies /  Damage Reduction from Distant Enemies
-17. Movement Speed
-18. Movement Speed for 4 Seconds After Killing an Elite
-19. Maximum Mana
-20. Potion Drop Rate
-21. Healing Received
-22. Maximum Life
-23. Poison Resistance
-24. Shadow Resistance
-25. Potion Capacity
+4. Damage to Distant Enemies / Damage to Close Enemies
+5. Core Skill Damage
+6. Cold Damage
+7. Frost Skill Damage
+8. Vulnerable Damage
+9. Damage
+10. Critical Strike Damage
+11. Damage Reduction from Enemies That Are Burning
+12. Damage Reduction from Close Enemies /  Damage Reduction from Distant Enemies
+13. Attack Speed
+14. Movement Speed
+15. Resource Generation
+16. Maximum Mana
+17. Healing Received
+18. Maximum Life
+19. Potion Drop Rate
+20. Potion Capacity
