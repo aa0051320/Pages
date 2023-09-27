@@ -21,7 +21,6 @@ published: true
 - [Goal](#goal)
 - [Priority](#priority)
 - [Concept](#concept)
-- [Skill](#skill)
 - [Gear](#gear)
 - [Gear Affixes Priority](#gear-affixes-priority)
 
