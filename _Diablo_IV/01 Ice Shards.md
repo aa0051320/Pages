@@ -52,10 +52,7 @@ DPS = Gain ÷ Cost
 Compatible with [Wand + Focus] or [Staff]  
 But I suggest using **Wand + Focus**  
 Focus with appropriate Affixes can provide **better performance**
-
-> I did a comparison test for using **Staff**  
-> Although Staff can provide a huge Damage in a short time  
-> But the **shortcoming** is less Lucky Hit, Mana, Critical Strike, Crowd Control, Attack Speed, etc.
+Staff can deal a **huge Damage** in a short time
 
 # Gear Affixes Priority
 1. Lucky Hit Chance
