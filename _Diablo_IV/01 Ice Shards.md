@@ -49,10 +49,8 @@ DPS = Gain ÷ Cost
   - When consuming Mana, Mana must also be generated simultaneously
 
 # Gear
-Compatible with [Wand + Focus] or [Staff]  
-But I suggest using **Wand + Focus**  
-Focus with appropriate Affixes can provide **better performance**  
-Staff can deal a **huge Damage** in a short time
+- **Focus** with appropriate Affixes can provide **better performance**
+- **Staff** can deal a **huge Damage** in a short time
 
 # Gear Affixes Priority
 1. Lucky Hit Chance
