@@ -53,6 +53,7 @@ DPS = Gain ÷ Cost
 - **Staff** can deal a **huge Damage** in a short time
 
 # Gear Affixes Priority
+1. Attack Speed
 1. Movement Speed
 2. Lucky Hit Chance
 3. Lucky Hit Chance while You Have a Barrier
@@ -64,12 +65,9 @@ DPS = Gain ÷ Cost
 9. Vulnerable Damage
 10. Damage
 11. Critical Strike Damage
-12. Damage Reduction from Enemies That Are Burning
-13. Damage Reduction from Close Enemies /  Damage Reduction from Distant Enemies
-14. Attack Speed
-15. Resource Generation
-16. Maximum Mana
-17. Healing Received
-18. Maximum Life
-19. Potion Drop Rate
-20. Potion Capacity
+12. Resource Generation
+13. Maximum Mana
+14. Healing Received
+15. Maximum Life
+16. Potion Drop Rate
+17. Potion Capacity
