@@ -27,6 +27,7 @@ published: false
 - While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it. x1
 - While Unstoppable and for 4 seconds after, you gain [10 - 25%] increased Movement Speed and can move freely through enemies. x1
 - You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies. x1
+- You Heal for [X] Life per second for each Close enemy, up to [X] Life per second. x1
 
 # Chest 2 - Sacred Legendary Aspect
 - Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds. x1

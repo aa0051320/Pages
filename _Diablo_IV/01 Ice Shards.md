@@ -53,20 +53,20 @@ DPS = Gain ÷ Cost
 - **Staff** can deal a **huge Damage** in a short time
 
 # Gear Affixes Priority
-1. Lucky Hit Chance
-2. Lucky Hit Chance while You Have a Barrier
-3. Critical Strike Chance
-4. Damage to Distant Enemies / Damage to Close Enemies
-5. Core Skill Damage
-6. Cold Damage
-7. Frost Skill Damage
-8. Vulnerable Damage
-9. Damage
-10. Critical Strike Damage
-11. Damage Reduction from Enemies That Are Burning
-12. Damage Reduction from Close Enemies /  Damage Reduction from Distant Enemies
-13. Attack Speed
-14. Movement Speed
+1. Movement Speed
+2. Lucky Hit Chance
+3. Lucky Hit Chance while You Have a Barrier
+4. Critical Strike Chance
+5. Damage to Distant Enemies / Damage to Close Enemies
+6. Core Skill Damage
+7. Cold Damage
+8. Frost Skill Damage
+9. Vulnerable Damage
+10. Damage
+11. Critical Strike Damage
+12. Damage Reduction from Enemies That Are Burning
+13. Damage Reduction from Close Enemies /  Damage Reduction from Distant Enemies
+14. Attack Speed
 15. Resource Generation
 16. Maximum Mana
 17. Healing Received
