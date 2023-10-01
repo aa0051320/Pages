@@ -44,11 +44,12 @@ published: false
 - Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance. x1
 - Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds. x3
 - Deal [15 - 25%] increased damage while you have a Barrier active. x2
-- Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%]. x3
+- Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x2
+- Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%]. x4
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x0
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x4
 - Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy. x2
-- Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x4
+- Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x2
 - Skills deal up to [10 - 20%] increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource. x1
 - The Avalanche Key Passive now applies to 1 additional cast. x2
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
@@ -56,6 +57,7 @@ published: false
 - While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage. x1
 - You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x2
 - You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies. x2
+- You gain [0.25 - 0.50%] increased Armor for 4 seconds when you deal any form of damage, stacking up to [15.00 - 30.00%]. x1
 - You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies. x1
 - You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration. x1
 - You have 20% increased Crowd Control Duration. While enemies are Unstoppable, you deal [20 - 40%] increased damage to them. x2
@@ -65,7 +67,7 @@ published: false
 - Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds. x1
 - Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%. x1
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x1
-- You gain [0.25 - 0.50%] increased Armor for 4 seconds when you deal any form of damage, stacking up to [15.00 - 30.00%]. x1
+- You gain [0.25 - 0.50%] increased Armor for 4 seconds when you deal any form of damage, stacking up to [15.00 - 30.00%]. x2
 
 # Chest 4 - Ancestral Legendary Aspect
 - After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds. x1
@@ -79,8 +81,7 @@ published: false
 - Crackling Energy has a [30 - 40%] chance to chain to an additional enemy. x1
 - Critical Strikes grant [8.0 - 16.0%] Movement Speed for 1 second, up to 6 seconds. x1
 - Each time Chain Lightning bounces, gain [1.5 - 3.0] Mana. x1
-- Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x2
-- Gain [20 - 40] of your Primary Resource for every 25% of your Life that you Heal. x1
+- Gain [20 - 40] of your Primary Resource for every 25% of your Life that you Heal. x0
 - Gain [25 - 30%] Movement Speed for 3 seconds after Teleporting. x2
 - Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40%]. Double this bonus against Healthy enemies. x1
 - Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it. x1
@@ -100,6 +101,7 @@ published: false
 
 # Chest 4 - Sacred Legendary Aspect
 - After spending [200 - 100] Mana your next Firewall is free to cast and will destroy incoming Small Missiles. x1
+- Coming in contact with your Firewall grants you + [15 - 25%] Movement Speed for 6 seconds. x1
 - Distant enemies have a 8% chance to be Stunned for 2 seconds when they hit you. You deal [10 - 20%] increased damage to Stunned enemies. x1
 - Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill. x1
 - While you have a Barrier active, there is a [7 - 13%] chance to ignore incoming direct damage from Distant enemies. x1
