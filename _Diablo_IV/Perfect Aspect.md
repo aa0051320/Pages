@@ -28,6 +28,7 @@ published: false
 - While Unstoppable and for 4 seconds after, you gain [10 - 25%] increased Movement Speed and can move freely through enemies. x1
 - You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies. x1
 - You Heal for [X] Life per second for each Close enemy, up to [X] Life per second. x1
+- Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active. x1
 
 # Chest 2 - Sacred Legendary Aspect
 - Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds. x1
@@ -49,7 +50,7 @@ published: false
 - Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy. x2
 - Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x4
 - Skills deal up to [10 - 20%] increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource. x1
-- The Avalanche Key Passive now applies to 1 additional cast. x6
+- The Avalanche Key Passive now applies to 1 additional cast. x2
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
 - While Deep Freeze is active, you restore [20 - 30%] of your Maximum Life and Mana per second. x1
 - While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage. x1
@@ -74,7 +75,7 @@ published: false
 - Becoming Injured while Crowd Controlled grants you Unstoppable for 4 seconds. This effect has a [40 - 20] second Cooldown. x1
 - Casting a Basic or Mastery Skill reduces the Mana cost of your next Core Skill by [15 - 25%]. x1
 - Chain Lightning has a [30 - 40%] chance to chain 4 additional times. x1
-- Collecting Crackling Energy increases your Movement Speed by + [10 - 15%] for 8 seconds. x1
+- Collecting Crackling Energy increases your Movement Speed by + [10 - 15%] for 8 seconds. x2
 - Crackling Energy has a [30 - 40%] chance to chain to an additional enemy. x1
 - Critical Strikes grant [8.0 - 16.0%] Movement Speed for 1 second, up to 6 seconds. x1
 - Each time Chain Lightning bounces, gain [1.5 - 3.0] Mana. x1
