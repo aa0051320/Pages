@@ -50,7 +50,7 @@ published: false
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x0
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x3
 - Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy. x2
-- Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x4
+- Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x1
 - Skills deal up to [10 - 20%] increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource. x1
 - The Avalanche Key Passive now applies to 1 additional cast. x2
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
@@ -82,7 +82,7 @@ published: false
 - Crackling Energy has a [30 - 40%] chance to chain to an additional enemy. x1
 - Critical Strikes grant [8.0 - 16.0%] Movement Speed for 1 second, up to 6 seconds. x1
 - Each time Chain Lightning bounces, gain [1.5 - 3.0] Mana. x1
-- Gain [20 - 40] of your Primary Resource for every 25% of your Life that you Heal. x0
+- Gain [20 - 40] of your Primary Resource for every 25% of your Life that you Heal. x1
 - Gain [25 - 30%] Movement Speed for 3 seconds after Teleporting. x2
 - Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40%]. Double this bonus against Healthy enemies. x1
 - Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it. x1
