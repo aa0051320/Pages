@@ -50,7 +50,7 @@ published: false
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x0
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x3
 - Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy. x2
-- Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x1
+- Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x2
 - Skills deal up to [10 - 20%] increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource. x1
 - The Avalanche Key Passive now applies to 1 additional cast. x2
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
@@ -65,7 +65,7 @@ published: false
 - Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active. x4
 
 # Chest 3 - Sacred Legendary Aspect
-- Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds. x1
+- Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds. x2
 - Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%. x1
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x1
 - You gain [0.25 - 0.50%] increased Armor for 4 seconds when you deal any form of damage, stacking up to [15.00 - 30.00%]. x2
@@ -86,7 +86,7 @@ published: false
 - Gain [25 - 30%] Movement Speed for 3 seconds after Teleporting. x2
 - Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40%]. Double this bonus against Healthy enemies. x1
 - Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it. x1
-- Taking direct damage has a [2 - 6%] chance to reset the Cooldown of one of your Defensive Skills. x1
+- Taking direct damage has a [2 - 6%] chance to reset the Cooldown of one of your Defensive Skills. x2
 - The Vyr's Mastery Key Passive also grants x [6.0 - 9.0%] Damage Reduction for each Close enemy, up to x [18 - 27%]. x1
 - Thorns damage dealt has a [20 - 40%] chance to deal damage to all enemies around you. x1
 - Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill. x1
@@ -97,6 +97,7 @@ published: false
 - While enemies are affected by more Damage Over Time than their total Life, you deal x [60 - 80%] increased Burning damage to them. x1
 - While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it. x2
 - While Unstoppable and for 4 seconds after, you gain [10 - 25%] increased Movement Speed and can move freely through enemies. x1
+- While you have a Barrier active, there is a [7 - 13%] chance to ignore incoming direct damage from Distant enemies. x1
 - You Heal for [X] Life per second for each Close enemy, up to [X] Life per second. x1
 - You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%]. x1
 - Your casts of Charged Bolts have a [15.0 - 25.0%] chance to be attracted to enemies and and last 300% longer. x1
@@ -106,5 +107,4 @@ published: false
 - Coming in contact with your Firewall grants you + [15 - 25%] Movement Speed for 6 seconds. x1
 - Distant enemies have a 8% chance to be Stunned for 2 seconds when they hit you. You deal [10 - 20%] increased damage to Stunned enemies. x1
 - Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill. x1
-- While you have a Barrier active, there is a [7 - 13%] chance to ignore incoming direct damage from Distant enemies. x1
 - You have 8% increased Dodge Chance versus enemies affected by Damage Over Time effects. When you Dodge, you gain [5 - 10] of your Primary Resource. x1
