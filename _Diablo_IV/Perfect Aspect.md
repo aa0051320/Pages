@@ -19,6 +19,7 @@ published: false
 - Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%]. x1
 - Gain [20 - 40] of your Primary Resource for every 25% of your Life that you Heal. x1
 - Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it. x2
+- Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy. x1
 - Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x1
 - The Avalanche Key Passive now applies to 1 additional cast. x1
 - When hit while not Healthy, a magical bubble is summoned around you for [3 - 5] seconds. While standing in the bubble players are Immune. Can only occur once every 90 seconds. x2
@@ -49,7 +50,7 @@ published: false
 - Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%]. x2
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x0
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x3
-- Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy. x2
+- Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy. x1
 - Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x2
 - The Avalanche Key Passive now applies to 1 additional cast. x2
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
