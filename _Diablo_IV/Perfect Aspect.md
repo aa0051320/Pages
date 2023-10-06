@@ -57,7 +57,7 @@ published: false
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
 - While Deep Freeze is active, you restore [20 - 30%] of your Maximum Life and Mana per second. x2
 - While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage. x2
-- You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x3
+- You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x2
 - You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies. x2
 - You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies. x1
 - You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration. x2
