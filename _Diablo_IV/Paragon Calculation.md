@@ -1,8 +1,8 @@
 ---
 title: "Paragon Calculation"
 slug: "Paragon Calculation"
-order: 2
-published: true
+order: 
+published: false
 ---
 
 # {{ page.title }}

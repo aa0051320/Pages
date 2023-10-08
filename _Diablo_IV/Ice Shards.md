@@ -1,8 +1,8 @@
 ---
 title: "Ice Shards"
 slug: "Ice Shards"
-order: 1
-published: true
+order: 
+published: false
 ---
 
 # {{ page.title }} <!-- omit from toc -->
