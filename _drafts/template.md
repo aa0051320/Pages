@@ -1,6 +1,6 @@
 ---
-title: 
-slug: 
+title: ""
+slug: ""
 order: 
 published: true
 ---

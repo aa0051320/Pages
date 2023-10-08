@@ -1,6 +1,6 @@
 ---
-title: Calc
-slug: Calc
+title: "Calc"
+slug: "Calc"
 order: 
 published: false
 ---
