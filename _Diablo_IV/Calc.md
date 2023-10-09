@@ -15,6 +15,8 @@ Gloves
     26.2
   Ice Shards + Attack Speed
     (45 - 35) * 1.15 = 11.5
+  Ice Shards + Chain Lightning
+    (45 - 35) + (30 / 100) * ( 65 * 5 + 0.4 * 65 * 4 ) = 138.7
 
 Weapon
   Wand + Focus
