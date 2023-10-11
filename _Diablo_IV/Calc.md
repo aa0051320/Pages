@@ -19,13 +19,26 @@ published: false
 
   Chain Lightning 5
     50 * 5 = 250
+  Chain Lightning 9
+    65 * 5 = 325
+  Chain Lightning 5 + Unbroken Tether
+    50 * 5 + 0.4 * 50 * 5 * 4 = 650
   Chain Lightning 5 + Unbroken Tether * 2
-    50 * 5 + 0.8 * 50 * 5 * 4 = 1050
+    50 * 5 + 0.4 * 2 * 50 * 5 * 4 = 1050
+  Chain Lightning 9 + Unbroken Tether
+    65 * 5 + 0.4 * 65 * 5 * 4 = 845
+  Chain Lightning 9 + Unbroken Tether * 2
+    65 * 5 + 0.4 * 2 * 65 * 5 * 4 = 1365
 
     Ice Shards 5 + Enchantment: Chain Lightning 5
       300 + (30 / 100) * 250 = 375
+    Ice Shards 5 + Enchantment: Chain Lightning 5 + Unbroken Tether
+      300 + (30 / 100) * 650 = 495
     Ice Shards 5 + Enchantment: Chain Lightning 5 + Unbroken Tether * 2
       300 + (30 / 100) * 1050 = 615
+
+    Ice Shards 9 + Enchantment: Chain Lightning 9 + Unbroken Tether * 2
+      350 + (30 / 100) * 1365 = 759.5
 
 Gloves
   Ice Shards + Forst Orb

@@ -31,6 +31,7 @@ published: false
 - While Unstoppable and for 4 seconds after, you gain [10 - 25%] increased Movement Speed and can move freely through enemies. x1
 - You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies. x1
 - You Heal for [X] Life per second for each Close enemy, up to [X] Life per second. x1
+- Your casts of Charged Bolts have a [15.0 - 25.0%] chance to be attracted to enemies and and last 300% longer. x1
 - Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active. x1
 
 # Chest 2 - Sacred Legendary Aspect
@@ -41,7 +42,6 @@ published: false
 # Chest 2 - Legendary Aspect
 - Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill. x1
 - While enemies are affected by more Damage Over Time than their total Life, you deal x [60 - 80%] increased Burning damage to them. x1
-- Your casts of Charged Bolts have a [15.0 - 25.0%] chance to be attracted to enemies and and last 300% longer. x1
 
 # Chest 3 - Ancestral Legendary Aspect
 - Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance. x2
@@ -71,12 +71,13 @@ published: false
 
 # Chest 4 - Ancestral Legendary Aspect
 - After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds. x1
+- After spending [200 - 100] Mana your next Firewall is free to cast and will destroy incoming Small Missiles. x1
 - Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by [5 - 10%], up to 30%. x1
 - Ball Lightning orbits around you and deals x [15 - 25%] increased damage. x1
 - Basic Skills grant 20% Damage Reduction for [2.0 - 6.0] seconds. x1
 - Becoming Injured while Crowd Controlled grants you Unstoppable for 4 seconds. This effect has a [40 - 20] second Cooldown. x1
 - Casting a Basic or Mastery Skill reduces the Mana cost of your next Core Skill by [15 - 25%]. x1
-- Chain Lightning has a [30 - 40%] chance to chain 4 additional times. x2
+- Chain Lightning has a [30 - 40%] chance to chain 4 additional times. x1
 - Collecting Crackling Energy increases your Movement Speed by + [10 - 15%] for 8 seconds. x2
 - Crackling Energy has a [30 - 40%] chance to chain to an additional enemy. x1
 - Critical Strikes grant [8.0 - 16.0%] Movement Speed for 1 second, up to 6 seconds. x1
@@ -106,7 +107,6 @@ published: false
 - Your casts of Charged Bolts have a [15.0 - 25.0%] chance to be attracted to enemies and and last 300% longer. x1
 
 # Chest 4 - Sacred Legendary Aspect
-- After spending [200 - 100] Mana your next Firewall is free to cast and will destroy incoming Small Missiles. x1
 - Coming in contact with your Firewall grants you + [15 - 25%] Movement Speed for 6 seconds. x1
 - Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill. x1
 - You have 8% increased Dodge Chance versus enemies affected by Damage Over Time effects. When you Dodge, you gain [5 - 10] of your Primary Resource. x1
