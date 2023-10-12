@@ -1,6 +1,6 @@
 ---
-title: "Calc"
-slug: "Calc"
+title: "DPS Calc"
+slug: "DPS Calc"
 order: 
 published: false
 ---
@@ -22,13 +22,13 @@ published: false
   Chain Lightning 9
     65 * 5 = 325
   Chain Lightning 5 + Unbroken Tether
-    50 * 5 + 0.4 * 50 * 5 * 4 = 650
+    50 * 5 * (1 + 0.4 * 4) = 650
   Chain Lightning 5 + Unbroken Tether * 2
-    50 * 5 + 0.4 * 2 * 50 * 5 * 4 = 1050
+    50 * 5 * (1 + 0.4 * 2 * 4) = 1050
   Chain Lightning 9 + Unbroken Tether
-    65 * 5 + 0.4 * 65 * 5 * 4 = 845
+    65 * 5 * (1 + 0.4 * 4) = 845
   Chain Lightning 9 + Unbroken Tether * 2
-    65 * 5 + 0.4 * 2 * 65 * 5 * 4 = 1365
+    65 * 5 * (1 + 0.4 * 2 * 4) = 1365
 
     Ice Shards 5 + Enchantment: Chain Lightning 5
       300 + (30 / 100) * 250 = 375
@@ -36,21 +36,20 @@ published: false
       300 + (30 / 100) * 650 = 495
     Ice Shards 5 + Enchantment: Chain Lightning 5 + Unbroken Tether * 2
       300 + (30 / 100) * 1050 = 615
-
     Ice Shards 9 + Enchantment: Chain Lightning 9 + Unbroken Tether * 2
       350 + (30 / 100) * 1365 = 759.5
 
-Gloves
-  Ice Shards + Forst Orb
-    (45 - 35) + 0.3 * ( 65 + 61 + 61 * 2 * 0.4 ) = 62.44
+# Gloves
   Frostburn
-    Cold Damage
     26.2
-  Ice Shards + Attack Speed
-    (45 - 35) * 1.15 = 11.5
-  Ice Shards + Chain Lightning
-    (45 - 35) + (30 / 100) * ( 65 * 5 + 0.4 * 65 * 4 ) = 138.7
-Weapon
+  Ice Shards 4 + Attack Speed
+    (45 - 35) * (1 + 0.15) = 11.5
+  Ice Shards 4 + Forst Orb 4
+    (45 - 35) + 0.3 * ( (65 - 50) + (61 - 48) * ( 1 + 2 * 0.4) ) = 21.52
+  Ice Shards 4 + Chain Lightning 4
+    (45 - 35) + (30 / 100) * ( (65 - 50) * (5 + 0.4 * 4) ) = 39.7
+
+# Weapon
   Wand + Focus
     (21.0 + 26.2 + 35.3 + 29.2) * 1.2 * 1.3 * 1.35 = 235.2402
   Staff
