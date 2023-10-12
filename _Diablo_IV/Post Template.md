@@ -7,35 +7,28 @@ published: false
 
 # {{ page.title }}
 
-# Record
-1. Dungeon
-2. Showcase
-3. Gear
-4. Skill
-5. Paragon
-
 # X
-Sorcerer Ice Shards with Attack Speed
-Patch 1.1.4, Eternal Realm, Nightmare Dungeon Tier 80
+Sorcerer Ice Shards + Chain Lightning
+Patch 1.1.4, Eternal Realm, Nightmare Dungeon Tier 62
 Build Plan see comment below
 #PS5Share, #ディアブロIV #DiabloIV #Diablo4
 
 ## Comment
-Build Plan: Sorcerer Ice Shards with Attack Speed
-https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/
+Build Plan: Sorcerer Ice Shards + Chain Lightning
+https://d4builds.gg/builds/f124729c-25ce-4f67-ad48-b7b40c151da2/
 Latest Build Plan may fix some issue, so Build Plan may not match the content of the video
 
 # YouTube
 
 ## Title
-Sorcerer Ice Shards with Attack Speed
+Sorcerer Ice Shards + Chain Lightning
 
 ## Comment
 Patch 1.1.4
 Eternal Realm
-Nightmare Dungeon Tier 80
+Nightmare Dungeon Tier 62
 
-Build Plan: https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/
+Build Plan: https://d4builds.gg/builds/f124729c-25ce-4f67-ad48-b7b40c151da2/
 Latest Build Plan may fix some issue, so Build Plan may not match the content of the video
 
 #PS5Share #DiabloIV #Diablo4

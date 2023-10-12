@@ -103,7 +103,7 @@ published: false
 - While you have a Barrier active, there is a [7 - 13%] chance to ignore incoming direct damage from Distant enemies. x1
 - You gain [0.25 - 0.50%] increased Armor for 4 seconds when you deal any form of damage, stacking up to [15.00 - 30.00%]. x2
 - You Heal for [X] Life per second for each Close enemy, up to [X] Life per second. x1
-- You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%]. x1
+- You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%]. x2
 - Your casts of Charged Bolts have a [15.0 - 25.0%] chance to be attracted to enemies and and last 300% longer. x1
 
 # Chest 4 - Sacred Legendary Aspect
