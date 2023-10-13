@@ -1,8 +1,8 @@
 ---
 title: "DPS Calculation"
 slug: "DPS Calculation"
-order: 
-published: false
+order: 1
+published: true
 ---
 
 # {{ page.title }}
@@ -32,6 +32,7 @@ SumN = Base Damage% * ( N + 5% * N * ( N - 1 ) / 2)
   7th: 50 * ( 7 + 5% * 7 * ( 7 - 1 ) / 2 ) = 402.5
   8th: 50 * ( 8 + 5% * 8 * ( 8 - 1 ) / 2 ) = 470
   9th: 50 * ( 9 + 5% * 9 * ( 9 - 1 ) / 2 ) = 540
+  5th~9th: 60 + 62.5 + 65 + 67.5 + 70 = 325
 
 ## Single enemy, each time damage (Odd times is hit, even times is not hit)
 DamageN = Base Damage% * ( 1 + 10% ** ( N - 1 ) )
@@ -54,48 +55,62 @@ Ice Shards 5
   ( 35 + 25 ) * 5 = 300
 Ice Shards 9
   ( 45 + 25 ) * 5 = 350
-Ice Shards 5 + Storm Swell 2
-  ( 35 + 25 ) * 5 * ( 1 + 0.3 * 2 ) = 480
-Ice Shards 5 + Control 2
-  ( 35 + 25 ) * 5 * ( 1 + 0.35 * 2 ) = 510
+Ice Shards 5 + Storm Swell Aspect
+  ( 35 + 25 ) * 5 * ( 1 + 0.3 ) = 390
+Ice Shards 9 + Storm Swell Aspect
+  ( 45 + 25 ) * 5 * ( 1 + 0.3 ) = 455
+
+# Frozen Orb
+Frozen Orb 5
+  50 + 48 = 98
+Frozen Orb 9
+  65 + 61 = 126
+Frozen Orb 5 + Frozen Orbit
+  50 + 48 * ( 1 + 2 * 0.4 ) = 136.4
 
 # Chain Lightning
 Chain Lightning 5
   50 * 5 = 250
 Chain Lightning 9
   65 * 5 = 325
-Chain Lightning 5 + Unbroken Tether
-  50 * 5 * ( 1 + 0.4 * 4 ) = 650
-Chain Lightning 5 + Unbroken Tether 2
-  50 * 5 * ( 1 + 0.4 * 2 * 4 ) = 1050
-Chain Lightning 9 + Unbroken Tether
-  65 * 5 * ( 1 + 0.4 * 4 ) = 845
-Chain Lightning 9 + Unbroken Tether 2
-  65 * 5 * ( 1 + 0.4 * 2 * 4 ) = 1365
+Chain Lightning 5 + Aspect of the Unbroken Tether
+  50 * ( 5 + 0.4 * 4 ) = 330
+Chain Lightning 9 + Aspect of the Unbroken Tether
+  65 * ( 5 + 0.4 * 4 ) = 429
 
-# Ice Shards + Chain Lightning Enchantment
-Ice Shards 5 + Chain Lightning Enchantment 5
-  300 + ( 30 / 100 ) * 250 = 375
-Ice Shards 5 + Chain Lightning Enchantment 5 + Unbroken Tether
-  300 + ( 30 / 100 ) * 650 = 495
-Ice Shards 5 + Chain Lightning Enchantment 5 + Unbroken Tether 2
-  300 + ( 30 / 100 ) * 1050 = 615
+## Greater Chain Lightning
+Chain Lightning 5
+  275
+Chain Lightning 5 + Aspect of the Unbroken Tether
+  275 + 0.4 * 325 = 405
 
-# Gloves
-Frostburn 5
-  26.2
-Ice Shards 4 + Attack Speed
-  ( 45 - 35 ) * ( 1 + 0.15 ) = 11.5
-Ice Shards 4 + Forst Orb 4 + Frozen Orbit
-  ( 45 - 35 ) + 0.3 * ( ( 65 - 50 ) + ( 61 - 48 ) * ( 1 + 2 * 0.4 ) ) = 21.52
-Ice Shards 4 + Chain Lightning 4 + Unbroken Tether
-  ( 45 - 35 ) + ( 30 / 100 ) * ( ( 65 - 50 ) * ( 5 + 0.4 * 4 ) ) = 39.7
-Ice Shards 9 + Chain Lightning Enchantment 9 + Unbroken Tether 2
-  350 + ( 30 / 100 ) * 1365 = 759.5
+# Comparison
 
-# Weapon
-Wand + Focus
-  (21.0 + 26.2 + 35.3 + 29.2) * 1.2 * 1.3 * 1.35 = 235.2402
-Staff
-  (42.0 + 52.5 + 70.5 + 58.5) * 1 * 1.6 = 357.6
-    357.6 - 235.2402 = 122.3598
+## Frozen Orb Enchantment
+Ice Shards 5 + Frozen Orb Enchantment 5 + Frozen Orbit
+  ( 35 + 25 ) * 5 + 0.3 * ( 50 + 48 * ( 1 + 2 * 0.4 ) ) = 340.92
+
+( Ice Shards 5 + Frozen Orb Enchantment 5 + Frozen Orbit ) * Aspect of Frozen Memories
+  ( ( 35 + 25 ) * 5 + 0.3 * ( 50 + 48 * ( 1 + 2 * 0.4 ) ) ) * ( 1 + 0.2 * ( 1 + 0.4 ) * 2 ) = 531.8352
+
+( Ice Shards 5 + Frozen Orb Enchantment 5 + Frozen Orbit ) * Aspect of Frozen Memories * Storm Swell Aspect
+  ( ( 35 + 25 ) * 5 + 0.3 * ( 50 + 48 * ( 1 + 2 * 0.4 ) ) ) * ( 1 + 0.2 * ( 1 + 0.4 ) * 2 ) * ( 1 + 0.3 ) = 691.38576
+
+( Ice Shards 5 + Frozen Orb Enchantment 5 ) * Aspect of Frozen Memories * Storm Swell Aspect
+  ( ( 35 + 25 ) * 5 + 0.3 * ( 50 + 48 ) ) * ( 1 + 0.2 * ( 1 + 0.4 ) * 2 ) * ( 1 + 0.3 ) = 668.0232
+
+## Chain Lightning Enchantment
+Ice Shards 5 + Chain Lightning Enchantment 5 Greater + Aspect of the Unbroken Tether
+  ( ( 35 + 25 ) * 5 + ( 30 / 100 ) * 405 ) = 421.5
+
+( Ice Shards 5 + Chain Lightning Enchantment 5 Greater + Aspect of the Unbroken Tether ) * Shattered Aspect
+  ( ( 35 + 25 ) * 5 + ( 30 / 100 ) * 405 ) * ( 1 + 0.25 ) = 526.875
+  ( ( 35 + 25 ) * 5 + ( 30 / 100 ) * 405 ) * ( 1 + 0.25 + 0.4) = 695.475
+
+( Ice Shards 5 + Chain Lightning Enchantment 5 Greater + Aspect of the Unbroken Tether ) * Shattered Aspect * Storm Swell Aspect
+  ( ( 35 + 25 ) * 5 + ( 30 / 100 ) * 405 ) * ( 1 + 0.25 ) * ( 1 + 0.3 ) = 684.9375
+  ( ( 35 + 25 ) * 5 + ( 30 / 100 ) * 405 ) * ( 1 + 0.25 + 0.4) * ( 1 + 0.3 ) = 904.1175
+
+( Ice Shards 5 + Chain Lightning Enchantment 5 Greater ) * Shattered Aspect * Storm Swell Aspect
+  ( ( 35 + 25 ) * 5 + ( 30 / 100 ) * 275 ) * ( 1 + 0.25 ) * ( 1 + 0.3 ) = 621.5625
+  ( ( 35 + 25 ) * 5 + ( 30 / 100 ) * 275 ) * ( 1 + 0.25 + 0.4) * ( 1 + 0.3 ) = 820.4625
