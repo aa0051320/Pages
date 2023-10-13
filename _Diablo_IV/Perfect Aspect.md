@@ -31,11 +31,13 @@ published: false
 - While Unstoppable and for 4 seconds after, you gain [10 - 25%] increased Movement Speed and can move freely through enemies. x1
 - You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies. x1
 - You Heal for [X] Life per second for each Close enemy, up to [X] Life per second. x1
+- You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%]. x1
 - Your casts of Charged Bolts have a [15.0 - 25.0%] chance to be attracted to enemies and and last 300% longer. x1
 - Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active. x1
 
 # Chest 2 - Sacred Legendary Aspect
 - Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds. x1
+- Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%. x1
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x1
 - You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration. x1
 
@@ -47,6 +49,7 @@ published: false
 - Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance. x2
 - Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds. x3
 - Deal [15 - 25%] increased damage while you have a Barrier active. x2
+- Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%. x1
 - Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x2
 - Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%]. x2
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x2
@@ -66,7 +69,6 @@ published: false
 
 # Chest 3 - Sacred Legendary Aspect
 - Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds. x2
-- Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%. x1
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x1
 
 # Chest 4 - Ancestral Legendary Aspect
@@ -88,6 +90,7 @@ published: false
 - Gain [25 - 30%] Movement Speed for 3 seconds after Teleporting. x2
 - Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40%]. Double this bonus against Healthy enemies. x1
 - Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it. x1
+- Lucky Hit: Damage from your Pyromancy skills has up to a [12 - 17%] chance to restore 10 Mana. x1
 - Skills deal up to [10 - 20%] increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource. x1
 - Taking direct damage has a [2 - 6%] chance to reset the Cooldown of one of your Defensive Skills. x1
 - The Vyr's Mastery Key Passive also grants x [6.0 - 9.0%] Damage Reduction for each Close enemy, up to x [18 - 27%]. x1
@@ -103,7 +106,7 @@ published: false
 - While you have a Barrier active, there is a [7 - 13%] chance to ignore incoming direct damage from Distant enemies. x1
 - You gain [0.25 - 0.50%] increased Armor for 4 seconds when you deal any form of damage, stacking up to [15.00 - 30.00%]. x2
 - You Heal for [X] Life per second for each Close enemy, up to [X] Life per second. x1
-- You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%]. x2
+- You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%]. x1
 - Your casts of Charged Bolts have a [15.0 - 25.0%] chance to be attracted to enemies and and last 300% longer. x1
 
 # Chest 4 - Sacred Legendary Aspect
