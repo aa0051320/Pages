@@ -86,6 +86,13 @@ Chain Lightning 5 + Aspect of the Unbroken Tether
 
 # Comparison
 
+## Ice Shards
+Ice Shards 5 * Aspect of Frozen Memories * Storm Swell Aspect
+  ( 35 + 25 ) * 5 * ( 1 + 0.2 * ( 1 + 0.4 ) * 2 ) * ( 1 + 0.3 ) = 608.4
+
+Ice Shards 5 * Aspect of Frozen Memories * ( Storm Swell Aspect + Conceited Aspect )
+  ( 35 + 25 ) * 5 * ( 1 + 0.2 * ( 1 + 0.4 ) * 2 ) * ( 1 + 0.3 + 0.25 ) = 725.4
+
 ## Frozen Orb Enchantment
 Ice Shards 5 + Frozen Orb Enchantment 5 + Frozen Orbit
   ( 35 + 25 ) * 5 + 0.3 * ( 50 + 48 * ( 1 + 2 * 0.4 ) ) = 340.92

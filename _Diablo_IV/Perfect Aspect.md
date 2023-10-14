@@ -60,8 +60,8 @@ published: false
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
 - While Deep Freeze is active, you restore [20 - 30%] of your Maximum Life and Mana per second. x2
 - While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage. x2
-- You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x3
-- You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies. x2
+- You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x2
+- You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies. x1
 - You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies. x1
 - You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration. x2
 - You have 20% increased Crowd Control Duration. While enemies are Unstoppable, you deal [20 - 40%] increased damage to them. x2
@@ -84,7 +84,7 @@ published: false
 - Crackling Energy has a [30 - 40%] chance to chain to an additional enemy. x1
 - Critical Strikes grant [8.0 - 16.0%] Movement Speed for 1 second, up to 6 seconds. x1
 - Distant enemies have a 8% chance to be Stunned for 2 seconds when they hit you. You deal [10 - 20%] increased damage to Stunned enemies. x1
-- Each time Chain Lightning bounces, gain [1.5 - 3.0] Mana. x1
+- Each time Chain Lightning bounces, gain [1.5 - 3.0] Mana. x0
 - Flame Shield lets you move unhindered through enemies. Enemies you move through while Flame Shield is active are Immobilized for [2.0 - 3.0] seconds. x1
 - Gain [20 - 40] of your Primary Resource for every 25% of your Life that you Heal. x1
 - Gain [25 - 30%] Movement Speed for 3 seconds after Teleporting. x2
