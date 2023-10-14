@@ -8,27 +8,27 @@ published: false
 # {{ page.title }}
 
 # X
-Sorcerer Ice Shards + Chain Lightning
-Patch 1.1.4, Eternal Realm, Nightmare Dungeon Tier 62
+Sorcerer Ice Shards
+Patch 1.1.4, Eternal Realm, Nightmare Dungeon Tier 69
 Build Plan see comment below
 #PS5Share, #ディアブロIV #DiabloIV #Diablo4
 
 ## Comment
-Build Plan: Sorcerer Ice Shards + Chain Lightning
-https://d4builds.gg/builds/f124729c-25ce-4f67-ad48-b7b40c151da2/
+Build Plan: Sorcerer Ice Shards
+https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/
 Latest Build Plan may fix some issue, so Build Plan may not match the content of the video
 
 # YouTube
 
 ## Title
-Sorcerer Ice Shards + Chain Lightning
+Sorcerer Ice Shards
 
 ## Comment
 Patch 1.1.4
 Eternal Realm
-Nightmare Dungeon Tier 62
+Nightmare Dungeon Tier 69
 
-Build Plan: https://d4builds.gg/builds/f124729c-25ce-4f67-ad48-b7b40c151da2/
+Build Plan: https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/
 Latest Build Plan may fix some issue, so Build Plan may not match the content of the video
 
 #PS5Share #DiabloIV #Diablo4

@@ -39,6 +39,7 @@ published: false
 - Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds. x1
 - Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%. x1
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x1
+- While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%]. x1
 - You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration. x1
 
 # Chest 2 - Legendary Aspect
