@@ -53,7 +53,7 @@ published: false
 - Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x2
 - Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%]. x2
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x2
-- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x3
+- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x4
 - Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy. x1
 - Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x2
 - The Avalanche Key Passive now applies to 1 additional cast. x2
@@ -76,11 +76,12 @@ published: false
 - After spending [200 - 100] Mana your next Firewall is free to cast and will destroy incoming Small Missiles. x1
 - Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by [5 - 10%], up to 30%. x1
 - Ball Lightning orbits around you and deals x [15 - 25%] increased damage. x1
+- Basic Skills gain [15 - 30%] Attack Speed. x1
 - Basic Skills grant 20% Damage Reduction for [2.0 - 6.0] seconds. x1
 - Becoming Injured while Crowd Controlled grants you Unstoppable for 4 seconds. This effect has a [40 - 20] second Cooldown. x1
 - Casting a Basic or Mastery Skill reduces the Mana cost of your next Core Skill by [15 - 25%]. x1
 - Chain Lightning has a [30 - 40%] chance to chain 4 additional times. x1
-- Collecting Crackling Energy increases your Movement Speed by + [10 - 15%] for 8 seconds. x2
+- Collecting Crackling Energy increases your Movement Speed by + [10 - 15%] for 8 seconds. x1
 - Crackling Energy has a [30 - 40%] chance to chain to an additional enemy. x1
 - Critical Strikes grant [8.0 - 16.0%] Movement Speed for 1 second, up to 6 seconds. x1
 - Distant enemies have a 8% chance to be Stunned for 2 seconds when they hit you. You deal [10 - 20%] increased damage to Stunned enemies. x1
