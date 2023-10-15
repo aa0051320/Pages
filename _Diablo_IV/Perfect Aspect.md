@@ -36,9 +36,7 @@ published: false
 - Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active. x2
 
 # Chest 2 - Sacred Legendary Aspect
-- Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds. x1
 - Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%. x1
-- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x1
 - While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%]. x1
 - You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration. x1
 
@@ -55,14 +53,14 @@ published: false
 - Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x2
 - Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%]. x2
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x2
-- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x4
+- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x3
 - Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy. x1
 - Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy. x2
 - The Avalanche Key Passive now applies to 1 additional cast. x2
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
 - While Deep Freeze is active, you restore [20 - 30%] of your Maximum Life and Mana per second. x2
 - While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage. x2
-- You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x2
+- You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x3
 - You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies. x1
 - You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies. x2
 - You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration. x2
