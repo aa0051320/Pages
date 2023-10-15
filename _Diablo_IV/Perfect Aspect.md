@@ -33,7 +33,7 @@ published: false
 - You Heal for [X] Life per second for each Close enemy, up to [X] Life per second. x1
 - You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%]. x1
 - Your casts of Charged Bolts have a [15.0 - 25.0%] chance to be attracted to enemies and and last 300% longer. x1
-- Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active. x1
+- Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active. x2
 
 # Chest 2 - Sacred Legendary Aspect
 - Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds. x1
@@ -47,6 +47,7 @@ published: false
 - While enemies are affected by more Damage Over Time than their total Life, you deal x [60 - 80%] increased Burning damage to them. x1
 
 # Chest 3 - Ancestral Legendary Aspect
+- Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds. x1
 - Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance. x2
 - Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds. x3
 - Deal [15 - 25%] increased damage while you have a Barrier active. x2
@@ -66,10 +67,9 @@ published: false
 - You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies. x1
 - You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration. x2
 - You have 20% increased Crowd Control Duration. While enemies are Unstoppable, you deal [20 - 40%] increased damage to them. x2
-- Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active. x4
+- Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active. x3
 
 # Chest 3 - Sacred Legendary Aspect
-- Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds. x2
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x1
 
 # Chest 4 - Ancestral Legendary Aspect
