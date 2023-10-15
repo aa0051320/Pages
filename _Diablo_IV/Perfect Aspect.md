@@ -64,7 +64,7 @@ published: false
 - While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage. x2
 - You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x2
 - You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies. x1
-- You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies. x1
+- You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies. x2
 - You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration. x2
 - You have 20% increased Crowd Control Duration. While enemies are Unstoppable, you deal [20 - 40%] increased damage to them. x2
 - Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active. x3
