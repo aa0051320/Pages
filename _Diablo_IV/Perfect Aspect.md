@@ -24,6 +24,7 @@ published: false
 - Taking direct damage has a [2 - 6%] chance to reset the Cooldown of one of your Defensive Skills. x1
 - The Avalanche Key Passive now applies to 1 additional cast. x1
 - When hit while not Healthy, a magical bubble is summoned around you for [3 - 5] seconds. While standing in the bubble players are Immune. Can only occur once every 90 seconds. x2
+- Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40%]. Double this bonus against Healthy enemies. x1
 - When there are at least 5 Close enemies, Stun them for [2 - 4] seconds. This can only occur once every 20 seconds. x1
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x1
 - While channeling Incinerate, your Burning damage is increased by x [20 - 40%]. x1
