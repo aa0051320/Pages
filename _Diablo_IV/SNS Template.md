@@ -7,7 +7,7 @@ published: false
 
 # {{ page.title }}
 
-# X
+# X (Twitter)
 Sorcerer Ice Shards
 Patch 1.1.4, Eternal Realm, Nightmare Dungeon Tier 69
 Build Plan see comment below
