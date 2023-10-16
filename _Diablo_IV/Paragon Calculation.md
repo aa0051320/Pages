@@ -2,10 +2,14 @@
 title: "Paragon Calculation"
 slug: "Paragon Calculation"
 order: 
-published: false
+published: true
 ---
 
 # {{ page.title }}
+
+|                             Game                             | Patch |     Realm     |  Class   |
+| :----------------------------------------------------------: | :---: | :-----------: | :------: |
+| [Diablo IV](https://diablo4.blizzard.com/){:target="_blank"} | 1.2.1 | Eternal Realm | Sorcerer |
 
 1. Starting Board
    - Strength 10

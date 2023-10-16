@@ -2,10 +2,14 @@
 title: "DPS Calculation"
 slug: "DPS Calculation"
 order: 
-published: false
+published: true
 ---
 
 # {{ page.title }}
+
+|                             Game                             | Patch |     Realm     |  Class   |
+| :----------------------------------------------------------: | :---: | :-----------: | :------: |
+| [Diablo IV](https://diablo4.blizzard.com/){:target="_blank"} | 1.1.4 | Eternal Realm | Sorcerer |
 
 # Greater Chain Lightning Calculation
 
