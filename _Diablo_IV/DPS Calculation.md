@@ -14,7 +14,7 @@ published: true
 # Greater Chain Lightning Calculation
 
 ## Multiple enemies, each time damage
-DamageN = Base Damage% * ( 1 + 5% ** ( N - 1 ) )
+DamageN = Base Damage% * ( 1 + 5% * ( N - 1 ) )
 - 1st: 50 * ( 1 + 5% * ( 1 - 1 ) ) = 50
 - 2nd: 50 * ( 1 + 5% * ( 2 - 1 ) ) = 52.5
 - 3rd: 50 * ( 1 + 5% * ( 3 - 1 ) ) = 55
@@ -39,7 +39,7 @@ SumN = Base Damage% * ( N + 5% * N * ( N - 1 ) / 2)
 - 5th~9th: 60 + 62.5 + 65 + 67.5 + 70 = 325
 
 ## Single enemy, each time damage (Odd times is hit, even times is not hit)
-DamageN = Base Damage% * ( 1 + 10% ** ( N - 1 ) )
+DamageN = Base Damage% * ( 1 + 10% * ( N - 1 ) )
 - 1st: 50 * ( 1 + 10% * ( 1 - 1 ) ) = 50
 - 2nd: 50 * ( 1 + 10% * ( 2 - 1 ) ) = 55
 - 3rd: 50 * ( 1 + 10% * ( 3 - 1 ) ) = 60
