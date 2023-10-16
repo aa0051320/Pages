@@ -10,7 +10,8 @@ published: false
 1. Starting Board
    - Strength 10
    - Dexterity 39
-     - Flamefeeder 10 * ( 39 / 5 ) + 10 = 88
+     - Exploit 8 * ( 39 / 5 ) = 62.4
+     - Exploit 8 * ( 39 / 5 ) + 10 = 72.4
    - Intelligence 70
    - Willpower 39
 2. Frigid Fate
@@ -48,12 +49,14 @@ published: false
 
 ## Result
 
-|     #     |       Board        |    Glyph    | Base% |   Multiple    |  Bonus  |       Result%       |
-| :-------: | :----------------: | :---------: | :---: | :-----------: | :-----: | :-----------------: |
-|     1     |      Starting      | Flamefeeder |  10   | 39 / 5 = 7.8  |   10    |         88          |
-|     2     |    Frigid Fate     |  Enchanter  |  6.5  |  70 / 5 = 14  |         |         91          |
-|     3     |  Burning Instinct  | Destruction |  20   | 49 / 5 = 9.8  | 0 ~ 12  |      196 ~ 208      |
-|     4     |      Icefall       |  Frostbite  | 14.9  | 54 / 5 = 10.8 |         |       160.92        |
-|     5     | Enchantment Master |   Control   | 14.9  | 39 / 5 = 7.8  | 10 ~ 20 |   126.22 ~ 136.22   |
-|     6     | Elemental Summoner |   Imbiber   |  9.8  | 54 / 5 = 10.8 |         |       105.84        |
-| **Total** |                    |             |       |               |         | **767.98 ~ 789.98** |
+|   #   |       Board        |    Glyph    | Base% |   Multiple    |  Bonus  |     Result%     |
+| :---: | :----------------: | :---------: | :---: | :-----------: | :-----: | :-------------: |
+|   1   |      Starting      |   Exploit   |   8   | 39 / 5 = 7.8  |   10    |   62.4 ~ 72.4   |
+|   2   |    Frigid Fate     |  Enchanter  |  6.5  |  70 / 5 = 14  |         |       91        |
+|   3   |  Burning Instinct  | Destruction |  20   | 49 / 5 = 9.8  | 0 ~ 12  |    196 ~ 208    |
+|   4   |      Icefall       |  Frostbite  | 14.9  | 54 / 5 = 10.8 |         |     160.92      |
+|   5   | Enchantment Master |   Control   | 14.9  | 39 / 5 = 7.8  | 10 ~ 20 | 126.22 ~ 136.22 |
+|   6   | Elemental Summoner |   Imbiber   |  9.8  | 54 / 5 = 10.8 |         |     105.84      |
+
+Min: 62.4 + 91 + 196 + 160.92 + 126.22 + 105.84 = 742.38
+Max: 72.4 + 91 + 208 + 160.92 + 136.22 + 105.84 = 774.38
