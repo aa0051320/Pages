@@ -1,6 +1,6 @@
 ---
-title: "Post Template"
-slug: "Post Template"
+title: "SNS Template"
+slug: "SNS Template"
 order: 
 published: false
 ---
