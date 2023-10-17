@@ -11,6 +11,9 @@ published: false
 | :----------------------------------------------------------: | :---: | :-----------: | :------: |
 | [Diablo IV](https://diablo4.blizzard.com/){:target="_blank"} | 1.1.4 | Eternal Realm | Sorcerer |
 
+# Priority
+Lucky > Critical Strike Chance > Attack Speed > Skill > Intelligence > +Damage
+
 # Greater Chain Lightning Calculation
 
 ## Multiple enemies, each time damage
