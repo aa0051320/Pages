@@ -2,7 +2,7 @@
 title: "Paragon Calculation"
 slug: "Paragon Calculation"
 order: 
-published: true
+published: false
 ---
 
 # {{ page.title }}
