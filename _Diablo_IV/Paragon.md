@@ -14,20 +14,20 @@ published: false
 1. Starting Board
    - Strength 10
    - Dexterity 39
-     - Flamefeeder 10 * ( 39 / 5 ) + 10 = 88
+     - Flamefeeder 9.9 * ( 39 / 5 ) + 10 = 87.22
    - Intelligence 70
    - Willpower 39
 2. Frigid Fate
    - Strength 15
    - Dexterity 29
    - Intelligence 70
-     - Enchanter 6.5 * ( 70 / 5 ) = 91
+     - Enchanter 6.6 * ( 70 / 5 ) = 92.4
    - Willpower 44
 3. Burning Instinct
    - Strength 5
    - Dexterity 49
-     - Destruction 20 * ( 49 / 5 ) = 196
-     - Destruction 20 * ( 49 / 5 ) + 12 = 208
+     - Destruction 19.8 * ( 49 / 5 ) = 194.04
+     - Destruction 19.8 * ( 49 / 5 ) + 12 = 206.04
    - Intelligence 70
    - Willpower 34
 4. Icefall
@@ -48,18 +48,4 @@ published: false
    - Dexterity 34
    - Intelligence 60
    - Willpower 54
-     - Imbiber 9.8 * ( 54 / 5 ) = 105.84
-
-## Result
-
-|   #   |       Board        |    Glyph    | Base% |   Multiple    |  Bonus  |     Result%     |
-| :---: | :----------------: | :---------: | :---: | :-----------: | :-----: | :-------------: |
-|   1   |      Starting      | Flamefeeder |  10   | 39 / 5 = 7.8  |   10    |       88        |
-|   2   |    Frigid Fate     |  Enchanter  |  6.5  |  70 / 5 = 14  |         |       91        |
-|   3   |  Burning Instinct  | Destruction |  20   | 49 / 5 = 9.8  | 0 ~ 12  |    196 ~ 208    |
-|   4   |      Icefall       |  Frostbite  | 14.9  | 54 / 5 = 10.8 |         |     160.92      |
-|   5   | Enchantment Master |   Control   | 14.9  | 39 / 5 = 7.8  | 10 ~ 20 | 126.22 ~ 136.22 |
-|   6   | Elemental Summoner |   Imbiber   |  9.8  | 54 / 5 = 10.8 |         |     105.84      |
-
-- Min: 88 + 91 + 196 + 160.92 + 126.22 + 105.84 = 767.98
-- Max: 88 + 91 + 208 + 160.92 + 136.22 + 105.84 = 789.98
+     - Imbiber 9.9 * ( 54 / 5 ) = 106.92
