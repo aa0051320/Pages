@@ -8,25 +8,27 @@ published: false
 # {{ page.title }}
 
 # X (Twitter)
-Sorcerer Ice Shards
-Patch 1.1.4, Eternal Realm, Nightmare Dungeon Tier 69
+Ice Shards, Frozen = Defense
+
+Patch 1.2.0, Eternal Realm
+Sorcerer, Nightmare Dungeon Tier 78
+
 Build Plan see comment below
 #PS5Share, #ディアブロIV #DiabloIV #Diablo4
 
 ## Comment
 Build Plan: Sorcerer Ice Shards
-https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/
 Latest Build Plan may fix some issue, so Build Plan may not match the content of the video
+https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/
 
 # YouTube
 
 ## Title
-Sorcerer Ice Shards
+Ice Shards, Frozen = Defense
 
 ## Comment
-Patch 1.1.4
-Eternal Realm
-Nightmare Dungeon Tier 69
+Patch 1.2.0, Eternal Realm
+Sorcerer, Nightmare Dungeon Tier 78
 
 Build Plan: https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/
 Latest Build Plan may fix some issue, so Build Plan may not match the content of the video
