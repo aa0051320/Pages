@@ -12,7 +12,12 @@ published: false
 | [Diablo IV](https://diablo4.blizzard.com/){:target="_blank"} | 1.2.0 | Eternal Realm | Sorcerer |
 
 # Priority
-Lucky > Critical Strike Chance > Attack Speed > Skill > Intelligence > +Damage
+1. Lucky Hit Chance
+2. Critical Strike Chance
+3. Attack Speed
+4. Intelligence
+5. Additive Damage
+6. Skill
 
 # Skill
 
