@@ -8,10 +8,10 @@ published: false
 # {{ page.title }}
 
 # X (Twitter)
-Ice Shards, Frozen = Defense
+Ice Shards, Lord Zir
 
 Patch 1.2.0, Eternal Realm
-Sorcerer, Nightmare Dungeon Tier 78
+Sorcerer, Ancient’s Seat
 
 Build Plan see comment below
 #PS5Share, #ディアブロIV #DiabloIV #Diablo4
@@ -24,11 +24,11 @@ https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/
 # YouTube
 
 ## Title
-Ice Shards, Frozen = Defense
+Ice Shards, Lord Zir
 
 ## Comment
 Patch 1.2.0, Eternal Realm
-Sorcerer, Nightmare Dungeon Tier 78
+Sorcerer, Ancient’s Seat
 
 Build Plan: https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/
 Latest Build Plan may fix some issue, so Build Plan may not match the content of the video
