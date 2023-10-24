@@ -17,7 +17,7 @@ published: false
 3. Attack Speed
 4. Intelligence
 5. Additive Damage
-6. Skill
+6. Skill / Effect
 
 # Skill
 
