@@ -12,8 +12,8 @@ published: false
 | [Diablo IV](https://diablo4.blizzard.com/){:target="_blank"} | 1.2.0 | Eternal Realm | Sorcerer |
 
 # Priority
-1. Lucky Hit Chance
-2. Critical Strike Chance
+1. Lucky Hit Chance > Resource Generation > Maximum Mana
+2. Critical Strike Chance > Movement Speed
 3. Attack Speed
 4. Intelligence
 5. Additive Damage
