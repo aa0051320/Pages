@@ -15,7 +15,7 @@ published: false
 1. Lucky Hit Chance > Resource Generation > Maximum Mana
 2. Critical Strike Chance > Movement Speed
 3. Attack Speed
-4. Intelligence
+4. Intelligence > All Stats
 5. Additive Damage
 6. Skill / Effect
 
