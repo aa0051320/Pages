@@ -8,11 +8,9 @@ published: false
 # {{ page.title }}
 
 # X (Twitter)
-Ice Shards, Lord Zir
-
-Patch 1.2.0, Eternal Realm
-Sorcerer, Ancient’s Seat
-
+Ice Shards, Echo Of Lilith (Uber Lilith)
+Patch 1.2.1, Eternal Realm
+Sorcerer, Echo of Hatred
 Build Plan see comment below
 #PS5Share, #ディアブロIV #DiabloIV #Diablo4
 
@@ -24,11 +22,11 @@ https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/
 # YouTube
 
 ## Title
-Ice Shards, Lord Zir
+Ice Shards, Echo Of Lilith (Uber Lilith)
 
 ## Comment
-Patch 1.2.0, Eternal Realm
-Sorcerer, Ancient’s Seat
+Patch 1.2.1, Eternal Realm
+Sorcerer, Echo of Hatred
 
 Build Plan: https://d4builds.gg/builds/6772f794-db2e-4bf3-90be-6e6fe4897bdc/
 Latest Build Plan may fix some issue, so Build Plan may not match the content of the video
