@@ -9,10 +9,7 @@ published: false
 
 # X (Twitter)
 Ice Shards (Ball Lightning) | Echo Of Lilith (Uber Lilith)
-Patch 1.2.2
-Eternal Realm
-Sorcerer
-Echo of Hatred
+Patch 1.2.2 | Eternal Realm | Sorcerer | Echo of Hatred
 Build Plan see comment below
 #PS5Share, #ディアブロIV #DiabloIV #Diablo4
 
@@ -27,10 +24,7 @@ https://d4builds.gg/builds/c740847b-3fca-4ec5-902f-20fe4c47bdb1/
 Ice Shards (Ball Lightning) | Echo Of Lilith (Uber Lilith)
 
 ## Comment
-Patch 1.2.2
-Eternal Realm
-Sorcerer
-Echo of Hatred
+Patch 1.2.2 | Eternal Realm | Sorcerer | Echo of Hatred
 
 Build Plan: https://d4builds.gg/builds/c740847b-3fca-4ec5-902f-20fe4c47bdb1/
 Latest Build Plan may fix some issue, so Build Plan may not match the content of the video
