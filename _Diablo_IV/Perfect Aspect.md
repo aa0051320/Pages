@@ -28,6 +28,7 @@ published: false
 - Gain + [20 - 30%] increased damage to a set of damage types for 7 seconds. This effect alternates between 2 sets: • Fire, Lightning, and Physical. • Cold, Poison, and Shadow. x2
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x3
 - The Avalanche Key Passive now applies to 1 additional cast. x3
+- When you cast Blizzard it will periodically spawn exploding Ice Spikes that deal [X] damage. Your Ice Spikes deal 15% increased damage to Frozen enemies. x'1
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
 - While Deep Freeze is active, exploding Ice Spikes form in the area, dealing [X] Cold Damage. Your Ice Spikes have [50%] increased explosion radius. x'2
 - While Deep Freeze is active, you restore [20 - 30%] of your Maximum Life and Mana per second. x2
