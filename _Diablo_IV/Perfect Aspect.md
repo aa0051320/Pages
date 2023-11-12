@@ -13,7 +13,7 @@ published: false
 - Deal [15 - 25%] increased damage while you have a Barrier active. x2
 - Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x1
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x1
-- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x4
+- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x3
 - The Avalanche Key Passive now applies to 1 additional cast. x3
 - While Ice Armor is active, you leave behind exploding Ice Spikes that deal [X] damage. Your Ice Spikes Chill enemies for 15%. x'1
 - You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies. x'1
