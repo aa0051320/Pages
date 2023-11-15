@@ -14,7 +14,7 @@ published: false
 - Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x1
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x1
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x3
-- The Avalanche Key Passive now applies to 1 additional cast. x3
+- The Avalanche Key Passive now applies to 1 additional cast. x2
 - While Ice Armor is active, you leave behind exploding Ice Spikes that deal [X] damage. Your Ice Spikes Chill enemies for 15%. x'1
 - You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies. x'1
 
@@ -28,7 +28,7 @@ published: false
 - Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%]. x3
 - Gain + [20 - 30%] increased damage to a set of damage types for 7 seconds. This effect alternates between 2 sets: • Fire, Lightning, and Physical. • Cold, Poison, and Shadow. x2
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x3
-- The Avalanche Key Passive now applies to 1 additional cast. x3
+- The Avalanche Key Passive now applies to 1 additional cast. x4
 - When you cast Blizzard it will periodically spawn exploding Ice Spikes that deal [X] damage. Your Ice Spikes deal 15% increased damage to Frozen enemies. x'2
 - When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds. x2
 - While Deep Freeze is active, exploding Ice Spikes form in the area, dealing [X] Cold Damage. Your Ice Spikes have [50%] increased explosion radius. x'2
