@@ -64,7 +64,7 @@ published: false
 - You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%]. x2
 
 # Chest 4 (Others)
-- After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds. x1
+- After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds. x2
 - Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by [5 - 10%], up to 30%. x2
 - Basic Skills gain [15 - 30%] Attack Speed. x1
 - Basic Skills grant 20% Damage Reduction for [2.0 - 6.0] seconds. x2
