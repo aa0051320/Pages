@@ -14,7 +14,7 @@ published: false
 - Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x1
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x1
 - Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x3
-- The Avalanche Key Passive now applies to 1 additional cast. x2
+- The Avalanche Key Passive now applies to 1 additional cast. x3
 - While Ice Armor is active, you leave behind exploding Ice Spikes that deal [X] damage. Your Ice Spikes Chill enemies for 15%. x'1
 - You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies. x'1
 
@@ -23,7 +23,7 @@ published: false
 - Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance. x3
 - Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds. x3
 - Damaging an Elite enemy grants you a Barrier absorbing up to [X] damage for 10 seconds. This effect can only happen once every 30 seconds. x'3
-- Deal [15 - 25%] increased damage while you have a Barrier active. x3
+- Deal [15 - 25%] increased damage while you have a Barrier active. x4
 - Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x2
 - Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%]. x3
 - Gain + [20 - 30%] increased damage to a set of damage types for 7 seconds. This effect alternates between 2 sets: • Fire, Lightning, and Physical. • Cold, Poison, and Shadow. x2
