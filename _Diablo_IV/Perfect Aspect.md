@@ -9,11 +9,11 @@ published: false
 
 # Bag
 - Chain Lightning has a [30 - 40%] chance to chain 4 additional times. x1
-- Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds. x1
+- Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds. x0
 - Deal [15 - 25%] increased damage while you have a Barrier active. x2
 - Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x1
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x1
-- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x2
+- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x1
 - The Avalanche Key Passive now applies to 1 additional cast. x3
 - While Ice Armor is active, you leave behind exploding Ice Spikes that deal [X] damage. Your Ice Spikes Chill enemies for 15%. x'3
 - You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x'2
@@ -59,7 +59,7 @@ published: false
 - Meteorites fall around Meteor, dealing [X] Fire damage in impact. Your Meteorites additionally Burn enemies they hit for [X] damage over 6 seconds. x'2
 - The Vyr's Mastery Key Passive also grants x [6.0 - 9.0%] Damage Reduction for each Close enemy, up to x [18 - 27%]. x2
 - Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill. x4
-- While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%]. x3
+- While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%]. x2
 - While channeling Incinerate, your Burning damage is increased by x [20 - 40%]. x2
 - While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it. x3
 - You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%]. x2
