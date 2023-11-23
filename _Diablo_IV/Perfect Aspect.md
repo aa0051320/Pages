@@ -13,7 +13,7 @@ published: false
 - Deal [15 - 25%] increased damage while you have a Barrier active. x2
 - Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x1
 - Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage. x1
-- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x1
+- Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit. x2
 - The Avalanche Key Passive now applies to 1 additional cast. x3
 - While Ice Armor is active, you leave behind exploding Ice Spikes that deal [X] damage. Your Ice Spikes Chill enemies for 15%. x'3
 - You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier. x'2
@@ -45,7 +45,7 @@ published: false
 - After spending [200 - 100] Mana your next Firewall is free to cast and will destroy incoming Small Missiles. x2
 - Ball Lightning orbits around you and deals x [15 - 25%] increased damage. x3
 - Chain Lightning has a [30 - 40%] chance to chain 4 additional times. x3
-- Charged Bolts pierce, but deal [60 - 40%] less damage to targets hit after the first. x1
+- Charged Bolts pierce, but deal [60 - 40%] less damage to targets hit after the first. x2
 - Collecting Crackling Energy increases your Movement Speed by + [10 - 15%] for 8 seconds. x2
 - Coming in contact with your Firewall grants you + [15 - 25%] Movement Speed for 6 seconds. x1
 - Crackling Energy has a [30 - 40%] chance to chain to an additional enemy. x2
