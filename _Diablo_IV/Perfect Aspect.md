@@ -9,6 +9,7 @@ published: false
 
 # Bag
 - Chain Lightning has a [30 - 40%] chance to chain 4 additional times. x1
+- Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance. x'1
 - Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds. x0
 - Deal [15 - 25%] increased damage while you have a Barrier active. x2
 - Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen. x1
