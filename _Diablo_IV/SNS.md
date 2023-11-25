@@ -10,18 +10,19 @@ published: false
 # YouTube
 
 ## Title
-Ice Shards (Attack Speed) | Echo Of Lilith (Uber Lilith)
+Ball Lightning | Echo Of Lilith (Uber Lilith) 4P
 
 ## Comment
+Lilith 4P is the highest HP version.
+
 Patch: 1.2.2
 Realm: Eternal Realm
 Class: Sorcerer
 Location: Echo of Hatred
 
-Build Plan
-https://d4builds.gg/builds/dbeac600-d6a1-49d0-8845-0ffc2f4e6925/
+Build Plan: https://d4builds.gg/builds/461a8a46-f9be-43e7-9783-ae5fd08d127d/
 
-Please check out the latest video to see a better Build Plan
+Please check out the latest video to see a better Build Plan.
 
 #PS5Share #DiabloIV #Diablo4
 
