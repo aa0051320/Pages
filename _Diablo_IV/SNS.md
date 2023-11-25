@@ -10,10 +10,11 @@ published: false
 # YouTube
 
 ## Title
-Ball Lightning | Echo Of Lilith (Uber Lilith) 4P
+Ball Lightning | Lilith 4P Standard
 
 ## Comment
-Lilith 4P is the highest HP version.
+4P: The highest HP version.
+1 Carry 3: Only 1 person deal damage, the other 3 teammates only take a walk.
 
 Patch: 1.2.2
 Realm: Eternal Realm
