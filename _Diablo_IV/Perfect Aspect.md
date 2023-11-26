@@ -12,7 +12,7 @@ published: false
 - x'1 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
 - x'2 You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
 - x0 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
-- x0 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
+- x'1 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 - x1 Chain Lightning has a [30 - 40%] chance to chain 4 additional times.
 - x1 Deal [15 - 25%] increased damage while you have a Barrier active.
 - x1 Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen.
