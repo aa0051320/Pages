@@ -8,11 +8,11 @@ published: false
 # {{ page.title }}
 
 # Bag
+- x'1 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 - x'1 While Ice Armor is active, you leave behind exploding Ice Spikes that deal [X] damage. Your Ice Spikes Chill enemies for 15%.
 - x'1 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
 - x'2 You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
 - x0 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
-- x'1 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 - x1 Chain Lightning has a [30 - 40%] chance to chain 4 additional times.
 - x1 Deal [15 - 25%] increased damage while you have a Barrier active.
 - x1 Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen.
@@ -22,18 +22,19 @@ published: false
 - x2 Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit.
 - x2 The Avalanche Key Passive now applies to 1 additional cast.
 
-# Chest 2 (Cold)
-- x'2 When you cast Blizzard it will periodically spawn exploding Ice Spikes that deal [X] damage. Your Ice Spikes deal 15% increased damage to Frozen enemies.
-- x'2 While Deep Freeze is active, exploding Ice Spikes form in the area, dealing [X] Cold Damage. Your Ice Spikes have [50%] increased explosion radius.
+# Chest 2 (Cold, Elemental)
+- x'1 When you cast Blizzard it will periodically spawn exploding Ice Spikes that deal [X] damage. Your Ice Spikes deal 15% increased damage to Frozen enemies.
+- x'1 While Deep Freeze is active, exploding Ice Spikes form in the area, dealing [X] Cold Damage. Your Ice Spikes have [50%] increased explosion radius.
 - x1 Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds.
 - x1 While you have a Barrier active, there is a [7 - 13%] chance to ignore incoming direct damage from Distant enemies.
 - x1 You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
 - x2 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 - x2 Deal [15 - 25%] increased damage while you have a Barrier active.
 - x2 Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen.
+- x2 Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage.
 - x2 Gain + [20 - 30%] increased damage to a set of damage types for 7 seconds. This effect alternates between 2 sets: • Fire, Lightning, and Physical. • Cold, Poison, and Shadow.
 - x2 Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit.
-- x2 The Avalanche Key Passive now applies to 1 additional cast.
+- x3 The Avalanche Key Passive now applies to 1 additional cast.
 - x2 When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds.
 - x2 While Deep Freeze is active, you restore [20 - 30%] of your Maximum Life and Mana per second.
 - x2 While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage.
@@ -43,8 +44,8 @@ published: false
 - x3 You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies.
 
 # Chest 3 (Lightning, Fire)
-- x'2 A hail of Meteorites falls during Inferno, dealing [X] Fire Damage on impact. Your Meteorites Immobilize enemies for 3 seconds.
-- x'2 Meteorites fall around Meteor, dealing [X] Fire damage in impact. Your Meteorites additionally Burn enemies they hit for [X] damage over 6 seconds.
+- x'1 A hail of Meteorites falls during Inferno, dealing [X] Fire Damage on impact. Your Meteorites Immobilize enemies for 3 seconds.
+- x'1 Meteorites fall around Meteor, dealing [X] Fire damage in impact. Your Meteorites additionally Burn enemies they hit for [X] damage over 6 seconds.
 - x1 Coming in contact with your Firewall grants you + [15 - 25%] Movement Speed for 6 seconds.
 - x2 After spending [200 - 100] Mana your next Firewall is free to cast and will destroy incoming Small Missiles.
 - x2 Ball Lightning orbits around you and deals x [15 - 25%] increased damage.
@@ -53,7 +54,6 @@ published: false
 - x2 Crackling Energy has a [30 - 40%] chance to chain to an additional enemy.
 - x2 Each time Chain Lightning bounces, gain [1.5 - 3.0] Mana.
 - x2 Flame Shield lets you move unhindered through enemies. Enemies you move through while Flame Shield is active are Immobilized for [2.0 - 3.0] seconds.
-- x2 Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage.
 - x2 Gain [25 - 30%] Movement Speed for 3 seconds after Teleporting.
 - x2 Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40%]. Double this bonus against Healthy enemies.
 - x2 Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it.
@@ -66,7 +66,7 @@ published: false
 - x3 While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it.
 - x4 Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill.
 
-# Chest 4 (Others)
+# Chest 4 (Non-Elemental)
 - x'1 Damaging an Elite enemy grants you a Barrier absorbing up to [X] damage for 10 seconds. This effect can only happen once every 30 seconds.
 - x'1 You Heal for [X] Life per second for each Close enemy, up to [X] Life per second.
 - x1 After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds.
