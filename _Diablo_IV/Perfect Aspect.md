@@ -8,7 +8,7 @@ published: false
 # {{ page.title }}
 
 # Bag
-- x'1 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
+- x'2 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 - x'1 While Ice Armor is active, you leave behind exploding Ice Spikes that deal [X] damage. Your Ice Spikes Chill enemies for 15%.
 - x'1 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
 - x'2 You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
