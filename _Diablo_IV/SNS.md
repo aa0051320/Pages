@@ -22,8 +22,7 @@ Class: Sorcerer
 Location: Echo of Hatred
 
 Build Plan: https://d4builds.gg/builds/461a8a46-f9be-43e7-9783-ae5fd08d127d/
-
-Please check out the latest video to see a better Build Plan.
+Please check out the latest video for a better Build Plan.
 
 #PS5Share #DiabloIV #Diablo4
 
