@@ -8,9 +8,9 @@ published: false
 # {{ page.title }}
 
 # Bag
-- x'2 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 - x'1 While Ice Armor is active, you leave behind exploding Ice Spikes that deal [X] damage. Your Ice Spikes Chill enemies for 15%.
 - x'1 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
+- x'2 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 - x'2 You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
 - x0 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
 - x1 Chain Lightning has a [30 - 40%] chance to chain 4 additional times.
@@ -34,14 +34,14 @@ published: false
 - x2 Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage.
 - x2 Gain + [20 - 30%] increased damage to a set of damage types for 7 seconds. This effect alternates between 2 sets: • Fire, Lightning, and Physical. • Cold, Poison, and Shadow.
 - x2 Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit.
-- x3 The Avalanche Key Passive now applies to 1 additional cast.
 - x2 When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds.
 - x2 While Deep Freeze is active, you restore [20 - 30%] of your Maximum Life and Mana per second.
 - x2 While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage.
+- x2 You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies.
 - x2 Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active.
 - x3 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
 - x3 Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%].
-- x3 You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies.
+- x3 The Avalanche Key Passive now applies to 1 additional cast.
 
 # Chest 3 (Lightning, Fire)
 - x'1 A hail of Meteorites falls during Inferno, dealing [X] Fire Damage on impact. Your Meteorites Immobilize enemies for 3 seconds.
