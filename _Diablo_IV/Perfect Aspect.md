@@ -70,6 +70,7 @@ published: false
 # Chest 4 (Non-Elemental)
 - x'1 Damaging an Elite enemy grants you a Barrier absorbing up to [X] damage for 10 seconds. This effect can only happen once every 30 seconds.
 - x'1 You Heal for [X] Life per second for each Close enemy, up to [X] Life per second.
+- x0 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
 - x1 After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds.
 - x1 Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by [5 - 10%], up to 30%.
 - x1 Basic Skills gain [15 - 30%] Attack Speed.
