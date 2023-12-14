@@ -84,7 +84,6 @@ published: false
 - x1 Using a Cooldown restores [15 - 25] Mana.
 - x1 When hit while not Healthy, a magical bubble is summoned around you for [3 - 5] seconds. While standing in the bubble players are Immune. Can only occur once every 90 seconds.
 - x1 When there are at least 5 Close enemies, Stun them for [2 - 4] seconds. This can only occur once every 20 seconds.
-- x1 While Unstoppable and for 4 seconds after, you gain [10 - 25%] increased Movement Speed and can move freely through enemies.
 - x1 You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies.
 - x1 You gain 20% Movement Speed. Lose this bonus for 2.5-5 seconds after taking damage.
 - x1 You have 8% increased Dodge Chance versus enemies affected by Damage Over Time effects. When you Dodge, you gain [5 - 10] of your Primary Resource.
@@ -96,6 +95,7 @@ published: false
 - x2 Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy.
 - x2 Skills deal up to [10 - 20%] increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource.
 - x2 Taking direct damage has a [2 - 6%] chance to reset the Cooldown of one of your Defensive Skills.
+- x2 While Unstoppable and for 4 seconds after, you gain [10 - 25%] increased Movement Speed and can move freely through enemies.
 - x2 You gain [0.6 - 1.1%] increased Armor for 4 seconds when you deal any form of damage, stacking up to [36 - 66%].
 - x2 You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration.
 - x2 You have 20% increased Crowd Control Duration. While enemies are Unstoppable, you deal [20 - 40%] increased damage to them.
