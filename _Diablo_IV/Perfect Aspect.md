@@ -12,7 +12,7 @@ published: false
 - x'1 While Ice Armor is active, you leave behind exploding Ice Spikes that deal [X] damage. Your Ice Spikes Chill enemies for 15%.
 - x'1 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
 - x'2 You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
-- x'3 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
+- x'4 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 - x0 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
 - x0 Deal [15 - 25%] increased damage while you have a Barrier active.
 - x1 Chain Lightning has a [30 - 40%] chance to chain 4 additional times.
@@ -39,10 +39,10 @@ published: false
 - x2 While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage.
 - x2 You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies.
 - x3 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
-- x3 Deal [15 - 25%] increased damage while you have a Barrier active.
 - x3 Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%].
 - x3 The Avalanche Key Passive now applies to 1 additional cast.
 - x3 Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active.
+- x4 Deal [15 - 25%] increased damage while you have a Barrier active.
 
 # Chest 3 (Lightning, Fire)
 - x'1 A hail of Meteorites falls during Inferno, dealing [X] Fire Damage on impact. Your Meteorites Immobilize enemies for 3 seconds.
@@ -63,9 +63,9 @@ published: false
 - x2 While channeling Incinerate, your Burning damage is increased by x [20 - 40%].
 - x2 You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%].
 - x3 Chain Lightning has a [30 - 40%] chance to chain 4 additional times.
-- x3 Each time Chain Lightning bounces, gain [1.5 - 3.0] Mana.
 - x3 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 - x3 While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it.
+- x4 Each time Chain Lightning bounces, gain [1.5 - 3.0] Mana.
 - x4 Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill.
 
 # Chest 4 (Non-Elemental)
