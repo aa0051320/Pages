@@ -8,13 +8,13 @@ published: false
 # {{ page.title }}
 
 # Bag
+- x'1 Deal [15 - 25%] increased damage while you have a Barrier active.
 - x'1 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 - x'1 While Ice Armor is active, you leave behind exploding Ice Spikes that deal [X] damage. Your Ice Spikes Chill enemies for 15%.
 - x'1 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
 - x'2 You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
 - x'4 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 - x0 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
-- x0 Deal [15 - 25%] increased damage while you have a Barrier active.
 - x1 Chain Lightning has a [30 - 40%] chance to chain 4 additional times.
 - x1 Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen.
 - x1 Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage.
