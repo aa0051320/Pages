@@ -28,7 +28,6 @@ published: false
 - x'1 While Deep Freeze is active, exploding Ice Spikes form in the area, dealing [X] Cold Damage. Your Ice Spikes have [50%] increased explosion radius.
 - x1 Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds.
 - x1 While you have a Barrier active, there is a [7 - 13%] chance to ignore incoming direct damage from Distant enemies.
-- x1 You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
 - x2 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 - x2 Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen.
 - x2 Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage.
@@ -37,6 +36,7 @@ published: false
 - x2 When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds.
 - x2 While Deep Freeze is active, you restore [20 - 30%] of your Maximum Life and Mana per second.
 - x2 While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage.
+- x2 You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
 - x2 You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies.
 - x3 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
 - x3 Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%].

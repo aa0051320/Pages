@@ -10,18 +10,15 @@ published: false
 # YouTube
 
 ## Title
-Ball Lightning | Lilith 4P Standard
+Kill Boss Training Dummy with only 1 cast of Ball Lightning (4 Elements)
 
 ## Comment
-4P: The highest HP version.
-1 Carry 3: Only 1 person deal damage, the other 3 teammates only take a walk.
-
-Patch: 1.2.2
+Patch: 1.2.3
 Realm: Eternal Realm
 Class: Sorcerer
-Location: Echo of Hatred
+Location: The Training Grounds
 
-Build Plan: https://d4builds.gg/builds/461a8a46-f9be-43e7-9783-ae5fd08d127d/
+Build Plan: https://d4builds.gg/builds/723b7eae-9c5f-4f2b-a315-d0cd889aa5cd/
 Please check out the latest video for a better Build Plan.
 
 #PS5Share #DiabloIV #Diablo4
