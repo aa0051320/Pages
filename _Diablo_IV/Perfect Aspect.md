@@ -8,6 +8,7 @@ published: false
 # {{ page.title }}
 
 # Bag
+- x'1 Ball Lightning orbits around you and deals x [15 - 25%] increased damage.
 - x'1 Deal [15 - 25%] increased damage while you have a Barrier active.
 - x'1 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 - x'1 While Ice Armor is active, you leave behind exploding Ice Spikes that deal [X] damage. Your Ice Spikes Chill enemies for 15%.
