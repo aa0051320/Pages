@@ -33,7 +33,7 @@ published: false
 - x Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen.
 - x Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage.
 - x Gain + [20 - 30%] increased damage to a set of damage types for 7 seconds. This effect alternates between 2 sets: • Fire, Lightning, and Physical. • Cold, Poison, and Shadow.
-- x Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit.
+- x3 Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit.
 - x When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds.
 - x While Deep Freeze is active, you restore [20 - 30%] of your Maximum Life and Mana per second.
 - x While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage.
