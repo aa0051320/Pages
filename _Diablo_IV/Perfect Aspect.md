@@ -10,9 +10,9 @@ published: false
 # Bag
 - x'1 Ball Lightning orbits around you and deals x [15 - 25%] increased damage.
 - x'1 Deal [15 - 25%] increased damage while you have a Barrier active.
-- x'1 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 - x'1 While Ice Armor is active, you leave behind exploding Ice Spikes that deal [X] damage. Your Ice Spikes Chill enemies for 15%.
 - x'1 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
+- x'2 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 - x'2 You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
 - x'4 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 - x0 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
@@ -93,10 +93,10 @@ published: false
 - x2 Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%.
 - x2 Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy.
 - x2 Lucky Hit: When your Conjuration Skills hit you have up to a [30 - 40%] chance to gain +1 Rank to your Conjuration skills for 12 seconds. This can stack up to 3 times.
-- x2 Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy.
 - x2 Skills deal up to [10 - 20%] increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource.
 - x2 Taking direct damage has a [2 - 6%] chance to reset the Cooldown of one of your Defensive Skills.
 - x2 While Unstoppable and for 4 seconds after, you gain [10 - 25%] increased Movement Speed and can move freely through enemies.
 - x2 You gain [0.6 - 1.1%] increased Armor for 4 seconds when you deal any form of damage, stacking up to [36 - 66%].
 - x2 You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration.
 - x2 You have 20% increased Crowd Control Duration. While enemies are Unstoppable, you deal [20 - 40%] increased damage to them.
+- x3 Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy.
