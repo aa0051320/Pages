@@ -9,10 +9,10 @@ published: false
 
 # Bag
 - x'1 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
-- x'2 Ball Lightning orbits around you and deals x [15 - 25%] increased damage.
 - x'2 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 - x'2 Deal [15 - 25%] increased damage while you have a Barrier active.
 - x'2 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
+- x'3 Ball Lightning orbits around you and deals x [15 - 25%] increased damage.
 - x0 Chain Lightning has a [30 - 40%] chance to chain 4 additional times.
 - x0 Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen.
 - x0 Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage.
