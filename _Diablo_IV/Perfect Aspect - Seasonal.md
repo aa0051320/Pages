@@ -36,12 +36,12 @@ published: false
 - x1 While you have a Barrier active, there is a [7 - 13%] chance to ignore incoming direct damage from Distant enemies.
 - x2 Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds.
 - x2 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
-- x2 Deal [15 - 25%] increased damage while you have a Barrier active.
 - x2 Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%].
 - x2 Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage.
 - x2 While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage.
 - x2 You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies.
 - x2 Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active.
+- x3 Deal [15 - 25%] increased damage while you have a Barrier active.
 - x3 Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit.
 - x3 The Avalanche Key Passive now applies to 1 additional cast.
 
