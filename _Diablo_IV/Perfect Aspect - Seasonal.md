@@ -25,12 +25,12 @@ published: false
 - x1 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
 
 # Chest 2 (Cold, Elemental)
-- x'1 When you cast Blizzard it will periodically spawn exploding Ice Spikes that deal [X] damage. Your Ice Spikes deal 15% increased damage to Frozen enemies.
 - x0 While Deep Freeze is active, exploding Ice Spikes form in the area, dealing [X] Cold Damage. Your Ice Spikes have [50%] increased explosion radius.
 - x0 You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
 - x1 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
 - x1 Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen.
 - x1 Gain + [20 - 30%] increased damage to a set of damage types for 7 seconds. This effect alternates between 2 sets: • Fire, Lightning, and Physical. • Cold, Poison, and Shadow.
+- x1 When you cast Blizzard it will periodically spawn exploding Ice Spikes that deal [X] damage. Your Ice Spikes deal 15% increased damage to Frozen enemies.
 - x1 When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds.
 - x1 While Deep Freeze is active, you restore [20 - 30%] of your Maximum Life and Mana per second.
 - x1 While you have a Barrier active, there is a [7 - 13%] chance to ignore incoming direct damage from Distant enemies.
@@ -57,7 +57,6 @@ published: false
 - x1 Collecting Crackling Energy increases your Movement Speed by + [10 - 15%] for 8 seconds.
 - x1 Flame Shield lets you move unhindered through enemies. Enemies you move through while Flame Shield is active are Immobilized for [2.0 - 3.0] seconds.
 - x1 Gain [25 - 30%] Movement Speed for 3 seconds after Teleporting.
-- x1 Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40%]. Double this bonus against Healthy enemies.
 - x1 Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it.
 - x1 The Vyr's Mastery Key Passive also grants x [6.0 - 9.0%] Damage Reduction for each Close enemy, up to x [18 - 27%].
 - x1 While channeling Incinerate, your Burning damage is increased by x [20 - 40%].
@@ -65,13 +64,14 @@ published: false
 - x2 After spending [200 - 100] Mana your next Firewall is free to cast and will destroy incoming Small Missiles.
 - x2 Charged Bolts pierce, but deal [60 - 40%] less damage to targets hit after the first.
 - x2 Each time Chain Lightning bounces, gain [1.5 - 3.0] Mana.
+- x2 Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40%]. Double this bonus against Healthy enemies.
+- x2 Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill.
 - x2 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 - x2 While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it.
-- x3 Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill.
 
 # Chest 4 (Non-Elemental)
 - x'1 Damaging an Elite enemy grants you a Barrier absorbing up to [X] damage for 10 seconds. This effect can only happen once every 30 seconds.
-- x'1 You Heal for [X] Life per second for each Close enemy, up to [X] Life per second.
+- x'2 You Heal for [X] Life per second for each Close enemy, up to [X] Life per second.
 - x0 After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds.
 - x0 Basic Skills grant 20% Damage Reduction for [2.0 - 6.0] seconds.
 - x0 Critical Strikes grant [8.0 - 16.0%] Movement Speed for 1 second, up to 6 seconds.
