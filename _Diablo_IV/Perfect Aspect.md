@@ -11,12 +11,12 @@ published: false
 - x'1 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
 - x'1 Deal [15 - 25%] increased damage while you have a Barrier active.
 - x'1 While Ice Armor is active, you leave behind exploding Ice Spikes that deal [X] damage. Your Ice Spikes Chill enemies for 15%.
-- x'1 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
 - x'2 Ball Lightning orbits around you and deals x [15 - 25%] increased damage.
 - x'2 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 - x'3 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 - x0 When hit while not Healthy, a magical bubble is summoned around you for [3 - 5] seconds. While standing in the bubble players are Immune. Can only occur once every 90 seconds.
 - x0 You gain [0.6 - 1.1%] increased Armor for 4 seconds when you deal any form of damage, stacking up to [36 - 66%].
+- x0 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
 - x1 Chain Lightning has a [30 - 40%] chance to chain 4 additional times.
 - x1 Crackling Energy has a [30 - 40%] chance to chain to an additional enemy.
 - x1 Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen.
@@ -88,7 +88,6 @@ published: false
 - x1 When there are at least 5 Close enemies, Stun them for [2 - 4] seconds. This can only occur once every 20 seconds.
 - x1 You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies.
 - x1 You have 8% increased Dodge Chance versus enemies affected by Damage Over Time effects. When you Dodge, you gain [5 - 10] of your Primary Resource.
-- x1 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
 - x2 Critical Strikes grant [8.0 - 16.0%] Movement Speed for 1 second, up to 6 seconds.
 - x2 Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%.
 - x2 Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy.
@@ -100,5 +99,6 @@ published: false
 - x2 You gain 20% Movement Speed. Lose this bonus for 2.5-5 seconds after taking damage.
 - x2 You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration.
 - x2 You have 20% increased Crowd Control Duration. While enemies are Unstoppable, you deal [20 - 40%] increased damage to them.
+- x2 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
 - x2 Your Mana Regeneration is increased by x [40 - 50%] if you have not taken damage in the last 2 seconds.
 - x3 Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy.
