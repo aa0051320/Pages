@@ -67,10 +67,10 @@ published: false
 - +2 The Avalanche Key Passive now applies to 1 additional cast.
 - +2 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 - +2 While channeling Incinerate, your Burning damage is increased by x [20 - 40%].
-- +2 While Deep Freeze is active, exploding Ice Spikes form in the area, dealing [X] Cold Damage. Your Ice Spikes have [50%] increased explosion radius.
 - +2 While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage.
 - +2 You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies.
 - +2 You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%].
+- +3 While Deep Freeze is active, exploding Ice Spikes form in the area, dealing [X] Cold Damage. Your Ice Spikes have [50%] increased explosion radius.
 
 # Chest 4 (Non-Elemental)
 - +1 'You Heal for [X] Life per second for each Close enemy, up to [X] Life per second.

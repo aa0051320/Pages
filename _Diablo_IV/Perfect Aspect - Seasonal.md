@@ -66,8 +66,8 @@ published: false
 - +2 Each time Chain Lightning bounces, gain [1.5 - 3.0] Mana.
 - +2 Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40%]. Double this bonus against Healthy enemies.
 - +2 Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill.
-- +2 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 - +2 While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it.
+- +3 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 
 # Chest 4 (Non-Elemental)
 - + After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds.
