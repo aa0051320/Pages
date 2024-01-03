@@ -20,6 +20,7 @@ published: false
 - +1 'Ball Lightning orbits around you and deals x [15 - 25%] increased damage.
 - +1 'Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
 - +1 'Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
+- +1 'While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 - +1 'You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
 - +1 Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage.
 - +1 Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit.
@@ -50,7 +51,6 @@ published: false
 - +1 Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds.
 - +1 Coming in contact with your Firewall grants you + [15 - 25%] Movement Speed for 6 seconds.
 - +1 Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen.
-- +1 Gain + [20 - 30%] increased damage to a set of damage types for 7 seconds. This effect alternates between 2 sets: • Fire, Lightning, and Physical. • Cold, Poison, and Shadow.
 - +1 Meteorites fall around Meteor, dealing [X] Fire damage in impact. Your Meteorites additionally Burn enemies they hit for [X] damage over 6 seconds.
 - +1 When you cast Blizzard it will periodically spawn exploding Ice Spikes that deal [X] damage. Your Ice Spikes deal 15% increased damage to Frozen enemies.
 - +1 When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds.
@@ -61,15 +61,16 @@ published: false
 - +2 Flame Shield lets you move unhindered through enemies. Enemies you move through while Flame Shield is active are Immobilized for [2.0 - 3.0] seconds.
 - +2 Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%].
 - +2 Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage.
+- +2 Gain + [20 - 30%] increased damage to a set of damage types for 7 seconds. This effect alternates between 2 sets: • Fire, Lightning, and Physical. • Cold, Poison, and Shadow.
 - +2 Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit.
 - +2 Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40%]. Double this bonus against Healthy enemies.
 - +2 Lucky Hit: Damage from your Pyromancy skills has up to a [12 - 17%] chance to restore 10 Mana.
 - +2 The Avalanche Key Passive now applies to 1 additional cast.
-- +2 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 - +2 While channeling Incinerate, your Burning damage is increased by x [20 - 40%].
 - +2 While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage.
 - +2 You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies.
 - +2 You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%].
+- +3 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 - +3 While Deep Freeze is active, exploding Ice Spikes form in the area, dealing [X] Cold Damage. Your Ice Spikes have [50%] increased explosion radius.
 
 # Chest 4 (Non-Elemental)
