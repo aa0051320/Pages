@@ -87,7 +87,6 @@ published: false
 - +1 Using a Cooldown restores [15 - 25] Mana.
 - +1 When hit while not Healthy, a magical bubble is summoned around you for [3 - 5] seconds. While standing in the bubble players are Immune. Can only occur once every 90 seconds.
 - +1 You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies.
-- +1 You have 8% increased Dodge Chance versus enemies affected by Damage Over Time effects. When you Dodge, you gain [5 - 10] of your Primary Resource.
 - +2 Critical Strikes grant [8.0 - 16.0%] Movement Speed for 1 second, up to 6 seconds.
 - +2 Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%.
 - +2 Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy.
@@ -99,6 +98,7 @@ published: false
 - +2 You gain 20% Movement Speed. Lose this bonus for [5.0 - 2.5] seconds after taking damage.
 - +2 You have [10 - 20%] increased Critical Strike Chance against Injured enemies. While you are Healthy, you gain [20 - 40%] increased Crowd Control Duration.
 - +2 You have 20% increased Crowd Control Duration. While enemies are Unstoppable, you deal [20 - 40%] increased damage to them.
+- +2 You have 8% increased Dodge Chance versus enemies affected by Damage Over Time effects. When you Dodge, you gain [5 - 10] of your Primary Resource.
 - +2 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
 - +2 Your Mana Regeneration is increased by x [40 - 50%] if you have not taken damage in the last 2 seconds.
 - +3 Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy.
