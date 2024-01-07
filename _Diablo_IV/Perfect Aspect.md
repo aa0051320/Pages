@@ -74,7 +74,6 @@ published: false
 - +3 While Deep Freeze is active, exploding Ice Spikes form in the area, dealing [X] Cold Damage. Your Ice Spikes have [50%] increased explosion radius.
 
 # Chest 4 (Non-Elemental)
-- +1 'You Heal for [X] Life per second for each Close enemy, up to [X] Life per second.
 - +1 After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds.
 - +1 Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by [5 - 10%], up to 30%.
 - +1 Basic Skills gain [15 - 30%] Attack Speed.
@@ -87,6 +86,7 @@ published: false
 - +1 Using a Cooldown restores [15 - 25] Mana.
 - +1 When hit while not Healthy, a magical bubble is summoned around you for [3 - 5] seconds. While standing in the bubble players are Immune. Can only occur once every 90 seconds.
 - +1 You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies.
+- +1 You Heal for [X] Life per second for each Close enemy, up to [X] Life per second.
 - +2 Critical Strikes grant [8.0 - 16.0%] Movement Speed for 1 second, up to 6 seconds.
 - +2 Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%.
 - +2 Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy.
