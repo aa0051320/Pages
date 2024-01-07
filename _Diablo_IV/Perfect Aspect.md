@@ -80,7 +80,6 @@ published: false
 - +1 Basic Skills grant 20% Damage Reduction for [2.0 - 6.0] seconds.
 - +1 Becoming Injured while Crowd Controlled grants you Unstoppable for 4 seconds. This effect has a [40 - 20] second Cooldown.
 - +1 Casting a Basic Skill reduces the Mana cost of your next Core Skill or Mastery Skill by [15 - 25%].
-- +1 Distant enemies have a 8% chance to be Stunned for 2 seconds when they hit you. You deal [10 - 20%] increased damage to Stunned enemies.
 - +1 Gain [20 - 40] of your Primary Resource for every 25% of your Life that you Heal.
 - +1 Thorns damage dealt has a [20 - 40%] chance to deal damage to all enemies around you.
 - +1 Using a Cooldown restores [15 - 25] Mana.
@@ -89,6 +88,7 @@ published: false
 - +1 You Heal for [X] Life per second for each Close enemy, up to [X] Life per second.
 - +2 Critical Strikes grant [8.0 - 16.0%] Movement Speed for 1 second, up to 6 seconds.
 - +2 Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%.
+- +2 Distant enemies have a 8% chance to be Stunned for 2 seconds when they hit you. You deal [10 - 20%] increased damage to Stunned enemies.
 - +2 Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy.
 - +2 Lucky Hit: When your Conjuration Skills hit you have up to a [30 - 40%] chance to gain +1 Rank to your Conjuration skills for 12 seconds. This can stack up to 3 times.
 - +2 Skills deal up to [10 - 20%] increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource.
