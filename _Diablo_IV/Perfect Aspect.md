@@ -9,7 +9,6 @@ published: false
 
 # Bag
 - + Ball Lightning orbits around you and deals x [15 - 25%] increased damage.
-- + Chain Lightning has a [30 - 40%] chance to chain 4 additional times.
 - + Crackling Energy has a [30 - 40%] chance to chain to an additional enemy.
 - + Deal [15 - 25%] increased damage while you have a Barrier active.
 - + Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen.
@@ -22,6 +21,8 @@ published: false
 - +1 'Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 - +1 'While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 - +1 'You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
+- +1 Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by [5 - 10%], up to 30%.
+- +1 Chain Lightning has a [30 - 40%] chance to chain 4 additional times.
 - +1 Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage.
 - +1 Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit.
 - +1 The Avalanche Key Passive now applies to 1 additional cast.
@@ -29,7 +30,9 @@ published: false
 
 # Chest 2 (Favourite)
 - +1 'Damaging an Elite enemy grants you a Barrier absorbing up to [X] damage for 10 seconds. This effect can only happen once every 30 seconds.
+- +1 Damaging an Elite enemy grants you a Barrier absorbing up to [X] damage for 10 seconds. This effect can only happen once every 30 seconds.
 - +1 While you have a Barrier active, there is a [7 - 13%] chance to ignore incoming direct damage from Distant enemies.
+- +2 Ball Lightning orbits around you and deals x [15 - 25%] increased damage.
 - +2 Charged Bolts pierce, but deal [60 - 40%] less damage to targets hit after the first.
 - +2 Collecting Crackling Energy increases your Movement Speed by + [10 - 15%] for 8 seconds.
 - +2 Crackling Energy has a [30 - 40%] chance to chain to an additional enemy.
@@ -37,7 +40,6 @@ published: false
 - +2 Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it.
 - +2 The Vyr's Mastery Key Passive also grants x [6.0 - 9.0%] Damage Reduction for each Close enemy, up to x [18 - 27%].
 - +2 You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
-- +3 Ball Lightning orbits around you and deals x [15 - 25%] increased damage.
 - +3 Chain Lightning has a [30 - 40%] chance to chain 4 additional times.
 - +3 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
 - +3 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
@@ -50,20 +52,20 @@ published: false
 # Chest 3 (Elemental)
 - +1 Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds.
 - +1 Coming in contact with your Firewall grants you + [15 - 25%] Movement Speed for 6 seconds.
-- +1 Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen.
-- +1 Meteorites fall around Meteor, dealing [X] Fire damage in impact. Your Meteorites additionally Burn enemies they hit for [X] damage over 6 seconds.
 - +1 When you cast Blizzard it will periodically spawn exploding Ice Spikes that deal [X] damage. Your Ice Spikes deal 15% increased damage to Frozen enemies.
 - +1 When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds.
 - +1 While Deep Freeze is active, you restore [20 - 30%] of your Maximum Life and Mana per second.
 - +1 You deal [10 - 30%] bonus Burning damage to enemies who are below 50% of their total Life. While enemies are affected by more Damage Over Time than their total Life, you deal [80 - 100%] increased Burning damage to them.
 - +2 A hail of Meteorites falls during Inferno, dealing [X] Fire Damage on impact. Your Meteorites Immobilize enemies for 3 seconds.
 - +2 After spending [200 - 100] Mana your next Firewall is free to cast and will destroy incoming Small Missiles.
+- +2 Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen.
 - +2 Flame Shield lets you move unhindered through enemies. Enemies you move through while Flame Shield is active are Immobilized for [2.0 - 3.0] seconds.
 - +2 Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%].
 - +2 Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage.
 - +2 Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit.
 - +2 Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40%]. Double this bonus against Healthy enemies.
 - +2 Lucky Hit: Damage from your Pyromancy skills has up to a [12 - 17%] chance to restore 10 Mana.
+- +2 Meteorites fall around Meteor, dealing [X] Fire damage in impact. Your Meteorites additionally Burn enemies they hit for [X] damage over 6 seconds.
 - +2 The Avalanche Key Passive now applies to 1 additional cast.
 - +2 While channeling Incinerate, your Burning damage is increased by x [20 - 40%].
 - +2 While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage.
