@@ -47,7 +47,7 @@ published: false
 - +3 Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill.
 - +3 While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it.
 - +3 Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active.
-- +4 Deal [15 - 25%] increased damage while you have a Barrier active.
+- +5 Deal [15 - 25%] increased damage while you have a Barrier active.
 
 # Chest 3 (Elemental)
 - +1 Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds.
@@ -56,13 +56,11 @@ published: false
 - +1 When you Freeze an enemy there is a [30 - 40%] chance they become Vulnerable for 3 seconds.
 - +1 While Deep Freeze is active, you restore [20 - 30%] of your Maximum Life and Mana per second.
 - +1 You deal [10 - 30%] bonus Burning damage to enemies who are below 50% of their total Life. While enemies are affected by more Damage Over Time than their total Life, you deal [80 - 100%] increased Burning damage to them.
-- +2 A hail of Meteorites falls during Inferno, dealing [X] Fire Damage on impact. Your Meteorites Immobilize enemies for 3 seconds.
 - +2 After spending [200 - 100] Mana your next Firewall is free to cast and will destroy incoming Small Missiles.
 - +2 Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen.
 - +2 Flame Shield lets you move unhindered through enemies. Enemies you move through while Flame Shield is active are Immobilized for [2.0 - 3.0] seconds.
 - +2 Frost Nova gains an additional Charge but the Cooldown per Charge is increased by [40 - 30%].
 - +2 Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage.
-- +2 Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit.
 - +2 Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40%]. Double this bonus against Healthy enemies.
 - +2 Lucky Hit: Damage from your Pyromancy skills has up to a [12 - 17%] chance to restore 10 Mana.
 - +2 Meteorites fall around Meteor, dealing [X] Fire damage in impact. Your Meteorites additionally Burn enemies they hit for [X] damage over 6 seconds.
@@ -71,9 +69,11 @@ published: false
 - +2 While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage.
 - +2 You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies.
 - +2 You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%].
+- +3 A hail of Meteorites falls during Inferno, dealing [X] Fire Damage on impact. Your Meteorites Immobilize enemies for 3 seconds.
 - +3 Gain + [20 - 30%] increased damage to a set of damage types for 7 seconds. This effect alternates between 2 sets: • Fire, Lightning, and Physical. • Cold, Poison, and Shadow.
-- +3 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
-- +3 While Deep Freeze is active, exploding Ice Spikes form in the area, dealing [X] Cold Damage. Your Ice Spikes have [50%] increased explosion radius.
+- +3 Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit.
+- +4 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
+- +5 While Deep Freeze is active, exploding Ice Spikes form in the area, dealing [X] Cold Damage. Your Ice Spikes have [50%] increased explosion radius.
 
 # Chest 4 (Non-Elemental)
 - +1 After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds.
@@ -104,4 +104,4 @@ published: false
 - +2 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
 - +2 Your Mana Regeneration is increased by x [40 - 50%] if you have not taken damage in the last 2 seconds.
 - +3 Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy.
-- +3 Taking direct damage has a [2 - 6%] chance to reset the Cooldown of one of your Defensive Skills.
+- +4 Taking direct damage has a [2 - 6%] chance to reset the Cooldown of one of your Defensive Skills.
