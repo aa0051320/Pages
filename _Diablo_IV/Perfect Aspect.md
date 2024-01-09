@@ -66,6 +66,7 @@ published: false
 - +2 Meteorites fall around Meteor, dealing [X] Fire damage in impact. Your Meteorites additionally Burn enemies they hit for [X] damage over 6 seconds.
 - +2 The Avalanche Key Passive now applies to 1 additional cast.
 - +2 While channeling Incinerate, your Burning damage is increased by x [20 - 40%].
+- +2 While Deep Freeze is active, exploding Ice Spikes form in the area, dealing [X] Cold Damage. Your Ice Spikes have [50%] increased explosion radius.
 - +2 While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25%] less damage.
 - +2 You deal x [25 - 35%] more damage to Immobilized, Stunned, or Frozen enemies.
 - +2 You may have 1 additional Hydra active, and Hydra's duration is increased by [14 - 24%].
@@ -73,7 +74,6 @@ published: false
 - +3 Gain + [20 - 30%] increased damage to a set of damage types for 7 seconds. This effect alternates between 2 sets: • Fire, Lightning, and Physical. • Cold, Poison, and Shadow.
 - +3 Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit.
 - +4 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
-- +5 While Deep Freeze is active, exploding Ice Spikes form in the area, dealing [X] Cold Damage. Your Ice Spikes have [50%] increased explosion radius.
 
 # Chest 4 (Non-Elemental)
 - +1 After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds.
