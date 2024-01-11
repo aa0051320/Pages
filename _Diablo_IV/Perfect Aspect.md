@@ -10,7 +10,6 @@ published: false
 # Bag
 - + Ball Lightning orbits around you and deals x [15 - 25%] increased damage.
 - + Crackling Energy has a [30 - 40%] chance to chain to an additional enemy.
-- + Deal [15 - 25%] increased damage while you have a Barrier active.
 - + Explosions from the Shatter Key Passive deal [30 - 40%] increased damage if enemies die while Frozen.
 - + When hit while not Healthy, a magical bubble is summoned around you for [3 - 5] seconds. While standing in the bubble players are Immune. Can only occur once every 90 seconds.
 - + When there are at least 5 Close enemies, Stun them for [2 - 4] seconds. This can only occur once every 20 seconds.
@@ -19,14 +18,17 @@ published: false
 - + You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
 - +1 'Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
 - +1 'Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
-- +1 'While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 - +1 'You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
 - +1 Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by [5 - 10%], up to 30%.
 - +1 Chain Lightning has a [30 - 40%] chance to chain 4 additional times.
 - +1 Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40%] of its damage.
 - +1 Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit.
+- +1 Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy.
+- +1 Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy.
+- +1 Taking direct damage has a [2 - 6%] chance to reset the Cooldown of one of your Defensive Skills.
 - +1 The Avalanche Key Passive now applies to 1 additional cast.
-- +1 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
+- +2 Deal [15 - 25%] increased damage while you have a Barrier active.
+- +2 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 
 # Chest 2 (Favourite)
 - +1 'Damaging an Elite enemy grants you a Barrier absorbing up to [X] damage for 10 seconds. This effect can only happen once every 30 seconds.
@@ -43,11 +45,11 @@ published: false
 - +3 Chain Lightning has a [30 - 40%] chance to chain 4 additional times.
 - +3 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
 - +3 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
+- +3 Deal [15 - 25%] increased damage while you have a Barrier active.
 - +3 Each time Chain Lightning bounces, gain [1.5 - 3.0] Mana.
 - +3 Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill.
 - +3 While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it.
 - +3 Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active.
-- +5 Deal [15 - 25%] increased damage while you have a Barrier active.
 
 # Chest 3 (Elemental)
 - +1 Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds.
@@ -73,27 +75,29 @@ published: false
 - +3 A hail of Meteorites falls during Inferno, dealing [X] Fire Damage on impact. Your Meteorites Immobilize enemies for 3 seconds.
 - +3 Gain + [20 - 30%] increased damage to a set of damage types for 7 seconds. This effect alternates between 2 sets: • Fire, Lightning, and Physical. • Cold, Poison, and Shadow.
 - +3 Ice Shards pierce [3 - 4] times, dealing [25 - 20%] less damage per subsequent enemy hit.
-- +4 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
+- +3 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50%].
 
 # Chest 4 (Non-Elemental)
 - +1 After Immobilize wears off, enemies are Slowed by [40 - 60%] for 4 seconds.
 - +1 Attacking enemies with a Basic Skill increases the damage of your next Core Skill cast by [5 - 10%], up to 30%.
-- +1 Basic Skills gain [15 - 30%] Attack Speed.
 - +1 Basic Skills grant 20% Damage Reduction for [2.0 - 6.0] seconds.
 - +1 Becoming Injured while Crowd Controlled grants you Unstoppable for 4 seconds. This effect has a [40 - 20] second Cooldown.
 - +1 Casting a Basic Skill reduces the Mana cost of your next Core Skill or Mastery Skill by [15 - 25%].
 - +1 Gain [20 - 40] of your Primary Resource for every 25% of your Life that you Heal.
+- +1 Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy.
 - +1 Thorns damage dealt has a [20 - 40%] chance to deal damage to all enemies around you.
 - +1 Using a Cooldown restores [15 - 25] Mana.
 - +1 When hit while not Healthy, a magical bubble is summoned around you for [3 - 5] seconds. While standing in the bubble players are Immune. Can only occur once every 90 seconds.
 - +1 You gain [20 - 40%] increased Movement Speed when moving away from Slowed or Chilled enemies.
 - +1 You Heal for [X] Life per second for each Close enemy, up to [X] Life per second.
+- +2 Basic Skills gain [15 - 30%] Attack Speed.
 - +2 Critical Strikes grant [8.0 - 16.0%] Movement Speed for 1 second, up to 6 seconds.
 - +2 Deal [5.0 - 10.0%] increased damage for each second you stand still, up to 30%.
 - +2 Distant enemies have a 8% chance to be Stunned for 2 seconds when they hit you. You deal [10 - 20%] increased damage to Stunned enemies.
-- +2 Lucky Hit: When you hit a Crowd Controlled enemy, there is up to a [30 - 50%] chance for that Crowd Control effect to spread to another unaffected enemy.
 - +2 Lucky Hit: When your Conjuration Skills hit you have up to a [30 - 40%] chance to gain +1 Rank to your Conjuration skills for 12 seconds. This can stack up to 3 times.
+- +2 Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy.
 - +2 Skills deal up to [10 - 20%] increased damage based on your available Primary Resource when cast, receiving the maximum benefit while you have full Primary Resource.
+- +2 Taking direct damage has a [2 - 6%] chance to reset the Cooldown of one of your Defensive Skills.
 - +2 When there are at least 5 Close enemies, Stun them for [2 - 4] seconds. This can only occur once every 20 seconds.
 - +2 While Unstoppable and for 4 seconds after, you gain [10 - 25%] increased Movement Speed and can move freely through enemies.
 - +2 You gain [0.6 - 1.1%] increased Armor for 4 seconds when you deal any form of damage, stacking up to [36 - 66%].
@@ -103,5 +107,3 @@ published: false
 - +2 You have 8% increased Dodge Chance versus enemies affected by Damage Over Time effects. When you Dodge, you gain [5 - 10] of your Primary Resource.
 - +2 You take [20 - 25%] less damage from Crowd Controlled or Vulnerable enemies.
 - +2 Your Mana Regeneration is increased by x [40 - 50%] if you have not taken damage in the last 2 seconds.
-- +3 Restore [1 - 4] of your Primary Resource when you Crowd Control an enemy.
-- +4 Taking direct damage has a [2 - 6%] chance to reset the Cooldown of one of your Defensive Skills.
