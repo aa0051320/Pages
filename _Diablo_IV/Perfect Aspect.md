@@ -34,7 +34,6 @@ published: false
 - +1 'Damaging an Elite enemy grants you a Barrier absorbing up to [X] damage for 10 seconds. This effect can only happen once every 30 seconds.
 - +1 Damaging an Elite enemy grants you a Barrier absorbing up to [X] damage for 10 seconds. This effect can only happen once every 30 seconds.
 - +1 While you have a Barrier active, there is a [7 - 13%] chance to ignore incoming direct damage from Distant enemies.
-- +2 Ball Lightning orbits around you and deals x [15 - 25%] increased damage.
 - +2 Charged Bolts pierce, but deal [60 - 40%] less damage to targets hit after the first.
 - +2 Collecting Crackling Energy increases your Movement Speed by + [10 - 15%] for 8 seconds.
 - +2 Crackling Energy has a [30 - 40%] chance to chain to an additional enemy.
@@ -42,14 +41,15 @@ published: false
 - +2 Lightning Spear has a [41 - 50%] chance to spawn an additional Lightning Spear when you cast it.
 - +2 The Vyr's Mastery Key Passive also grants x [6.0 - 9.0%] Damage Reduction for each Close enemy, up to x [18 - 27%].
 - +2 You deal x [21 - 30%] increased damage to Vulnerable enemies while you have a Barrier.
+- +3 Ball Lightning orbits around you and deals x [15 - 25%] increased damage.
 - +3 Chain Lightning has a [30 - 40%] chance to chain 4 additional times.
 - +3 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0%] increased Critical Strike Chance.
-- +3 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 - +3 Deal [15 - 25%] increased damage while you have a Barrier active.
 - +3 Each time Chain Lightning bounces, gain [1.5 - 3.0] Mana.
 - +3 Unstable Currents has a [10 - 20%] chance to cast an additional Shock Skill.
 - +3 While Unstable Currents is not active, your Shock Skills have a [7 - 12%] chance to trigger a free cast from it.
 - +3 Your Lucky Hit Chance is increased by [10 - 20%] while you have a Barrier active.
+- +4 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25%] for 5 seconds.
 
 # Chest 3 (Elemental)
 - +1 Casting Ice Armor makes you Unstoppable and grants 10% bonus Armor for [3.0 - 5.0] seconds.
