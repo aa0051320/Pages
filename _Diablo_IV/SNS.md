@@ -10,15 +10,16 @@ published: false
 # YouTube
 
 ## Title
-Kill Boss Training Dummy with only 1 cast of Ball Lightning (4 Elements)
+Like a robotic vacuum cleaner
 
 ## Comment
 Patch: 1.2.3
 Realm: Eternal Realm
+World Tier: IV
 Class: Sorcerer
-Location: The Training Grounds
+Location: Sirocco Caverns
 
-Build Plan: https://d4builds.gg/builds/723b7eae-9c5f-4f2b-a315-d0cd889aa5cd/
+Build Plan: https://d4builds.gg/builds/76f66ec4-f466-4d8c-b254-68a7a26b92d3/
 Please check out the latest video for a better Build Plan.
 
 #PS5Share #DiabloIV #Diablo4
