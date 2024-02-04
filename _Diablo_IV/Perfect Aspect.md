@@ -24,11 +24,11 @@ published: false
 - +1 The Avalanche Key Passive now applies to 1 additional cast.
 - +1 When hit while not Healthy, a magical bubble is summoned around you for [3 - 5] seconds. While standing in the bubble players are Immune. Can only occur once every 90 seconds.
 - +1 When there are at least 5 Close enemies, Stun them for [2 - 4] seconds. This can only occur once every 20 seconds.
-- +1 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50]%.
 - +1 You take [20 - 25]% less damage from Crowd Controlled or Vulnerable enemies.
 - +2 'Ball Lightning orbits around you and deals x [15 - 25]% increased damage.
 - +2 'Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0]% increased Critical Strike Chance.
 - +2 Deal [15 - 25]% increased damage while you have a Barrier active.
+- +2 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50]%.
 
 # Last Season
 - +1 After spending [200 - 100] Mana your next Firewall is free to cast and will destroy incoming Small Missiles.
