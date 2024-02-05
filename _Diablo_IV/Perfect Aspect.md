@@ -103,13 +103,13 @@ published: false
 - +2 You deal x [21 - 30]% increased damage to Vulnerable enemies while you have a Barrier.
 - +3 Ball Lightning orbits around you and deals x [15 - 25]% increased damage.
 - +3 Chain Lightning has a [30 - 40]% chance to chain 4 additional times.
-- +3 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0]% increased Critical Strike Chance.
 - +3 Deal [15 - 25]% increased damage while you have a Barrier active.
 - +3 Each time Chain Lightning bounces, gain [1.5 - 3.0] Mana.
 - +3 Unstable Currents has a [10 - 20]% chance to cast an additional Shock Skill.
 - +3 While Unstable Currents is not active, your Shock Skills have a [7 - 12]% chance to trigger a free cast from it.
-- +3 Your Lucky Hit Chance is increased by [10 - 20]% while you have a Barrier active.
+- +4 Core or Mastery Skills cast at or above 100 Mana gain a [20.0 - 40.0]% increased Critical Strike Chance.
 - +4 Critical Strikes with Core Skills increase your Attack Speed by [15 - 25]% for 5 seconds.
+- +4 Your Lucky Hit Chance is increased by [10 - 20]% while you have a Barrier active.
 
 # Chest 3 (Elemental)
 - + Meteorites fall around Meteor, dealing [20 - 30]% of Meteor's damage on impact. Your Meteorites additionally Burn enemies they hit for [X] damage over 6 seconds.
@@ -126,7 +126,6 @@ published: false
 - +2 Frozen Orb stays in place after reaching its destination and explodes 2 additional times for [30 - 40]% of its damage.
 - +2 Increases the Critical Strike Damage of Meteor and Fireball by x [20% - 40]%. Double this bonus against Healthy enemies.
 - +2 Lucky Hit: Damage from your Pyromancy skills has up to a [12 - 17]% chance to restore 10 Mana.
-- +2 The Avalanche Key Passive now applies to 1 additional cast.
 - +2 While channeling Incinerate, your Burning damage is increased by x [20 - 40]%.
 - +2 While Deep Freeze is active, exploding Ice Spikes form in the area, dealing [X] Cold Damage. Your Ice Spikes have [50]% increased explosion radius.
 - +2 While within your own Blizzard and for 3 seconds after leaving it, you take [20 - 25]% less damage.
@@ -135,6 +134,7 @@ published: false
 - +3 A hail of Meteorites falls during Inferno, dealing [X] Fire Damage on impact. Your Meteorites Immobilize enemies for 3 seconds.
 - +3 Gain + [20 - 30]% increased damage to a set of damage types for 7 seconds. This effect alternates between 2 sets: • Fire, Lightning, and Physical. • Cold, Poison, and Shadow.
 - +3 Ice Shards pierce [3 - 4] times, dealing [25 - 20]% less damage per subsequent enemy hit.
+- +3 The Avalanche Key Passive now applies to 1 additional cast.
 - +3 While both bonuses from Esu's Ferocity Key Passive are active, your Attack Speed is increased by [40 - 50]%.
 
 # Chest 4 (Non-Elemental)
